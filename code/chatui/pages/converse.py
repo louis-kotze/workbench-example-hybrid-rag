@@ -201,7 +201,7 @@ def build_page(client: chat_client.ChatClient) -> gr.Blocks:
                         elem_id="contextbox",
                     )
                 with gr.Row(equal_height=True):
-                    num_token_slider = gr.Slider(0, 512, value=256, label="Max Tokens in Response", interactive=True)
+                    num_token_slider = gr.Slider(0, 16384, value=256, label="Max Tokens in Response", interactive=True)
                     temp_slider = gr.Slider(0, 1, value=0.7, label="Temperature", interactive=True)
                 with gr.Row(equal_height=True):
                     with gr.Column(scale=2, min_width=200):

@@ -48,7 +48,7 @@ class ChatClient:
             "looking up documents - %s", str({"server_url": url, "post_data": data})
         )
 
-        with requests.post(url, headers=headers, json=data, timeout=30) as req:
+        with requests.post(url, headers=headers, json=data, timeout=300) as req:
             response = req.json()
             return typing.cast(
                 typing.List[typing.Dict[str, typing.Union[str, float]]], response
@@ -84,7 +84,7 @@ class ChatClient:
         msg = str({"server_url": url, "post_data": data})
         print(f"making inference request - {msg}")
 
-        with requests.post(url, stream=True, json=data, timeout=10) as req:
+        with requests.post(url, stream=True, json=data, timeout=300) as req:
             for chunk in req.iter_content(16):
                 yield chunk.decode("UTF-8")
 
