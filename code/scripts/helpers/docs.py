@@ -96,7 +96,7 @@ class DocProcessor:
         files = {
             'file': (file_path, open(file_path, 'rb'), mime_type)
         }
-        response = requests.post(self.upload_url, headers=headers, files=files)
+        response = requests.post(self.upload_url, headers=headers, files=files, timeout=10)
 
         if response.status_code != 200:
             raise Exception(f"Document upload failed with status code {response.status_code}: {response.text}")
