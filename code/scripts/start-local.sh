@@ -10,9 +10,9 @@ CUDA_MEMORY_FRACTION=0.95 # adjust the percentage of the GPU being used. Don't g
 
 if [ "$2" = "none" ]
 then
-    text-generation-launcher --model-id $1 --cuda-memory-fraction $CUDA_MEMORY_FRACTION --max-input-length 20000 --max-total-tokens 9999999 --port 9090 &
+    text-generation-launcher --model-id $1 --cuda-memory-fraction $CUDA_MEMORY_FRACTION --max-input-length 8192 --max-total-tokens 8192 --port 9090 &
 else
-    text-generation-launcher --model-id $1 --cuda-memory-fraction $CUDA_MEMORY_FRACTION --max-input-length 20000 --max-total-tokens 9999999 --quantize $2 --port 9090 &
+    text-generation-launcher --model-id $1 --cuda-memory-fraction $CUDA_MEMORY_FRACTION --max-input-length 8192 --max-total-tokens 8192 --quantize $2 --port 9090 &
 fi
 
 sleep 30 # Model warm-up
