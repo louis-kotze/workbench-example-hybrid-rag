@@ -1,0 +1,821 @@
+PSYCHOLOGY, HEALTH & MEDICINE
+2023, VOL. 28, NO. 3, 660–669
+https://doi.org/10.1080/13548506.2022.2121972
+
+Assessment of quality of life and psychological repercussions
+in women with endometriosis according to pain intensity
+Melissa de Barros Meneguettia, Fabia Pigatti Silvaa, Gabriele Natália Diasa,
+Cristina Laguna Benetti-Pinto a and Daniela Angerame Yelab,c
+a
+School of Medical Sciences, University of Campinas (UNICAMP), Campinas (SP), Brazil; bMedical Sciences,
+University of Campinas (Unicamp), Campinas (SP), Brazil; cDepartment of Gynecology and Obstetrics, School
+of Medical Sciences, University of Campinas (Unicamp), Campinas (SP), Brazil
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+The objective is to evaluate quality of life, anxiety, and depression in
+women with endometriosis, and to correlate these parameters with
+pain intensity. This multicenter cross-sectional study was conducted
+on 102 women with endometriosis from 2017 to 2020. The women
+were divided into two groups according to the pain intensity: group
+1 (severe pain, 62 women) and group 2 (mild/moderate pain, 40
+women). The Endometriosis Health Profile Questionnaire, Beck
+Anxiety Inventory, and Beck Depression Inventory were used to
+assess quality of life and levels of anxiety and depression, respec­
+tively. In both groups, mean age and mean body mass index were
+similar (p˃ 0.5). Most women had deep endometriosis and were on
+treatment, but group 2 had a longer treatment time (p = 0.044).
+Group 1 exhibited more depression and anxiety than group 2
+(17.1 ± 9.98 vs. 11.15 ± 9.25, p = 0.003 and 23.71 ± 12.92 vs
+12.58 ± 10.53, p = 0.001, respectively). Women with high pain had
+a significantly worse quality of life than those with low pain
+(48.88 ± 16.02 vs. 23.32 ± 15.93, p < 0.001). Women with endome­
+triosis and high pain intensity have a worse quality of life, and more
+severe levels of anxiety and depression.
+
+Received 1 February 2022
+Revised 26 August 2022
+Accepted 1 September 2022
+KEYWORDS
+
+Endometriosis; anxiety;
+depression; quality of life;
+pain
+
+Introduction
+Endometriosis is a chronic, inflammatory, estrogen-dependent disease, which is char­
+acterized by the presence of endometrial, glandular, and/or stromal tissue outside the
+uterine cavity (Schweppe et al., 2013). The incidence of endometriosis among women in
+menacme ranges from 6% to 10% (Burney & Giudice, 2012). Symptoms vary, and include
+pain and infertility, with a significant impact on women’s quality of life in the physical,
+psychological, social, and sexual spheres (Della Corte et al., 2020). In this context,
+depression and anxiety are strongly associated with endometriosis in women (Culley
+et al., 2013; Sepulcri Rde & Do Amaral, 2009).
+Some studies correlate stressful events correlated with the disease with the impairment
+of the mental health of these women (Pope et al., 2015; Zarbo et al., 2017). Studies discuss
+
+CONTACT Daniela Angerame Yela
+yela@unicamp.br
+Departamento de Obstetrícia e Ginecologia, Universidade
+de Campinas – UNICAMP, 101, Rua Alexander Fleming, Cidade Universitária, CEP 13083-881 Campinas, SP, Brasil
+© 2022 Informa UK Limited, trading as Taylor & Francis Group
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+661
+
+a vicious cycle of maintenance of pain and negative feelings related to this symptom that
+significantly impact the mental health of women with endometriosis (Lagana et al., 2017;
+Zarbo et al., 2019).
+Globally, endometriosis affects women’s quality of life (QoL) and sexual function,
+both physically and emotionally. The mental health of women with endometriosis can be
+affected by physical factors such as pain and by women’s personal factors (Facchin et al.,
+2017). It is still questioned how much pain can compromise the emotional aspects of
+these women. Thus, this study aimed to assess QoL, anxiety, and depression in women
+with endometriosis, in addition to correlating these parameters with intensity of pain.
+
+Methods
+A multicenter cross-sectional study was carried out on 102 women with endometriosis
+who were followed up at the University of Campinas and at Pérola Byington Hospital
+from December 2017 to December 2020.
+Women aged between 18 and 40 years, without infertility, and with a surgical or
+clinical diagnosis of endometriosis [based on imaging tests such as transvaginal ultra­
+sound with bowel preparation (Guerriero et al., 2016) or magnetic resonance imaging
+(Medeiros et al., 2015)] were included. Women with cognitive deficits that make it
+impossible to understand the questionnaires, those with chronic diseases that can affect
+QoL (such as rheumatoid arthritis, heart diseases, hematological diseases such as sickle
+cell anemia, kidney disease, liver disease, neuropathies, and multiple sclerosis), women
+diagnosed with psychiatric disorders such as mood disorders including depression,
+bipolar disorder, or generalized anxiety disorder before the diagnosis of endometriosis,
+and women in the recent postoperative period (less than 6 months) were excluded.
+The variables evaluated were age, race (white or non-white), education (primary
+education or higher), income (calculated with respect to the minimum wage which was
+R$ 1,045.00), professional activity (employed or not [unemployed, housewives, and
+students]), marital status, number of pregnancies, parity, number of children, religion
+(yes or no), body mass index (BMI: calculated as weight in kilograms divided by the
+square of height in meters), smoking (yes or no), physical activity (yes or no), frequency
+of physical activity (days per week), treatment used (estrogen and progestin hormone
+therapy), previous surgeries (laparotomy or laparoscopy), pain symptoms (dysmenor­
+rhea, chronic pelvic pain, dyspareunia, dyschezia, and dysuria), anxiety, depression,
+and QoL.
+Pain symptoms were assessed using the visual analog pain scale (VAS), which is scored
+from 0 to 10, where 0 is painless and 10 is the highest pain intensity experienced by the
+women. Pain was classified as mild when the score was 1–3, moderate when the score was
+4–7, and severe when it was greater than 7. The women were divided into two groups
+according to their symptoms, and the women who presented severe pain scores were
+grouped into the severe pain (group 1, n = 62, women with VAS>7), while women who
+had mild-to-moderate pain scores were included in the group with mild/moderate pain
+(group 2, n = 40, women with VAS ≤7). The VAS refers to the last month before the
+interview.
+The degree of endometriosis was defined as superficial (lesions with invasion less than
+5 mm from the peritoneal surface) and deep (lesions located more than 5 mm from the
+
+662
+
+M. DE BARROS MENEGUETTI ET AL.
+
+peritoneal surface, usually located in the uterosacral ligaments, Douglas pouch, rectova­
+ginal septum, rectum, and sigmoid). All women underwent a transvaginal ultrasound
+with intestinal preparation or magnetic resonance imaging to assess the presence of
+profound endometriosis; when the examination showed no changes and the clinical
+picture was suggestive of endometriosis, laparoscopy was performed to confirm the
+diagnosis of endometriosis. Thus, we evaluated superficial and deep endometriosis.
+Depression was assessed using the Beck Depression Inventory (BDI). It consists of 21
+items, including symptoms and attitudes, which are scored from 0 to 3. The classification
+was defined as no depression (less than 10 points), mild depression (10–18 points),
+moderate depression (19–29 points), and severe depression (30–63 points; A T Beck
+et al., 1961).
+Anxiety was assessed using the Beck Anxiety Inventory (BAI). It is composed of 21
+items, with a score from 0 to 3, which reflect the symptoms of anxiety in a somatic,
+affective, and cognitive manner. Such symptoms are considered common in anxiety
+disorders, and are assessed by asking the degree to which the subject was affected by
+each of them during the past week. The final score is indicative of the degree of anxiety,
+which is classified as minimum anxiety (0–7 points), mild anxiety (8–15 points), mod­
+erate anxiety (16–25 points), and severe anxiety (26–63 points; AT Beck et al., 1988).
+QoL was assessed using the Endometriosis Health Profile Questionnaire (EHP-30).
+The questionnaire was divided into two parts. The core questionnaire consists of five
+subscales: pain, control and powerlessness, emotional well-being, social support, and selfimage. The second modular part of the questionnaire was not always applicable. It
+consists of six subscales: work, relationship with children, sexual intercourse, infertility,
+medical profession, and treatment. The scores are transformed in a range of 0 to 100
+(total score EHP-30 core questionnaire 0–500), in which a higher score corresponds to
+a lower disease-specific QoL. If an item in a subscale was not answered, no score could be
+calculated for that subscale (Jones et al., 2001; Mengarda et al., 2008).
+All women signed an informed consent form before participation in the study. This
+study was approved by the Research Ethics Committee of the institution (number: 4
+348 487).
+
+Statistical analysis
+The chi-square test and Fisher’s exact test were used to test the association between
+categorical variables. The Mann-Whitney test was used to test the association between
+continuous variables. Spearman’s correlation coefficient was used to analyze the relation­
+ship between the numerical variables. Variables are reported as mean standard deviation
+(SD). Calculate the effect size of the comparisons were calculated. For numerical variables
+we use Cohen’s d and for categorical variables Cohen’s h. A probability value (P value) of
+<0.05 was considered statistically significant. SAS version 9.04 (SAS Inc., Cary, NC) was
+used for all statistical analyses.
+
+Results
+Women in group 1 had a mean age of 33.89 ± 5.71 years, and an average BMI of
+27.60 ± 4.54 kg/m2, while those in group 2 had a mean age of 33.85 ± 5.60 years and
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+663
+
+an average BMI of 26.27 ± 4.85 kg/m2 (p = 0.953 and 0.106, respectively). Women in
+group 1 had a higher number of pregnancies and children compared to those in group 2
+(p < 0.001). There was no difference in physical activity, professional activity, and income
+between the groups (p = 0.656, 0.357, and 0.190, respectively). In both groups, most
+women had deep endometriosis and were receiving treatment, although group 2 had
+a longer treatment time (p = 0.044). (Table 1).
+Women in group 1 had higher scores for depression and anxiety than those in group 2
+(17.1 ± 9.98 vs. 11.15 ± 9.25, p = 0.003 and 23.71 ± 12.92 vs. 12.58 ± 10.53, p = 0.001
+respectively). Women in group 1 had a significantly worse QoL compared to group 2
+(48.88 ± 16.02 vs. 23.32 ± 15.93, p < 0.001), with the worst results in terms of both
+physical and psychological scores (Table 2).
+While analyzing the correlation of anxiety and depression with QoL, it was observed
+that in women belonging to group 1, the lower the intensity of depression, the greater the
+QoL (p < 0.001). Regarding anxiety, it was observed that women with lower levels of
+anxiety also had a better QoL (p < 0.001). When women in group 2 were analyzed, it was
+observed that the lower the level of depression and anxiety, the better the QoL (p = 0.0063
+and p = 0.0095, respectively; Table 3).
+
+Discussion
+The age of the women in this study ranged from 28 to 34 years, and this age range was
+similar to that reported in previous literature (Cavaggioni et al., 2014; Minson et al.,
+2012). In our study population, most women had deep endometriosis (91.18%); however,
+there are few articles in the literature that distinguish this variable (Yela et al., 2020).
+Although most women in our study had deep endometriosis, some studies have shown
+that there is no correlation between the symptoms and stage of endometriosis (Marinho
+
+Table 1. Clinical and demographic characteristics of women with endometriosis according to pain.
+Variable
+Age
+Nulliparous
+Caucasian
+Income in minimum wages
+Physical activity
+Frequency of physical activity (weekly)
+BMI
+Occupation (yes)
+Stable marital relationship
+Scholarity: basic education
+Religion (yes)
+Hormonal treatment
+Time of treatment (months)
+Deep endometriosis
+Previous laparotomies
+Dysmenorrhea
+Chronic pelvic pain
+Dyspareunia
+Dysuria
+Dyschezia
+
+Group 1
+N = 62
+33.89 ± 5.71
+24.19%
+46.77%
+1.29 ± 1.25
+41.94%
+1.61 ± 2.22
+27.60 ± 4.54
+74.19%
+80.65%
+69.35%
+88.71%
+70.97%
+17.13 ± 25.46
+88.71%
+61.29%
+6.85 ± 4.02
+6.06 ± 3.54
+5.56 ± 4.19
+0.95 ± 2.52
+1.90 ± 3.55
+
+Group 2
+N = 40
+33.85 ± 5.60
+67.50%
+70%
+1.50 ± 1.17
+37.5%
+1.35 ± 1.96
+26.27 ± 4.85
+72.5%
+60%
+42.5%
+82.50%
+90%
+26.93 ± 32.96
+95%
+40%
+1.45 ± 2.21
+1.88 ± 2.48
+1.58 ± 2.57
+0.28 ± 1.22
+0.15 ± 0.95
+
+BMI: Body Mass Index; *Mann-Whitney test; **Chi-square test; ***Fisher test
+
+P – Value
+0.953*
+<0.001**
+0.041***
+0.190*
+0.656**
+0.601*
+0.106*
+0.357***
+0.023**
+0.015**
+0.374**
+0.057**
+0.044*
+0.477***
+0.035**
+<0.001*
+<0.001*
+<0.001*
+0.127*
+0.003*
+
+d Cohen
+h Cohen
+0.01
+0.90
+0.48
+0.17
+0.12
+0.09
+0.28
+0.04
+0.46
+0.55
+0.18
+0.49
+0.33
+0.23
+0.43
+1.66
+1.37
+1.15
+0.34
+0.67
+
+664
+
+M. DE BARROS MENEGUETTI ET AL.
+
+Table 2. Evaluation of quality of life and sexual function of women with endometriosis according to
+pain intensity.
+
+BDI
+BAI
+EHP 30
+Total score
+Pain
+Control and powerlessness
+Emotional well-being
+Social support
+Self-image
+Work
+Relationship with children
+Sexual relationships
+Feelings about medical profession
+Feelings about treatment
+Feelings about infertility
+
+Group 1
+N = 62
+17.1 ± 9.98
+23.71 ± 12.92
+
+Group 2
+N = 40
+11.15 ± 9.25
+12.58 ± 10.53
+
+P – Value
+0.003
+0.001
+
+d Cohen
+h Cohen
+0.62
+0.94
+
+48.88 ± 16.02
+63.49 ± 21.86
+67.20 ± 26.26
+62.57 ± 23.50
+64.31 ± 24.96
+61.69 ± 29.08
+34.35 ± 34.99
+32.26 ± 33.15
+55.65 ± 35.8
+16.73 ± 21.01
+41.67 ± 27.49
+22.78 ± 34.63
+
+23.32 ± 15.93
+22.16 ± 24.74
+26.67 ± 27.62
+40.42 ± 26.87
+30.94 ± 26.02
+26.67 ± 29.43
+9.25 ± 18.62
+5.00 ± 13.81
+24.38 ± 26.49
+7.34 ± 12.33
+20.83 ± 25.18
+36.88 ± 31.55
+
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+< 0.001
+0.005
+< 0.001
+0.009
+
+1.60
+1.77
+1.50
+0.88
+1.31
+1.20
+0.90
+1.07
+0.99
+0.55
+0.79
+0.43
+
+BDI: Beck Depression Inventory, BAI: Beck Anxiety Inventory, EHP 30: Endometriosis Health Profile Questionnaire; MannWhitney test.
+
+et al., 2018; Minson et al., 2012; Sepulcri Rde & Do Amaral, 2009). We observed that
+women with low pain scores had longer treatment times, which could justify the better
+symptoms compared to the group with high pain scores. In the high pain group, women
+had shorter treatment times, which can be explained by the greater number of pregnan­
+cies among these women, longer periods without hormonal drugs to become pregnant,
+and during the gestational period.
+Women in group 2 had better quality of life than those in group 1 when we evaluated
+the total EHP-30 score. When we evaluated the fertility domain, we observed that women
+in group 2 had a worse quality of life in this domain. This can be explained by the fact that
+in this group most women did not have children. Thus, despite infertility having an impact
+on quality of life, the symptom of pain seems to be more relevant than that of infertility in
+quality of life. Another Brazilian study shows pain as a symptom that impacts the quality
+of life of women with endometriosis and infertility (Rodrigues et al., 2020).
+Women with lower levels of depression and anxiety had a better QoL. A recent
+systematic review also showed an inversely proportional correlation of depression and
+anxiety with quality of life in women with endometriosis (Wang et al., 2021). We also
+observed that women with severe pain had worse levels of anxiety and depression, similar
+to the results of previous studies (Warzecha et al., 2020). A study of 109 women with
+endometriosis showed that 86.5% of women had depression and 87.5% anxiety, with
+a positive correlation between the symptom intensity and worsening of anxiety (Sepulcri
+Rde & Do Amaral, 2009). Another study comparing the prevalence of depression among
+women with endometriosis observed that women with pain had more depression (86%)
+than those without pain (38%; Lorençatto et al., 2006).
+All the women underwent treatment in the present cohort. Our results showed that
+there was no statistical difference in the income, profession, religion, physical activity, or
+BMI between women with and without pain. Thus, we can infer that the groups were
+homogeneous in relation to the variables that could interfere with the women’s emo­
+tional well-being.
+
+0.32110
+0.0109
+
+0.30619
+0.0547
+
+0.40280
+0.0012
+
+0.27666
+0.0840
+
+0.21172
+0.0109
+
+0.07996
+0.6238
+
+0.41918
+0.0007
+
+0.21878
+0.1750
+
+Control and
+powerlessness
+
+0.33787
+0.0330
+
+0.56110
+<0.001
+
+0.42677
+0.0060
+
+0.63605
+<0.001
+
+Emotional wellbeing
+
+0.24599
+0.1260
+
+0.58593
+<0.001
+
+0.57609
+0.0001
+
+0.48453
+<0.001
+
+Social
+support
+Work
+
+0.08174
+0.5277
+
+Children
+
+0.42753 0.31003
+0.0059 0.0515
+
+0.23751 0.27978
+0.0631 0.0276
+
+0.04898
+0.7641
+
+0.28754
+0.0234
+
+0.45577 0.23598 −0.19489
+0.0031 0.1427
+0.2282
+
+0.49508 0.38218
+<0.001
+0.0022
+
+Selfimage
+
+BDI: Beck Depression Inventory, BAI: Beck Anxiety Inventory; Spearman correlation coefficient
+
+BDI
+Group 1
+R
+P
+Group 2
+R
+P
+BAI
+Group 1
+R
+P
+Group 2
+R
+P
+
+Pain
+
+0.30679
+0.0542
+
+0.28024
+0.0274
+
+0.11588
+0.4764
+
+0.26993
+0.0339
+
+Sexual
+relationships
+
+0.38221
+0.0149
+
+−0.07296
+0.5730
+
+0.60436
+<0.001
+
+−0.03019
+0.8158
+
+Medical
+profession
+
+0.36829
+0.0194
+
+0.37032
+0.0030
+
+0.56481
+0.0001
+
+0.39541
+0.0015
+
+Total
+score
+
+0.42452
+0.0063
+
+0.20782
+0.1982
+
+0.40532
+0.0095
+
+0.15657
+0.56120
+0.2243 <0.001
+
+0.22603
+0.1608
+
+0.14651
+0.53879
+0.2558 <0.001
+
+Treatment Infertility
+
+Table 3. Correlation between anxiety and depression with the EHP-30 domains for quality of life of women with endometriosis according to severe pain (group
+1 = 62) or low pain (group 2 = 40).
+
+PSYCHOLOGY, HEALTH & MEDICINE
+665
+
+666
+
+M. DE BARROS MENEGUETTI ET AL.
+
+Regarding QoL, our study observed that women with severe pain had worse QoL
+scores than women with mild pain, which is in agreement with the findings of previous
+studies (Della Corte et al., 2020; Souza et al., 2011). However, not all studies used the
+EHP-30 questionnaire to assess the QoL in women with endometriosis. Some studies
+used the SF-36 questionnaire, but on comparing the results of the two questionnaires, it
+was observed that the results were similar (Bourdel et al., 2019; Minson et al., 2012). It is
+observed that women who are treated with hormonal therapy with pain symptom control
+have a better QoL, as was noted with the women with a longer treatment time (group 2)
+in our study (Grandi et al., 2019; Rindos et al., 2020). A study that evaluated the
+perception and intensity of pain in women with endometriosis showed that those with
+worse pain perception (score ≥ 4) had a worse QoL and greater psychological impairment
+(Van Aken et al., 2017).
+As in our study, existing literature supports the notion that women with a higher
+level of pain have a lower QoL (Souza et al., 2011), although only the physical QoL is
+related to physical pain (Sepulcri Rde & Do Amaral, 2009). According to the mediation
+models, increased physical pain and difficulties in emotion regulation can both lead to
+increased psychological stress, which is associated with a deterioration in the QoL. The
+main goal of treatment is to reduce the pain symptoms in order to improve the QoL,
+along with decreasing the societal burden and healthcare costs of endometriosis (Márki
+et al., 2017).
+Women with endometriosis may experience a wide range of pelvic pain.
+Nevertheless, pain and pain-related distress seem to be independent of the stage of
+endometriosis, suggesting that psychosocial factors may be involved in the pain
+experience of women with endometriosis. In particular, controlled cross-sectional
+studies have shown that women with endometriosis report heightened psychological
+distress, including guilt toward their partner, lower feelings of femininity, alteration of
+body image, feelings of loss of control over one’s own body, worthlessness, hope­
+lessness, and alexithymia. Compared to healthy women, women with endometriosis
+reported significantly higher levels of pain catastrophizing, stress, depression, and
+anxiety, with prevalence rates up to 87% (Sepulcri Rde & Do Amaral, 2009; Van
+Aken et al., 2017).
+This study has some limitations, such as the absence of a control group without
+endometriosis and the small sample size. Thus, pain control improves QoL of women
+with endometriosis. Emotional repercussions, such as anxiety and depression, affect these
+women regardless of the pain symptoms, although this impairment is proportional to
+pain intensity.
+So, based on our results, we can suggest that pain leaves a negative impression on
+women that, even when treated, compromises their mental health. Thus, it is important
+that women with endometriosis are approached in a multidisciplinary way to try to
+minimize and treat the damage to their physical and mental health. A systematic review
+shows the association of endometriosis and depression and points to chronic pain as the
+main cause, but I argued that depressive symptoms are also modulated by the social
+context and vulnerability of individuals and suggests that these women be treated in
+a personalized way (Gambadauro et al., 2019).
+In conclusion, women with endometriosis and pain experience more severe anxiety
+and depression. QoL is inversely proportional to intensity of pain symptoms.
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+667
+
+Acknowledgments
+The authors would like to thank Helymar da Costa Machado, a statistician at UNICAMP Women’s
+Hospital, for their contribution to the statistical analysis.
+
+Data availability statement
+The data sets generated during and/or analyzed during the current study are available from the
+corresponding author on reasonable request.
+
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+
+Funding
+The author(s) reported there is no funding associated with the work featured in this article.
+
+Author contributions
+D.A. Yela conceptualized and designed the study. She was also involved in the interpretation of the
+results, and wrote and reviewed the manuscript. M.B. Meneguetti, F.P. Siva, and G.N. Dias
+conceptualized and designed the study, and helped in the acquisition of the data, interpretation
+of results, and writing of the manuscript. C.L. Benetti-Pinto reviewed the manuscript.
+
+ORCID
+Cristina Laguna Benetti-Pinto
+
+http://orcid.org/0000-0001-6198-5593
+
+References
+Beck, A. T., Epstein, N., Brown, G., & Steer, R. A. (1988). An inventory for measuring clinical
+anxiety: Psychometric properties. Journal of Consulting and Clinical Psychology, 56(6), 893–897.
+https://doi.org/10.1037/0022-006X.56.6.893
+Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J. (1961). An inventory for
+measuring depression. Archives of General Psychiatry, 4(6), 561–571. https://doi.org/10.1001/
+archpsyc.1961.01710120031004
+Bourdel, N., Chauvet, P., Billone, V., Douridas, G., Fauconnier, A., Gerbaud, L., Canis, M., &
+Montazeri, A. (2019). Systematic review of quality of life measures in patients with
+endometriosis. PLoS One, 14(1), e0208464. https://doi.org/10.1371/journal.pone.0208464
+Burney, R. O., & Giudice, L. C. (2012). Pathogenesis and pathophysiology of endometriosis.
+Fertility and Sterility, 98(3), 511–519. https://doi.org/10.1016/j.fertnstert.2012.06.029
+Cavaggioni, G., Lia, C., Resta, S., Antonielli, T., Benedetti Panici, P., Megiorni, F., & Porpora, M. G.
+(2014). Are mood and anxiety disorders and alexithymia associated with endometriosis?
+A preliminary study. BioMed Research International, 2014, 786830. https://doi.org/10.1155/
+2014/786830
+Culley, L., Law, C., Hudson, N., Denny, E., Mitchell, H., Baumgarten, M., & Raine-Fenning, N.
+(2013). The social and psychological impact of endometriosis on women’s lives: A critical
+narrative review. Human Reproduction Update, 19(6), 625–639. https://doi.org/10.1093/
+humupd/dmt027
+
+668
+
+M. DE BARROS MENEGUETTI ET AL.
+
+Della Corte, L., Di Filippo, C., Gabrielli, O., Reppuccia, S., La Rosa, V. L., Ragusa, R., Fichera, M.,
+Commodari, E., Bifulco, G., & Giampaolino, P. (2020). The burden of endometriosis on
+women’s lifespan: A narrative overview on quality of life and psychosocial wellbeing.
+International Journal of Environmental Research and Public Health, 17(13), 4683. https://doi.
+org/10.3390/ijerph17134683
+Facchin, F., Barbara, G., Dridi, D., Alberico, D., Buggio, L., Somigliana, E., Saita, E., & Vercellini, P.
+(2017). Mental health in women with endometriosis: Searching for predictors of psychological
+distress. Human Reproduction (Oxford, England), 32(9), 1855–1861. https://doi.org/10.1093/
+humrep/dex249
+Gambadauro, P., Carli, V., & Hadlaczky, G. (2019). Depressive symptoms among women with
+endometriosis: A systematic review and meta-analysis. American Journal of Obstetrics and
+Gynecology, 220(3), 230–241. https://doi.org/10.1016/j.ajog.2018.11.123
+Grandi, G., Barra, F., Ferrero, S., Sileo, F. G., Bertucci, E., Napolitano, A., & Facchinetti, F. (2019).
+Hormonal contraception in women with endometriosis: A systematic review. The European
+Journal of Contraception & Reproductive Health Care: the Official Journal of the European
+Society of Contraception, 24(1), 61–70. https://doi.org/10.1080/13625187.2018.1550576
+Guerriero, S., Ajossa, S., Orozco, R., Perniciano, M., Jurado, M., Melis, G. B., & Alcazar, J. L.
+(2016). Accuracy of transvaginal ultrasound for diagnosis of deep endometriosis in the recto­
+sigmoid: Systematic review and meta-analysis. Ultrasound in Obstetrics & Gynecology: the
+Official Journal of the International Society of Ultrasound in Obstetrics and Gynecology, 47(3),
+281–289. https://doi.org/10.1002/uog.15662
+Jones, G., Kennedy, S., Barnard, A., Wong, J., & Jenkinson, C. (2001). Development of an
+endometriosis quality-of-life instrument: The Endometriosis Health Profile-30. Obstetrics and
+Gynecology, 98(2), 258–264. https://doi.org/10.1016/s0029-7844(01)01433-8
+Lagana, A. S., La Rosa, V. L., Rapisarda, A. M. C., Valenti, G., Sapia, F., Chiofalo, B., Rossetti, D.,
+Ban Frangez, H., Vrtacnik Bokal, E., & Vitale, S. G. (2017). Anxiety and depression in patients
+with endometriosis: Impact and management challenges. International Journal of Women’s
+Health, 9, 323–330. https://doi.org/10.2147/IJWH.S119729
+Lorençatto, C., Petta, C. A., Navarro, M. J., Bahamondes, L., & Matos, A. (2006). Depression in
+women with endometriosis with and without chronic pelvic pain. Acta Obstetricia Et
+Gynecologica Scandinavica, 85(1), 88–92. https://doi.org/10.1080/00016340500456118
+Marinho, M. C. P., Magalhães, T. F., Fernandes, L. F. C., Augusto, K. L., Brilhante, A. V. M., &
+Bezerra, L. R. P. S. (2018). Quality of life in women with endometriosis: An integrative review.
+Journal of Women’s Health (Larchmt), 27(3), 399–408. https://doi.org/10.1089/jwh.2017.6397
+Márki, G., Bokor, A., Rigó, J., & Rigó, A. (2017). Physical pain and emotion regulation as the main
+predictive factors of health-related quality of life in women living with endometriosis Hum
+Reprod. Human Reproduction (Oxford, England), 32(7), 1432–1438. https://doi.org/10.1093/
+humrep/dex091
+Medeiros, L. R., Rosa, M. I., Silva, B. R., Reis, M. U., Simon, C. S., Dondossola, D. R., et al (2015).
+Accuracy of magnetic resonance in deeply infiltrating endometriosis: A systematic review and
+meta-analysis. Archives of Gynecology and Obstetrics, 291(3), 611–621. https://doi.org/10.1007/
+s00404-014-3470-7
+Mengarda, C. V., Passos, E. P., Picon, P., Costa, A. F., & Picon, P. D. (2008). Validation of Brazilian
+Portuguese version of quality of life questionnaire for women with endometriosis
+Endometriosis Health Profile Questionnaire–EHP-30. Revista Brasileira de Ginecologia
+E Obstetricia: Revista da Federacao Brasileira Das Sociedades de Ginecologia E Obstetricia, 30
+(8), 384–392. https://doi.org/10.1590/s0100-72032008000800003
+Minson, F. P., Abrão, M. S., Sardá Júnior, J., Kraychete, D. C., Podgaec, S., & Assis, F. D. (2012).
+Importance of quality of life assessment in patients with endometriosis. Revista Brasileira de
+Ginecologia E Obstetricia: Revista da Federacao Brasileira Das Sociedades de Ginecologia
+E Obstetricia, 34(1), 11–15.
+Pope, C. J., Sharma, V., Sharma, S., & Mazmanian, D. (2015). A systematic review of the
+association between psychiatric disturbances and endometriosis. Journal of Obstetrics and
+Gynaecology Canada, 37(11), 1006–1015. https://doi.org/10.1016/S1701-2163(16)30050-0
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+669
+
+Rindos, N. B., Fulcher, I. R., & Donnellan, N. M. (2020). Pain and quality of life after laparoscopic
+excision of endometriosis. Journal of Minimally Invasive Gynecology, 27(7), 1610–1617. https://
+doi.org/10.1016/j.jmig.2020.03.013
+Rodrigues, M. P. F., Vilarino, F. L., Munhoz, A. S. B., Paiva, L. S., Sousa, L. V. A., Zaia, V., &
+Barbosa, C. P. (2020). Clinical aspects and the quality of life among women with endometriosis
+and infertility: A cross-sectional study. BMC Women’s Health, 12;20(1), 124. https://doi.org/10.
+1186/s12905-020-00987-7
+Schweppe, K. W., Rabe, T., Langhardt, M., Woziwodzki, J., Petraglia, F., & Kiesel, L. (2013).
+Endometriosis – pathogenesis, diagnosis, and therapeutic options for clinical and ambulatory
+care. Journal of Endocrinology and Reproduction, 10(1), 102–119.
+Sepulcri Rde, P., & Do Amaral, V. F. (2009). Depressive symptoms, anxiety, and quality of life in
+women with pelvic endometriosis. European Journal of Obstetrics, Gynecology, and Reproductive
+Biology, 142(1), 53–56. https://doi.org/10.1016/j.ejogrb.2008.09.003
+Souza, C. A., Oliveira, L. M., Scheffel, C., Genro, V. K., Rosa, V., Chaves, M. F., & Cunha Filho, J. S.
+(2011). Quality of life associated to chronic pelvic pain is independent of endometriosis
+diagnosis-a cross-sectional survey. Health and Quality of Life Outcomes, 9(1), 41. https://doi.
+org/10.1186/1477-7525-9-41
+van Aken, M. A. W., Oosterman, J. M., van Rijn, C. M., Ferdek, M. A., Ruigt, G. S. F., Bwmm, P.,
+Braat, D. D. M., & Nap, A. W. (2017). Pain cognition versus pain intensity in patients with
+endometriosis: Toward personalized treatment Fertil Steril. Fertility and Sterility, 108(4),
+679–686. https://doi.org/10.1016/j.fertnstert.2017.07.016
+Wang, Y., Li, B., Zhou, Y., Wang, Y., Han, X., Zhang, S., He, Z., & Ouyang, L. (2021). Does
+endometriosis disturb mental health and quality of life? A systematic review and meta-analysis.
+Gynecologic and Obstetric Investigation, 86(4), 315–3.5. https://doi.org/10.1159/000516517
+Warzecha, D., Szymusik, I., Wielgos, M., & Pietrzak, B. (2020). The impact of endometriosis on the
+quality of life and the incidence of depression-a cohort study. International Journal of
+Environmental Research and Public Health, 17(10), 3641. https://doi.org/10.3390/
+ijerph17103641
+Yela, D. A., Quagliato, I. P., & Benetti-Pinto, C. L. (2020). Quality of life in women with deep
+endometriosis: A cross-sectional study. Revista Brasileira de Ginecologia E Obstetricia: Revista
+da Federacao Brasileira Das Sociedades de Ginecologia E Obstetricia, 42(2), 90–95. https://doi.
+org/10.1055/s-0040-1708091
+Zarbo, C., Brugnera, A., Dessi, V., Barbetta, P., Candeloro, I., Secomandi, R., Betto, E.,
+Malandrino, C., Bellia, A., Trezzi, G., Rabboni, M., Compare, A., & Frigerio, L. (2019).
+Cognitive and personality factors implicated in pain experience in women with endometriosis:
+A mixed method study. The Clinical Journal of Pain, 35(12), 948–957. https://doi.org/10.1097/
+AJP.0000000000000757
+Zarbo, C., Brugnera, A., Frigerio, L., Malandrino, C., Rabboni, M., Bondi, E., & Compare, A.
+(2017). Behavioral, cognitive and emotional coping strategies of women with endometriosis:
+A critical narrative review. Archives of Women’s Mental Health, 21(1), 1–13. https://doi.org/10.
+1007/s00737-017-0779-9
+
+Copyright of Psychology, Health & Medicine is the property of Routledge and its content
+may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for
+individual use.
+
+

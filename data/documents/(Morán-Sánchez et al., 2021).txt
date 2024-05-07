@@ -1,0 +1,757 @@
+JOURNAL OF PSYCHOSOMATIC OBSTETRICS & GYNECOLOGY
+2021, VOL. 42, NO. 1, 50–56
+https://doi.org/10.1080/0167482X.2020.1729732
+
+ARTICLE
+
+Is dispositional optimism associated with endometriomas and deep
+infiltrating endometriosis?
+Ines Moran-Sancheza , Evdochia Adoamneib,c , Marıa Luisa Sanchez-Ferrerd,e ,
+s Arense-Gonzaloc , Virginia Casanova-Mompeand,
+Marıa Teresa Prieto-Sanchezd,e , Julian Jesu
+d,e
+c,e
+Ana Carmona-Barnosi , Jaime Mendiola
+and Alberto Manuel Torres-Canteroc,e,f,g
+a
+Mental Health Centre, Cartagena (Murcia), Spain; bInstitute for Biomedical Research of Murcia, IMIB-Arrixaca, El Palmar Murcia,
+Spain; cDivision of Preventive Medicine and Public Health, Department of Public Health Sciences, University of Murcia School of
+Medicine, Espinardo Murcia, Spain; dDepartment of Obstetrics and Gynecology, ‘Virgen de la Arrixaca’ University Clinical Hospital,
+University of Murcia, El Palmar Murcia, Spain; eInstitute for Biomedical Research of Murcia, IMIB-Arrixaca, El Palmar Murcia, Spain;
+f
+Consortium for Biomedical Research in Epidemiology and Public Health (CIBER Epidemiologıa y Salud Publica, CIBERESP), Instituto
+de Salud Carlos III, Madrid, Spain; gDepartment of Preventive Medicine, ‘Virgen de la Arrixaca’ University Clinical Hospital, El Palmar
+Murcia, Spain
+
+ABSTRACT
+
+ARTICLE HISTORY
+
+Introduction: Endometriosis is a chronic painful condition characterized by high prognostic
+uncertainty, as well as the threat of infertility and emotional symptoms that may affect many
+aspects of women, including psychological characteristics like dispositional optimism.
+Considering the impact of endometriosis on psychological health and the paucity of papers on
+this topic, the aim of this study is to explore optimism and associated factors in endometriosis.
+Methods: A case-control study was performed on a group of 95 women with endometriosis
+and 156 controls. All participants completed the Life Orientation Test-Revised (LOT-R), a selfadministered tool for assessing dispositional optimism. Pain severity, medication, gynecological
+and socio-demographic information was also collected.
+Results: Low optimism was observed for women with endometriosis compared to controls even
+after covariate adjustment (LOT-R global scores: 14.5 vs. 15.9 points, p ¼ .045).
+Conclusions: This study provides the first evidence that a personality dimension with many
+prognostic implications may be altered in women with endometriosis. Our findings highlight
+the importance of a broader understanding of this condition, treating this disorder from a biopsychosocial perspective and suggests the need for non-medical attention within a multidisciplinary team.
+
+Received 8 October 2019
+Revised 30 January 2020
+Accepted 2 February 2020
+
+Introduction
+Endometriosis is a chronic estrogen-dependent,
+inflammatory condition that affects 10–15% women
+especially during their reproductive years [1]. Patients
+present a wide variety of symptoms, including chronic
+pain, infertility, higher risk of ovarian cancer [2] and
+metabolic and emotional symptoms [3]. Women with
+endometriosis may have a wide range of pain symptoms that vary significantly among patients and do
+not always correlate with the clinical severity of the
+disease [3–6]. This suggests that other variables, such
+as coping strategies, or psychological traits, may influence the perception of the pain [7]. Patients with
+endometriosis face the challenge of this multidimensional disorder and must cope with their new
+
+KEYWORDS
+
+Endometriosis; optimism;
+mental health;
+psychological factors; casecontrol study; personality
+
+situation. This can be affected by multiple factors,
+including the women’s individual predispositions such
+us dispositional optimism which may impact a person’s acceptance of the situation of being diagnosed
+with a chronic disease [8].
+Dispositional optimism has been conceptualized as
+a stable personality characteristic that reflects the
+extent to which people hold generalized favorable
+expectations for the future [9]. This personality trait is
+associated with taking proactive measures to protect
+health [10] and with lower risk of psychopathology
+and better treatments outcomes [9]. It is resistant to
+downturn by adversity [11,12] but may be also variations in optimism, both moment-to-moment and
+over extended periods [13]. According to the theory of
+
+CONTACT Maria Luisa Sanchez-Ferrer
+marisasanchez@um.es
+Department of Obstetrics and Gynecology, ‘Virgen de la Arrixaca’ University Clinical
+Hospital, University of Murcia, El Palmar Murcia 30120, Spain; Institute for Biomedical Research of Murcia, IMIB-Arrixaca, El Palmar Murcia 30120, Spain
+The first two authors contributed equally to this manuscript and should be regarded as joint First Authors.
+ß 2020 Informa UK Limited, trading as Taylor & Francis Group
+
+JOURNAL OF PSYCHOSOMATIC OBSTETRICS & GYNECOLOGY
+
+self-regulation [12], positive outcome expectancies
+may decrease when people are confronted with a succession of major adversities [14–16]. For example, in a
+study that determined the sensitivity of optimism to
+stressors of chronic disease comparing diabetes mellitus, multiple sclerosis and healthy controls, authors
+found that optimistic bias in chronically ill patients
+was lower compared to healthy people [17].
+Why can dispositional optimism be affected in
+endometriosis? A qualitative research study on 30
+women diagnosed with endometriosis showed they
+were aware that there was no cure for their condition.
+Even when relief is obtained with a particular treatment, there is no certainty about how long it will last.
+Patients experience “treatment uncertainty” (regarding
+medical encounters and the trial and error approach
+to treatments), “symptomatic uncertainty” and
+“trajectory uncertainty” (related to the uncertainty
+about their future and the course of their disease) [4].
+Another qualitative study of 24 patients diagnosed
+with endometriosis also explored womens concerns
+and impact of illness upon the quality of life [18].
+Future pain and future fertility were the main issues of
+concern for women in both studies [4,18]. However, it
+would be interesting to know which was first, the disease or the altered personality trait and thus establish
+the direction of causality [19]. We may argue whether
+endometriosis itself is the cause or the consequence
+of lower optimism or whether some aspects of the disease, such as infertility or pain, are associated with
+mental suffering and modify some personality traits.
+Although several studies have emphasized the
+importance of examining the role of individual differences in women’s subjective experience of endometriosis, including pain perception [20–22], most studies
+have been focused on physiological and diagnostic
+dimensions [23]. Previous research that investigated
+the association between pelvic pain caused by endometriosis and personality concluded that patients with
+painful endometriosis were more likely to avoid new
+potentially risky situations and experience pessimistic
+worries [7]. These worries together with fear, hopelessness and hypervigilance toward pain, may not only
+influence pain perception but also hinder the effectiveness of therapy by affecting patients’ responses to
+treatment [7]. Dispositional optimism has been studied
+in many medical conditions but the research on gynecological diseases is quite scarce [8,24]. For all these
+reasons, we consider so important to investigate optimism in endometriosis. To the best of our knowledge,
+no previous studies about optimism have been conducted
+on
+women
+with
+these
+conditions
+
+51
+
+(endometriomas and Deep Infiltrating Endometriosis).
+We hypothesize that women with endometriomas and
+DIE show lower optimism compared to women without the disease. Thus, the aim of the study was to
+assess dispositional optimism and associated factors
+in women with endometriomas and DIE compared
+to controls.
+
+Methods
+This case-control study was carried out in a tertiary
+hospital, between September 2014 and May 2015.
+Two gynecologists using the same methodology performed all clinical evaluations. Cases (n ¼ 95) were
+women attending the Endometriosis Unit of the
+Hospital. Diagnoses were established by medical history and confirmed by transvaginal ultrasound (TVUS)
+using a Voluson E-8wand 4–9 MHz transducer;
+(General Electric Healthcare, USA). For ultrasound
+exploration, we followed the method described by
+Guerriero et al., in case of ovarian endometriomas [25]
+and Abrao et al., for DIE cases [26]. When a patient
+presented both types of endometriosis (DIE and endometriomas), she was classified as DIE. All women having disease were diagnosed by 2 D, but for DIE cases,
+3 D was also used (30% of cases). Patients were
+excluded from the study if they were pregnant, or if
+they had oncological treatment or genitourinary prolapse. Controls were women without endometriosis
+attending the gynecological outpatient clinic for routine exams (n ¼ 156). Nine controls reported clinical
+symptoms compatible with endometriosis but the
+diagnosis was not confirmed by TVUS. All participants
+completed health questionnaires, gynecological and
+obstetrical histories and clinical and socio-demographic information at a scheduled visit. For both
+groups, consecutive women attending the clinic were
+recruited by gynecologists, and more than 95% of the
+approached women agreed to participate in the study.
+The ones that refused to participate were due to a
+lack of time for filling out questionnaires.
+Variables that are related to optimism according to
+previous research were also collected (pain severity,
+professional situation, education, infertility and treatment for emotional disorders) [6,8,9,13,24,27]. Pain
+severity was evaluated using the SF12v2 bodily pain
+subscale, one of the eight subscales of the SF-12v2
+Health Survey [28]. This test is a validated shorter version of the SF-36v2 that encompasses 12 questions,
+which evaluates functional health and wellbeing from
+the participant’s point of view [29]. All raw scale
+scores are linearly converted to a 0–100 scale, with
+
+52
+
+I. MORÁN-SÁNCHEZ ET AL.
+
+higher scores representing higher levels of healthrelated quality of life (HRQoL) [30]. All subscales and
+both summary measures were also converted to normative-based scores according to the SF-12v2 recommendations to give a mean of 50 and a standard
+deviation of 10, using a representative sample of the
+US general population [29]. The SF-12v2 is a valid
+instrument to measure HRQoL in our environment and
+has been previously used in Spanish populations [28,30,31].
+Dispositional optimism was assessed using the Life
+Orientation Test-Revised (LOT-R), which is the most
+widely used test to assess dispositional optimism [32].
+It has been translated into many languages including
+Spanish [33]. The results indicated that the properties
+of the Spanish version [34] of the LOT-R were similar
+to those of the original test, and internal consistency
+reliability was acceptable for the total scale according
+to Cronbach’s coefficient alphas (a ¼ .72). This 10-item
+validated self-report instrument has three statements
+that measure optimism, three statements that measure
+pessimism and the remaining four statements are filler
+questions. Respondents were asked to rate on a fivepoint Likert scale the extent to which each item is
+true or false. The total sum score is calculated by adding the optimism score and the inverted pessimism
+score. Total score ranges between 0 and 24 points
+with higher scores denoting more optimism. Written
+informed consent was obtained from all women. The
+study was approved by the Ethics Research
+Committee of the University of Murcia (no. 770/2013;
+October 3, 2013).
+
+Statistical analyses
+Analyses were conducted using the version 20 of the
+software program SPSS. Prior to analysis, normality
+and homogeneity of variance were tested. Descriptive
+statistics were presented using raw data. Continuous
+variables were compared using unpaired Student Ttests, and categorical variables were analyzed using
+Pearson’s v2 tests. With the analysis of covariance
+(ANCOVA), adjusted differences in LOT-R scores
+between cases and controls were assessed. Effect sizes
+were calculated using Cohen’s d, relating the mean
+score differences to the pooled standard deviation
+[35]. Age, education level, employment and marital
+status, infertility/sterility problems, bodily pain and
+psychiatric medication were included as potential confounders/covariates in the model, to obtain a better
+adjustment. All tests were two-tailed at .05 significance level. From previous publications, we considered
+
+it would be appropriate to detect a difference of at
+least 1.3 points (with a standard deviation of about
+3.5 points) in the LOT global score between cases and
+controls for sample size calculation. If we accept a risk
+of 0.05 and 80% of statistical power to detect differences, if there are any, we would require 92 subjects in
+one group and 151 in the other one.
+
+Results
+Table 1 gives a complete overview of the socio-demographic and clinical characteristics of participants.
+Cases were older than controls (36.2 ± 7.5 vs.
+30.7 ± 5.9 years, p < .001) and reported higher rates of
+fertility problems (30.7% vs. 8.4%, p < .001). Women
+with endometriosis had higher levels of bodily pain
+than controls -lower scores in the SF12v2 questionnaire (66.6 ± 30.2 vs. 90.5 ± 18.3 points, p < .001).
+There were also significant differences between cases
+and controls regarding marital or employment status
+and educational level (p < .001).
+Table 2 and Figure 1 show raw and adjusted LOT-R
+scores for patients with endometriosis and controls.
+Table 1. Characteristics
+and controls.
+Variable
+
+of
+
+cases
+Cases
+(n ¼ 95)
+
+of
+
+endometriosis
+Controls
+(n ¼ 156)
+
+p
+
+Age (years), (mean and SD)
+36.2 (7.5)
+30.7 (5.9)
+<.001
+Marital status, n (%)
+Single or divorced
+30 (31.6)
+76 (48.7)
+.008
+Married
+65 (68.4)
+80 (51.3)
+Educational level, n (%)
+Primary
+21 (22.6)
+15 (9.7)
+.001
+Secondary
+32 (34.4)
+39 (25.2)
+University
+40 (43.0)
+101 (65.2)
+Employment status, n (%)
+Unemployed
+24 (25.3)
+22 (14.1)
+.008
+Studying
+9 (9.5)
+35 (22.4)
+Working
+62 (65.3)
+99 (63.5)
+Infertility/sterility problems, n (%)
+27 (30.7)
+13 (8.4)
+<.001
+Bodily pain (mean and SD)
+66.6 (30.2)
+90.5 (18.3)
+<.001
+Psychiatric medication, n (%)
+Anxiolytics
+14 (15.7)
+9 (5.8)
+.01
+Antidepressants
+6 (6.7)
+6 (3.9)
+.33
+SD: Standard Deviation. Student t-test or Chi-squared (v2). Bodily pain
+is a 0–100 subscale from the SF12v2 questionnaire, with higher scores
+representing higher levels of health-related quality of life.
+
+Table 2. Comparison of the Life Orientation Test-Revised
+(LOT-R) between cases and controls.
+LOT-R variables
+LOT optimism
+LOT pessimism
+LOT global score
+
+Cases (n ¼ 95) Controls (n ¼ 156)
+Mean (SD)
+Mean (SD)
+p-Value p-Value
+
+7.5 (2.3)
+8.3 (1.9)
+.01
+.035
+7.0 (2.2)
+7.6 (2.2)
+.02
+.24
+14.5 (3.9)
+15.9 (3.2)
+.004
+.045
+SD: Standard Deviation. Unadjusted value (Student t-Test). Adjusted
+by age, marital status, educational level, employment status, infertility/
+sterility problems, and bodily pain and taken psychiatric medication (ANCOVA).
+
+JOURNAL OF PSYCHOSOMATIC OBSTETRICS & GYNECOLOGY
+
+Figure 1. Adjusted mean LOT-R Optimism, LOT-R Pessimism
+and LOT-R Global scores and 95% confidence intervals.
+
+LOT-R optimism mean score was significantly higher in
+controls (8.3 vs.7.5 points; p ¼ .01). On the other
+hand, cases obtained a slightly higher LOT-R pessimism score than controls, (5.0 vs. 4.3 points; p ¼ .02),
+but this relationship did not persist after adjustment
+(p ¼ .24). Finally, controls obtained a LOT-R global
+score of 1.4 points higher than cases (p ¼ .004) even
+after the adjustment (p ¼ .045), which indicates higher
+levels of optimism in controls. The effect size of this
+difference was moderate (d ¼ .39). A sensitivity analysis was performed excluding nine control women
+presenting symptoms consistent with endometriosis
+and similar results were obtained.
+
+Discussion
+To the best of our knowledge, this is the first study to
+specifically evaluate dispositional optimism in a sample of women with endometriosis in a case-control
+design. In this childbearing-aged sample of Spanish
+women, lower optimism was observed for women
+with endometriosis compared to controls. There is an
+actual trend of finding new ways to supplement the
+traditionally deficit-oriented perspective in psychological research [9]. Our study might contribute to
+explore other aspects of psychological well-being of
+women with endometriosis besides anxiety and
+depression [5,20].
+The available data on optimism among persons
+suffering from gynecological diseases is meager.
+Optimism has only been studied in the context of
+Polycystic Ovary Syndrome (PCOS) and in vitro fertilization treatments [8,24]. These authors conclude that
+response to in vitro fertilization treatments may be
+hindered by personality characteristics. Very little
+research has focused on gynecological conditions
+using standardized instruments, such as the LOT-R
+
+53
+
+scale, the most widely used test for assessing dispositional optimism [32]. No previous research has
+applied the LOT-R questionnaire in women with
+endometriosis, but dispositional optimism has been
+studied in the context of PCOS another chronic gynecological condition with important emotional repercussions [8]. This study found LOT-R global scores of
+13.56 ± 4.28 points in women diagnosed with PCOS,
+findings quite similar to ours. Hinz et al. [9] applied
+the LOT-R questionnaire in general population and
+found in 257 women with an age similar to our controls, total scores slightly higher than ours (17.1 vs.
+15.6 points). The low occurrence of gender and age
+differences in that study (the effect size of the difference was low, d ¼ .12), justifies reporting normative
+data for the whole population, without differentiating
+between age and gender groups, so the mean scores
+presented as reference values were as follows: optimism 8.8 ± 2.5 points; pessimism 4.5 ± 2.4 points and
+global scores 16.2 ± 3.8 points. Our controls have
+similar global and optimism scores but higher pessimism scores (7.6 vs. 4.5 points).
+A growing body of evidence suggests that people
+may alter their personality profiles after developing
+ongoing pain, even if personality traits are considered
+to be relatively stable [7,19,36]. There is evidence that
+in individuals with chronic pain, some personality
+traits may be modified through psychological therapy
+[37]. If personality traits can be influenced through
+therapy, it may be possible to conclude that, an
+altered personality trait may, in fact, have been developed as a consequence of the pain itself [19]. Other
+authors have concluded that there are, at least for
+some people, variations in optimism both from
+moment to moment and over prolonged periods of
+time [13]. We agree with authors’ statements that illness, or its associated symptoms, can modify some
+personality traits. In our study, we have taken into
+account factors such as fertility or pain severity that
+may affect optimism. Even after controlling for these
+variables, dispositional optimism was lower in endometriosis. In this sense, we hypothesize that the mere
+awareness of having endometriosis may be associated
+with lower optimism. The burden of a chronic condition characterized by uncertainty may affect this psychological trait [4], as has been reported for other
+chronic conditions, such as diabetes mellitus or multiple sclerosis [17].
+Our findings may have clinical and research implications. As optimism is related to pain perception,
+psychopathology risk and response to treatments
+[19], we consider that to correctly address
+
+54
+
+I. MORÁN-SÁNCHEZ ET AL.
+
+endometriosis would require an integrated approach,
+combining medical and psychological interventions,
+such as personality assessment. It might be very useful to involve other health providers, such as psychotherapists, in the treatment of endometriosis [38].
+This multidisciplinary team will be able to complement much-needed expertise for the management of
+endometriosis [3]. In this sense, the approach to
+every woman with endometriosis should be individualized, proposing the best treatment options based
+on the different symptoms and problems distressing
+the patient, and taking into account her priorities
+and preferences [7]. In order to improve health and
+well-being outcomes, our findings suggest that we
+need to attribute more importance and effort to
+therapeutic strategies targeted on psychological
+dimensions such as dispositional optimism [19].
+Further studies are needed to evaluate effectiveness
+of targeted psychotherapies.
+Selection and measurement bias has to be considered. Controls were women attending the public hospital in the same period, and they stem from the
+same population from which cases emerged. TVUS
+cannot replace surgery for the diagnosis of noninvasive endometriosis, but TVUS has a high values for
+sensitivity (93%) and specificity (96%) for endometriomas [39] and a sensitivity of 78–98% and specificity of
+90–100% for diagnosis of DIE [40]. Nonetheless, misclassification of endometriosis may have occurred, but,
+if present, it would contribute to underestimating the
+true magnitude of the association. Another limitation
+arises from the fact that the research was cross-sectional and there is no information about optimism
+prior to the diagnosis of endometriosis, so it is difficult
+to establish the direction of causality. This nuance has
+been already discussed.
+In conclusion, endometriosis is a multidimensional
+disease with a wide variety of symptoms, including
+pain and emotional symptoms that can affect many
+aspects of women’s life. This study shows that a personality dimension with many prognostic implications
+might be altered as a consequence of endometriosis.
+Our findings highlight the importance of a broader
+understanding of endometriosis, treating this disorder
+from a biopsychosocial perspective and suggest the
+need for non-medical attention within a multidisciplinary team.
+
+Spain.
+https://www.google.com/maps/search/LAIBþ
+UNIVERSIDAD+DE+MURCIA+CARRETERA+FINCA+BUENAVISTA+EL+PALMAR+MURCIA/@37.9240279,-1.166261
+6,17z/data=!3m1!4b1
+
+Acknowledgements
+The Authors thank Mr. Antonio Martınez-Mendoza (M.D.)
+and Mrs. M. Carmen Llanos (M.D.) for performing TVUS, and
+patients for their participation.
+
+Disclosures statement
+No potential
+the author(s).
+
+of
+
+interest
+
+was
+
+reported
+
+by
+
+Funding
+The present work was supported by the Ministry of
+Economy and Competitiveness, ISCIII (AES), grants no [PI13/
+01237] and the Seneca Foundation, Murcia Regional Agency
+of Science and Technology, grant no [19443/PI/14].
+
+ORCID
+s Moran-Sanchez
+Ine
+http://orcid.org/0000-0003-3878-3381
+Evdochia Adoamnei
+http://orcid.org/0000-0003-3633-2245
+Marıa Luisa Sanchez-Ferrer
+http://orcid.org/0000-00019173-5229
+Marıa Teresa Prieto-Sanchez
+http://orcid.org/0000-00032800-8883
+s Arense-Gonzalo
+Julian Jesu
+http://orcid.org/0000-00029801-1060
+Jaime Mendiola
+http://orcid.org/0000-0002-0657-9346
+Alberto Manuel Torres-Cantero
+http://orcid.org/00000001-5402-1016
+
+References
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+Geolocation information
+Avda. Buenavista s/, Campus de Ciencias de la Salud.
+Edificio LAIB, planta baja 30120 El Palmar (Murcia),
+
+conflict
+
+[5]
+
+Parasar P, Ozcan P, Terry KL. Endometriosis: epidemiology, diagnosis and clinical management. Curr
+Obstet Gynecol Rep. 2017;6(1):34–41.
+~
+Niguez
+Sevilla I, Machado Linde F, Marın Sanchez MP,
+et al. Prognostic importance of atypical endometriosis
+with architectural hyperplasia versus cytologic atypia
+in endometriosis-associated ovarian cancer. J Gynecol
+Oncol. 2019;30(4):e63.
+Vannuccini S, Lazzeri L, Orlandini C, et al. Mental
+health, pain symptoms and systemic comorbidities in
+women with endometriosis: a cross-sectional study.
+J Psychosom Obstet Gynecol. 2018;39(4):315–320.
+Denny E. “I never know from one day to another how
+I will feel”: pain and uncertainty in women with endometriosis. Qual Health Res. 2009;19(7):985–995.
+Gonzalez-Echevarrıa AM, Rosario E, Acevedo S, et al.
+Impact of coping strategies on quality of life of
+
+JOURNAL OF PSYCHOSOMATIC OBSTETRICS & GYNECOLOGY
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+[14]
+
+[15]
+
+[16]
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+adolescents and young women with endometriosis.
+J Psychosom Obstet Gynaecol. 2019;40(2):138–145.
+Facchin F, Barbara G, Saita E, et al. Impact of endometriosis on quality of life and mental health: pelvic
+pain makes the difference. J Psychosom Obstet
+Gynecol. 2015;36(4):135–141.
+Facchin F, Barbara G, Saita E, et al. Personality in
+women with endometriosis: temperament and character dimensions and pelvic pain. Hum Reprod. 2016;
+31(7):1515–1521.
+ca E, Iwanowicz-Palus G, Bien
+ A, et al.
+Rzon
+Generalized self-efficacy, dispositional optimism, and
+illness acceptance in women with polycystic ovary
+syndrome. Int J Environ Res Public Health. 2018;15:
+1–10.
+Hinz A, Sander C, Glaesmer H, et al. Optimismo y
+n general: propiedades psipesimismo en la poblacio
+cometricas del Life Orientation Test (LOT-R). Int J Clin
+Heal Psychol. 2017;17(2):161–170.
+Boehm JK, Chen Y, Koga H, et al. Is optimism associated with healthier cardiovascular-related behavior?
+Meta-analyses of 3 health behaviors. Circ Res. 2018;
+122(8):1119–1134.
+Schwarzer R. Optimism, vulnerability, and self-beliefs
+as health-related cognitions: a systematic overview.
+Psychol Health. 1994;9(3):161–180.
+Carver CS, Scheier MF. On the self-regulation of
+behavior. Cambridge: Cambridge University Press,
+1998.
+Carver CS, Scheier MF, Segerstrom SC. Optimism. Clin
+Psychol Rev. 2010;30(7):879–889.
+Scheier MF, Carver CS. Dispositional optimism and
+physical health: a long look back, a quick look forward HHS public access. Am Psychol. 2018;73(9):
+1082–1094.
+Burger JM, Palmer ML. Changes in and generalization
+of unrealistic optimism following experiences with
+stressful events: reactions to the 1989 California
+earthquake. Pers Soc Psychol Bull. 1992;18(1):39–43.
+Sweeny K, Carroll PJ, Shepperd JA. Is optimism always
+best? Curr Dir Psychol Sci. 2006;15(6):302–306.
+Fournier M, De Ridder D, Bensing J. Is optimism sensitive to the stressors of chronic disease? The impact of
+type 1 diabetes mellitus and multiple sclerosis on
+optimistic beliefs. Psychol Heal. 2003;18(3):277–294.
+Jones G, Jenkinson C, Kennedy S. The impact of endometriosis upon quality of life: a qualitative analysis. J
+Psychosom Obstet Gynecol. 2004;25(2):123–133.
+Gustin SM, Burke LA, Peck CC, et al. Pain and personality: do individuals with different forms of chronic
+pain exhibit a mutual personality? Pain Pract. 2016;
+16(4):486–494.
+Pope CJ, Sharma V, Sharma S, et al. A systematic
+review of the association between psychiatric disturbances and endometriosis. J Obstet Gynaecol Canada.
+2015;37(11):1006–1015.
+Peveler R, Edwards J, Daddow J, et al. Psychosocial
+factors and chronic pelvic pain: a comparison of
+women with endometriosis and with unexplained
+pain. J Psychosom Res. 1996;40(3):305–315.
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+55
+
+Manderson L, Warren N, Markovic M. Circuit breaking:
+pathways of treatment seeking for women with endometriosis in Australia. Qual Health Res. 2008;18(4):
+522–534.
+Mendiola J, Sanchez-Ferrer ML, JimCrossed D, et al.
+Endometriomas and deep infiltrating endometriosis in
+adulthood are strongly associated with anogenital
+distance, a biomarker for prenatal hormonal environment. Hum Reprod. 2016;31(10):2377–2383.
+Bleil ME, Pasch LA, Gregorich SE, et al. Fertility
+treatment response: is it better to be more optimistic
+or less pessimistic?. Psychosom Med. 2012;74(2):
+193–199.
+Guerriero S, Condous G, van den Bosch T, et al.
+Systematic approach to sonographic evaluation of the
+pelvis in women with suspected endometriosis,
+including terms, definitions and measurements: a
+consensus opinion from the International Deep
+Endometriosis Analysis (IDEA) group. Ultrasound
+Obstet Gynecol. 2016;48(3):318–332.
+Abrao MS, Gonçalves MO, Dias JA, et al. Comparison
+between clinical examination, transvaginal sonography and magnetic resonance imaging for the diagnosis of deep endometriosis. Hum Reprod. 2007;
+22(12):3092–3097.
+Chung ML, Bakas T, Plue LD, et al. Effects of selfesteem, optimism, and perceived control on depressive symptoms in stroke survivor-spouse dyads.
+J Cardiovasc Nurs. 2016;31(2):E8–E16.
+Vilagut G, Ferrer M, Rajmil L, et al. The Spanish version of the Short Form 36 Health Survey: a decade of
+experience and new developments. Gac Sanit. 2005;
+19(2):135–150.
+Ware JE, Kosinski M, Turner-Bowker DM, et al. How to
+score version 2 of the SF-12 health survey (with a
+supplement documenting version 1). QualityMetric
+Inc. 2002.
+n
+Vilagut G, Valderas JM, Ferrer M, et al. Interpretacio
+de los cuestionarios de salud SF-36 y SF-12 en
+~a: Componentes fısico y mental. Med Clin (Barc).
+Espan
+2008;130(19):726–735.
+Monteagudo Piqueras O, Hernando Arizaleta L,
+Palomar Rodrıguez JA. Normas poblacionales de refern espan
+~ola del SF-12V2 para la
+encia de la versio
+n de Murcia. Gac Sanit. 2011;25(1):50–61.
+Regio
+Scheier MF, Carver CS, Bridges MW. Distinguishing
+optimism from neuroticism (and trait anxiety, selfmastery, and self-esteem): a reevaluation of the Life
+Orientation Test. J Pers Soc Psychol. 1994;67(6):
+1063–1078.
+Otero JM, Luengo A, Romero E, et al. Psicologıa de
+personalidad. Manual de practicas. Barcelona: Ariel
+Practicum, 1998.
+Ferrando PJ, Chico E, Tous JM. Propiedades psicometricas del test de optimismo Life Orientation
+Test. Psicothema. 2002;14:673–680.
+Cohen J. Statistical power analysis for the
+behavioral sciences. 2nd ed. Hoboken: Taylor and
+Francis, 2013.
+
+56
+
+I. MORÁN-SÁNCHEZ ET AL.
+
+[36]
+
+~-Phols
+Sanchez-Roman S, Telez-Zenteno JF, Zermento
+F, et al. Personality in patients with migraine evaluated with the “Temperament and Character
+Inventory”. J Headache Pain. 2007;8((2):94–104.
+Fishbain DA, Cole B, Cutler RB, et al. Chronic pain and
+the measurement of personality: Do states influence
+traits? Pain Med. 2006;7(6):509–529.
+Aerts L, Grangier L, Streuli I, et al. Psychosocial
+impact of endometriosis: From co-morbidity to
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+intervention. Best Pract Res Clin Obstet Gynaecol.
+2018;50:2–10.
+Nisenblat V, Bossuyt PMM, Farquhar C, et al.
+Imaging modalities for the non-invasive diagnosis of
+endometriosis. Cochrane Database Syst Rev. 2016;2:
+CD009591.
+Somigliana E, Vercellini P, Vigano’ P, et al. Non-invasive diagnosis of endometriosis: The goal or own
+goal? Hum Reprod. 2010;25(8):1863–1868.
+
+Copyright of Journal of Psychosomatic Obstetrics & Gynecology is the property of Taylor &
+Francis Ltd and its content may not be copied or emailed to multiple sites or posted to a
+listserv without the copyright holder's express written permission. However, users may print,
+download, or email articles for individual use.
+
+

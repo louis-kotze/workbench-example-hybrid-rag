@@ -1,0 +1,1831 @@
+1019717
+review-article2021
+
+WHE0010.1177/17455065211019717Women’s HealthDelanerolle et al.
+
+Review
+
+A systematic review and meta-analysis
+of the Endometriosis and Mental-Health
+Sequelae; The ELEMI Project
+
+Women’s Health
+Volume 17: 1­–16
+© The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/17455065211019717
+DOI: 10.1177/17455065211019717
+journals.sagepub.com/home/whe
+
+Gayathri Delanerolle1 , Rema Ramakrishnan2, Dharani Hapangama3,4,
+Yutian Zeng5, Ashish Shetty6,7, Sohier Elneil6,7, Sam Chong6,7,
+Martin Hirsch6,8, Molola Oyewole6,7, Peter Phiri9,10, Kathryn Elliot9,
+Trusha Kothari4, Bryony Rogers3,4, Natasha Sandle1, Nyla Haque1,
+Nicola Pluchino11, Martin Silem12, Rebecca O’Hara13, M Louise Hull13,
+Kingshuk Majumder14, Jian Qing Shi5,15 and Vanessa Raymont1,16
+
+Abstract
+Background: It is important to evaluate sequalae for complex chronic health conditions such as endometriosis and
+mental health disorders. Endometriosis impacts 1 in 10 women. Mental health outcomes can be a primary determinant in
+many physical health conditions although this is an area not well researched particularly in women’s health. This has been
+problematic for endometriosis patients in particular, who report mental health issues as well as other key comorbidities
+such as chronic pelvic pain and infertility. This could be partly due to the complexities associated with comprehensively
+exploring overlaps between physical and mental health disorders in the presence of multiple comorbidities and their
+potential mechanistic relationship.
+Methods: In this evidence synthesis, a systematic methodology and mixed-methods approaches were used to synthesize
+both qualitative and quantitative data to examine the prevalence of the overlapping sequalae between endometriosis
+and psychiatric symptoms and disorders. As part of this, an evidence synthesis protocol was developed which included a
+systematic review protocol that was published on PROSPERO (CRD42020181495). The aim was to identify and evaluate
+mental health reported outcomes and prevalence of symptoms and psychiatric disorders associated with endometriosis.
+Findings: A total of 34 papers were included in the systematic review and 15 were included in the meta-analysis.
+Anxiety and depression symptoms were the most commonly reported mental health outcomes while a pooled analysis
+also revealed high prevalence of chronic pelvic pain and dyspareunia.
+Interpretation: It is evident that small-scale cross-sectional studies have been conducted in a variety of settings to
+determine mental health outcomes among endometriosis patients. Further research is required to comprehensively
+evaluate the mental health sequalae with endometriosis.
+
+1
+
+ xford Brain Health Clinical Trials Unit, University of Oxford,
+O
+Oxford, UK
+2
+Nuffield Department of Women’s & Reproductive Health, University
+of Oxford, Oxford, UK
+3
+University of Liverpool, Liverpool, UK
+4
+Liverpool Women’s NHS Foundation, Liverpool, UK
+5
+Southern University of Science and Technology, Shenzhen, China
+6
+University College London Hospitals NHS Foundation Trust, London,
+UK
+7
+University College London, London, UK
+8
+Oxford Health NHS Foundation Trust, Oxford, UK
+9
+Southern Health NHS Foundation Trust, Southampton, UK
+10
+School of Primary Care, Population Sciences and Medical Education,
+University of Southampton, Southampton, UK
+
+11
+
+ ivisions of Gynecology and Obstetrics, Geneva University Hospitals,
+D
+Geneva, Switzerland
+12
+University Medical Center Freiburg, Freiburg, Germany
+13
+Robinson Research Institute, The University of Adelaide, Adelaide,
+SA, Australia
+14
+Manchester University NHS Foundation Trust, Manchester, UK
+15
+The Alan Turing Institute, London, UK
+16
+Department of Psychiatry, University of Oxford, Oxford, UK
+Corresponding author:
+Vanessa Raymont, Department of Psychiatry, University of Oxford,
+Oxford, OX3 7JX Oxfordshire, UK.
+Email: vanessa.raymont@psych.ox.ac.uk
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons
+Attribution-NonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use,
+reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and
+Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+
+2
+
+Women’s Health﻿
+
+Keywords
+adenomyosis, BAME, chronic pelvic pain, dysmenorrhea, dyspareunia, endometriosis, mental health, women’s health,
+women’s mental health
+Date received: 24 March 2021; revised: 4 May 2021; accepted: 5 May 2021
+
+Research in context
+Evidence before this study
+Research into exploring the mental health sequalae in endometriosis is limited. Therefore, to our knowledge, this is
+the first evidence synthesis conducted to determine the prevalence of the endometriosis, mental health (MH) and
+associated presentations, including chronic pelvic pain. The evidence demonstrated limited data around MH outcomes. Most published systematic reviews and meta-analysis, as well as research studies in relation to endometriosis,
+report MH outcomes either in isolation or as a generic quality of life feature, but did not focus on the sequalae.
+Previous studies did not estimate the proportion of cases that may be affected or their relevance to Black, Asian and
+Minority Ethnic populations.
+
+Added value of this study
+This study is composed of a comprehensive evidence synthesis which includes a narrative and meta-analysis conducted using a systematic approach to report the prevalence of the endometriosis and MH sequalae.
+
+Implications of the available evidence
+This review demonstrates a complex relationship between MH and endometriosis. To evaluate this disease sequalae
+comprehensive research is required. Additionally, race and ethnicity specific information is required to better evaluate
+cultural adaptations that may be required for example to improve patient reported outcomes as this study detected the
+paucity of this data. This evidence should support the development of new healthcare policies to diagnose and manage
+patients more holistically.
+
+Introduction
+Endometriosis is defined by the presence of endometrium-like tissue outside the uterine cavity and can lead
+to complex outcomes such as dysmenorrhea, chronic
+pelvic pain (CPP), sexual dysfunction and subfertility.
+Women with endometriosis suffer from a range of symptoms although the most complex of these are frequently
+associated with mental health (MH)-related distress and
+psychiatric comorbidities. Consequential psychosocial
+factors and a range of pelvic pain disorders frequently
+exacerbate the patient’s experience of endometriosis and
+associated MH symptoms. Cross-sectional studies have
+shown exacerbated MH distress due to alterations of
+body image, loss, hopelessness, alexithymia and worthlessness as a result of endometriosis.1 Aerts et al.1 summarized the detrimental psychological impact and
+adjustments made by women with endometriosis, including heightened pain–related experiences and levels of
+distress.
+One of the theories of the pathogenesis in endometriosis is Sampson’s transplantation theory,2,3 where retrograde
+
+motion of endometrial cells via the fallopian tubes into the
+pelvic cavity during menstruation. During this process,
+endometrial tissue implants on the peritoneal surface.
+This theory is further evidenced where increases in endometriosis incidence among women with Mullerian Duct
+anomalies indicate an obstructed flow increases the possibility of retrograde menstruation. This is also supported
+by the frequent, lengthy and heavy menstruation common
+in endometriosis, which further increases the exposure of
+the pelvic cavity to develop endometriosis. However, contradictions to this theory have been published, as some
+epidemiological data indicate that only 0.5%–5% of
+women with retrograde menstruation appear to develop
+endometriosis.4
+The diagnosis and management of endometriosis is
+complicated by multiple factors, including issues around
+the pathophysiology of the disease, staging, severity and
+treatment responses, as well as limitations in current clinical and surgical management. However, the most severe
+and common comorbidities are pelvic pain, infertility and
+MH issues. As a result of this, further complications may
+arise in its long-term management as a result of MH
+
+Delanerolle et al.
+symptomatologies and psychiatric comorbidities that may
+compromise the social relationships of these patients. CPP
+is a key clinical feature of endometriosis which may exacerbate depression and anxiety, and these, in turn, may
+exacerbate CPP. In addition to these complex symptoms,
+these patients are also at high risk of comorbidities such as
+inflammatory bowel disease, adenomyosis, fibromyalgia
+and autoimmune diseases.5 Endometriosis is further influenced by ovarian hormone fluctuations and dynamic
+inflammatory changes in the ‘ectopically’ located endometriotic tissues, that can lead to changes in the temporal pattern of any pain and a wide range of symptoms that can be
+challenging to manage. As a result, these issues can have a
+negative impact on all aspects of a woman’s life and her
+wellbeing and may have wider implications for ongoing
+management.
+The latest epidemiological data from the UK suggest 1
+in 10 women may have endometriosis although the international prevalence remains unclear6 as comprehensive
+global endometriosis and mental health research is lacking. Although, even with further epidemiological study,
+given endometriosis comprises of subclinical courses and
+is frequently subject to misdiagnoses and delayed diagnosis, affirming prevalence with ‘real-world’ data could be
+challenging.
+The relationship between endometriosis and MH issues
+have been reported differently across a variety of studies. In
+addition, the perception of CPP or pain disorders such as
+dyspareunia, their reporting and impact on MH symptoms
+remain complex to evaluate, although there is some evidence to suggest they could lead to the development of
+mood disorders.7,8 Laganà et al.7 demonstrated an association between psychiatric disorders such as depression, somatization and anxiety among endometriosis patients. Given
+the presentation of endometriosis, it is very likely to
+adversely affect women’s MH, although theories around
+the pathophysiology and mechanism remain underresearched and unclear.9 The long-term consequences of
+restricted preoperative psychosocial evaluations and the
+lack of ongoing psychological support after surgery could
+be far reaching. Similarly, delayed or under diagnosed
+endometriosis could cause MH issues. Therefore, the overall quality of life of women with endometriosis is at risk
+and it has been reported that the potential for increased incidence in depression may be significant.10
+Current published research indicates a strong link
+between mental and physical health,11 although most
+chronic conditions are not well evaluated holistically.
+As per guidelines from the American Society for
+Reproductive Medicine, it is argued that women with
+endometriosis require lifelong personalized management plans.12 However, similar guidelines are not available globally. In order to achieve such recommendations,
+further knowledge of the prevalence of the MH sequalae
+would be required.
+
+3
+
+Methods
+An evidence synthesis protocol was developed as part of a
+systematic methodology. As part of this evidence synthesis,
+a systematic review was conducted to evaluate the current
+knowledge gap around MH outcomes within endometriosis patients, to help develop evidence based clinical guidelines and inform the design and conduct of future research.
+There are many different types of evidence synthesis methodologies that could be used, although these are mostly
+non-standardized and non-specific to research associated
+with sequalae where a primary and secondary health condition is evaluated. Therefore, we developed a multi-analysis
+method. The systematic review protocol was developed in
+accordance with the International Prospective Register of
+Systematic Reviews (PROSPERO) on the 15 July 2020
+(CRD42020181495) with an eligibility criteria that is relevant to the clinical research question.
+
+Research question/aims
+The primary aim was to determine the prevalence of the
+MH sequalae in endometriosis (symptoms and/or psychiatric disorders), including any indirect covariates.
+
+Data extraction
+The search strategy comprised of the use of multiple
+MeSH and key terms such as Mental Health, Depression,
+Anxiety, Mental Health and Endometriosis, Biopolar,
+Psychological disorders, Psychological distress, PostTraumatic-Stress-Disorder (PTSD), Psychosis, Mental
+wellbeing and Mood disorders. A snowball method was
+applied using these MeSH and key terms to identify any
+other relevant studies from within citation lists. Grey literature was reviewed to better evaluate patient reported
+outcomes although these were not included in the paper
+due to the lack of peer review available. Multiple databases were used, including PubMed, PROSPERO,
+EMBASE, ProQuest, BIOSIS, Science direct, Ovid
+MEDLINE and ClinicalTrials.gov. Variables of any MH
+symptomatology and/or psychiatric comorbidity were
+used as part of the inclusion/exclusion criteria for this
+study. Studies that reported both MH outcomes as a primary endpoint and any associated pain which demonstrated psychological distress were included. All
+randomized controlled trials (RCTs) and non-RCTs published in English between the 1 November 1995 and 30
+November 2020 were included.
+Multiple analysis methods were completed on the final
+systematically gathered dataset. Studies that may be
+excluded from the meta-analysis were analysed narratively. The data collection was completed using Endnote.
+An independent reviewer was used to evaluate the initial
+dataset as well as the final analysis (Table 1).
+
+36.1 (15–67)
+
+30.3 (19–44)
+
+18–52
+
+Not given
+
+Simoens et al.
+(2012)
+
+Kumar et al.
+(2011)
+
+Aubry et al. (2017)
+
+Hansen et al.
+(2013)
+Friedl et al. (2015)
+
+34.6 (19–48)
+
+34.3
+
+Sepulcri et al.
+(2009)
+
+Soliman et al.
+(2017)
+
+Fourquet et al.
+(2011)
+
+Not given
+
+Garry et al. (2000)
+
+Patients: 33.4
+Control: 29.6
+(18–44)
+33.2 (18–52)
+
+Age
+
+Author
+
+Pelvic pain
+Dyspareunia
+
+Pelvic pain
+Dysmenorrhea
+Dyspareunia
+Depression
+Anxiety
+
+Pain
+
+Pain
+Dysmenorrhea Pelvic pain
+
+Pelvic pain
+
+Depression
+Anxiety
+
+Pelvic pain
+Dyspareunia
+
+Clinical presentation
+
+Table 1. Systematically included studies.
+
+Not applicable
+
+193
+
+1269
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+62
+
+104
+
+Not applicable
+
+Use of Painkillers
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Medication
+
+1361
+
+216
+
+39
+
+909
+
+57
+
+Sample
+
+Degree of Depression
+Degree of Anxiety
+Depression–None
+Depression–Mild
+Depression–Moderate
+Depression–Severe
+Anxiety- None
+Anxiety- Minor
+Anxiety- Major
+Control and Powerlessness
+Emotional Well-being
+Social Support
+Self-image
+
+Anxiety
+Depression
+Quality of Life
+General mental health
+
+Biopolar I Disorder
+Bipolar II disorder
+Bipolar disorder
+Panic Disorder
+Major Depressive Disorder
+Quality of Life
+
+Depression
+Anxiety
+
+Mental Health
+
+MH Outcomes
+
+Pain
+
+Pain Intensity
+Intensity of Dysmenorrhea
+Intensity of Pelvic Pain
+Frequency of Painful
+defecation
+Frequency of dyspareunia
+Daily Pain Intensity
+Daily Pain Frequency
+
+Pelvic Pain
+
+Pelvic Pain
+Dysmenorrhoea
+Dyspareunia
+
+Pain outcomes
+
+Included
+
+Fertility
+Quality of Life
+
+Low mood, anxiety
+
+(Continued)
+
+Excluded
+
+Excluded
+
+Excluded
+
+Excluded
+
+Anxiety Depression
+
+General physical health
+
+Excluded
+
+Excluded
+
+Fertility
+
+Low Mood
+
+Included
+
+Healthcare costs
+Costs of productivity loss
+Total costs Qualityadjusted life years
+Life satisfaction
+
+Excluded
+
+Eligibility
+
+Other findings
+
+4
+Women’s Health﻿
+
+Case group: 31.01,
+Control group:
+29.35
+
+(16–58)
+
+Not specified
+(Born between
+1973–1990 from
+age 14 to 2016)
+
+34.4
+
+18.3 (13–21)
+
+Not given
+
+36.4
+
+17.8
+
+16–40
+
+Youseflu et al.
+(2020)
+
+Moradi et al.
+(2019)
+
+Gao et al. (2020)
+
+Matalliotakis et al.
+(2008)
+
+Matalliotakis et al.
+(2017)
+
+Chen et al. (2015)
+
+Carey et al. (2014)
+
+Smorgick et al.
+(2013)
+
+Kumar et al.
+(2010)
+Roth et al. (2011)
+
+32.1
+
+Age
+
+Author
+
+Table 1. (Continued)
+
+Chronic pelvic pain
+Endometriosis
+
+Pelvic pain
+
+Pelvic pain, dysmenorrhea, and
+dyspareunia
+
+Clinical presentation
+
+138
+
+200
+
+138
+
+79
+
+10439
+
+55
+
+735
+
+173,650
+
+423
+
+156
+
+Sample
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Isoflavones
+Genistein
+Daidzein
+Formononetin
+Glycitein
+Lignans
+Secoisolariciresinol
+Pinoresinol
+Lariciresinol
+Matairesinol
+Coumestrol
+Phytoestrogens
+Not applicable
+
+Medication
+
+Chronic Pain
+Depression
+Affective Disorder
+
+Major depression
+Depressive Disorders
+Anxiety
+Mental Health
+Depression (Normal/Borderline)
+Depression (Mild/Moderate/Severe)
+Mood Disorder
+
+Depressive, Anxiety and Stressrelated Disorders
+Attention-Deficit
+Hyperacitivity Disorder
+Personality Disorder
+
+Physical-Psychosocial
+Psychological
+Social
+
+MH Outcomes
+
+Pain
+Pain Disability
+
+Pelvic Pain
+Pain or burning during
+urination
+Pain with bowel movements
+Pain with sexual intercourse
+Pain with physical activity
+
+Dyspareunia
+
+Pelvic Pain
+Duration of infertility
+Dysmenorrhoea
+Dyspareunia
+
+Pain outcomes
+
+Excluded
+Physical
+Sexual
+Fertility
+Employment
+Educational
+Lifestyle
+Duration of infertility
+
+Physical Health
+Menses
+
+Endometriosis and
+congenital malformations
+Dry Eye Syndrome
+
+Excluded
+
+Diet
+
+(Continued)
+
+Excluded
+
+Excluded
+
+Included
+
+Included
+
+Excluded
+
+Excluded
+
+Included
+
+Excluded
+
+Eligibility
+
+Other findings
+
+Delanerolle et al.
+5
+
+81
+
+Not given
+
+Not given
+
+Not given
+
+Not given
+
+Not given
+
+Lewis et al. (1989)
+
+Laganà et al.
+(2015)
+
+De Graaff et al.
+(2016)
+
+Waller and Shaw
+(1995)
+
+Control group–patients
+admitted for sterilization and
+found to have a normal pelvis
+Group 2–patients complaining
+of infertility who were found
+to have minimal or mild
+endometriosis
+Group 3–patients found
+to have minimal or mild
+endometriosis complaining of
+one or more of the following:
+dysmenorrhea, dyspareunia, or
+pelvic pain
+Group 4–patients with pelvic
+pain symptoms with no obvious
+pathology at laparoscopy
+
+100
+
+Not given
+
+Lorençatto et al.
+(2006)
+Low et al. (1993)
+
+Not applicable
+
+Not applicable
+
+49
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Not applicable
+
+Medication
+
+243
+
+166
+
+16
+
+63
+
+33.1 (with pain)
+36.7 (without
+pain)
+
+Sample
+
+Eriksen et al.
+(2007)
+
+Clinical presentation
+
+Age
+
+Author
+
+Table 1. (Continued)
+
+State anxiety
+Trait anxiety
+Depression
+
+Depression
+Rational coping
+Emotional coping
+Detached coping
+Avoidant coping
+Anxiety
+Emotional control
+Mild depression
+Moderate/severe Depression
+Depression
+Psychoticism
+Extroversion
+Neuroticism
+Lie
+State anxiety
+Trait anxiety
+Depression
+Bipolar–mixed
+Bipolar–manic
+Somatization
+Depression
+Phobic anxiety
+Obsessive-compulsive Symptoms
+Anxiety
+Hostility
+Paranoid ideation
+Chronic pain
+Sexual anxiety and discomfort
+Anxiety
+Depression
+
+MH Outcomes
+
+Dysmenorrhoea
+
+Sexual Function
+Wellbeing
+Fertility, depression,
+anxiety scores,
+dyspareunia
+Women undergoing
+sterilization (Group 1)
+were slightly older; this
+represents un- avoidable
+bias due to the selection
+of patients for the
+operation.
+
+Somatisization, anxiety,
+depression, ocd
+
+Martial state
+General Health
+
+Coping
+
+Pain Severity
+
+Total pain Score
+
+Other findings
+
+Pain outcomes
+
+(Continued)
+
+Excluded
+
+Included
+
+Excluded
+
+Excluded
+
+Excluded
+
+Excluded
+
+Excluded
+
+Eligibility
+
+6
+Women’s Health﻿
+
+Not applicable
+
+Not given
+
+Not given
+
+Not given
+
+Not given
+
+Laganà et al.
+(2017)
+
+Vitale et al. (2016)
+
+Fleming et al.
+(2018)
+Chen et al. (2020)
+
+MH: mental health.
+
+Not applicable
+
+With
+endometriosis:
+36 ± 7.6
+Control:
+34.9 ± 10.1
+
+Non-menstrual pelvic pain,
+Dysmenorrhea, Dyspareunia
+
+35,664
+
+80
+
+Not applicable
+
+Not applicable
+
+Group 1–received
+nafarelin 200 ug
+IN twice daily plus
+placebo tablets twice
+daily
+Group 2–three MPA
+tablets twice daily
+together with placebo
+nasal spray twice
+daily.
+Not applicable
+
+Not applicable
+
+Cavaggioni et al.
+(2014)
+
+48
+
+171
+
+(18–46)
+
+Pelvic pain
+
+Bergqvist and
+Theorell (2001)
+
+Medication
+
+(20–40)
+
+Sample
+
+Facchin et al.
+(2015)
+
+Clinical presentation
+
+Age
+
+Author
+
+Table 1. (Continued)
+
+Bipolar disorder
+
+Psychotic disorder
+Mood disorders
+Anxiety disorders
+Somatoform disorders
+Eating disorders
+Alexithymia
+Depression
+Anxiety
+Psychosocial stress
+
+Quality of life
+Mental health
+Anxiety
+Depression
+Anxiety-depression
+
+MH Outcomes
+
+Bipolar disorder
+
+Migraine, fertility,
+depression, anxiety
+Psychiatric disorders
+
+Excluded
+
+Excluded
+
+Excluded
+
+Excluded
+
+Poor quality of life
+
+Chronic pelvic pain
+
+Excluded
+
+Excluded
+
+Eligibility
+
+Included
+
+Spottings
+Induration
+Disturbed Sleep
+
+Other findings
+
+Dysmenorrhoea
+Dyspareunia
+Non menstrual pelvic pain
+
+Dysmenorrhoea
+Dyspareunia
+Pelvic Pain
+Pelvic Tenderness
+
+Dysmenorrhea
+Dyspareunia Non-menstrual
+Pelvic pain Dyschezia
+
+Pain outcomes
+
+Delanerolle et al.
+7
+
+8
+
+Women’s Health﻿
+
+Quality assessment
+All studies identified within this review were cross-sectional studies. As such, it was important to assess the risk
+of bias, reliability of the analysis and validity of the evaluation conducted. The Newcastle-Ottawa Scale (NOS) was
+used to conduct this assessment. NOS allows 9 points of
+risk bias assessment associated with the study group, comparability within the groups based on outcomes as well as
+exposure and outcomes (Table 2).
+Table 2. Newcastle-Ottawa Scale (NOS).
+Author
+
+NOS score
+
+Garry (2000)
+Simoens et al. (2012)
+Kumar et al. (2011)
+Aubry et al. (2017)
+Hansen et al. (2013)
+Friedl et al. (2015)
+Fourquet et al. (2011)
+Sepulcri et al. (2009)
+Soliman et al. (2017)
+Youseflu et al. (2020)
+Maryam et al.
+Gao et al.
+Matalliotakis et al.
+Matalliotakis et al.
+Chen et al.
+Carey et al.
+Smorgick et al.
+Roth et al.
+Eriksen et al.
+Lorençatto et al.
+Low et al.
+Lewis et al.
+Laganà et al.
+De Graaff et al.
+Waller and Shaw
+Bergqvist and Theorell
+Cavaggioni et al.
+Vitale and Laganà
+Fleming et al.
+Chen et al.
+González-Echevarría AM et al.
+Mathias et al.
+Randolph ME et al.
+Stratton P et al.
+
+***** (5)
+****** (6)
+****** (6)
+****** (6)
+***** (5)
+******* (7)
+***** (5)
+***** (5)
+****** (6)
+****** (6)
+****** (6)
+******* (7)
+****** (6)
+***** (5)
+******* (7)
+****** (6)
+******* (7)
+****** (6)
+***** (5)
+***** (5)
+****** (6)
+***** (5)
+***** (5)
+***** (5)
+****** (6)
+****** (6)
+******* (7)
+****** (6)
+***** (5)
+**** (4)
+****** (6)
+****** (6)
+
+NOS: Newcastle-Ottawa Scale.
+*Quality of the included cross-sectional studies was measured using the
+modified Newcastle-Ottawa Measurement Scale specific for crosssectional studies.
+We rated the quality of the studies (good, fair and poor) by allocating
+each domain with stars in this manner:
+• A good quality score was awarded 3 or 4 stars in selection, 1 or 2
+in comparability, and 2 or 3 stars in outcomes.
+• A fair quality score was awarded 2 stars in selection, 1 or 2 stars in
+comparability, and 2 or 3 stars in outcomes.
+• A poor quality score was allocated 0 or 1 star(s) in selection, 0
+stars in comparability, and 0 or 1 star(s) in outcomes domain in line
+with the NOS guidelines.
+
+An independent reviewer appraised the risk of bias
+and methodological quality in accordance to the NOS
+that has validity for use in cohort studies and the adapted
+version by Modesti and colleagues (2016) was used for
+cross-sectional studies. An eight item scale with three
+quality parameters of (1) selection, (2) comparability and
+(3) outcome. The quality of the studies were rated (good,
+fair and poor) by allocating each domain with stars in this
+manner:
+•• A Good quality score was awarded 3 or 4 stars in
+selection, 1 or 2 in comparability, and 2 or 3 stars in
+outcomes.
+•• A Fair quality score was awarded 2 stars in selection, 1 or 2 stars in comparability, and 2 or 3 stars in
+outcomes.
+•• A Poor quality score was allocated 0 or 1 star(s) in
+selection, 0 stars in comparability, and 0 or 1 star(s)
+in outcomes domain.
+
+Data synthesis
+For prevalence estimation, summary statistics were
+extracted from studies that reported MH outcomes in
+women with endometriosis or chronic pain or CPP. These
+statistics were either prevalence or mean (standard deviation (SD) or median and interquartile range (IQR).
+Estimates for studies that reported median and IQR were
+converted to mean and SD. For studies that did not report
+prevalence rates but reported only mean (SD) or median
+(IQR) we employed Monte Carlo simulations to estimate
+the proportion of the outcome based on appropriate cut-off
+points for the tool used to measure the outcome (a score of
+19 for BDI and 8 for HADS).13–15 We assumed normality
+of the distribution when mean (SD) were reported or the
+data were symmetrical.
+Estimate pooled prevalence were calculated for anxiety
+and depression, CPP, and dyspareunia for which purpose we
+used a random-effects model. We also used a random effect
+model to compute pooled estimate of mean score of CPP
+measured using SF-MPQ and compute prevalence ratios of
+anxiety and depression. We used the I2 statistic to assess heterogeneity between the studies for which the cut-off values
+for degree of heterogeneity were – 25% for low, 50% for
+moderate, and 75% for high.16 To investigate sources of heterogeneity we conducted sensitivity analyses for outcomes
+that had sufficient sample size for these analyses. These
+included estimate of prevalence of depression by excluding
+a lone study where participants were enrolled from primary
+care and another analysis that included only cross-sectional
+studies. We were able to assess potential publication bias
+through visualization of funnel plot and Egger’s test for only
+depression since it was the only outcome with ⩾ 10 studies.
+Analysis was conducted using STATA 14.0.
+A total of 34 cross-sectional studies were finalized for the
+systematic review, although 12 were included into the metaanalysis. The 12 studies reported depression, anxiety, CPP,
+
+Delanerolle et al.
+
+9
+
+Depression
+
+dyspareunia and dysmenorrhea. The remaining studies were
+reviewed as part of the thematic and narrative analysis.
+
+We found the prevalence of depressive symptoms among
+women with endometriosis to be 28.9% (95% CI: 8.6%–
+49.2%) (Figure 2(b)). When we included only the studies
+that used the Beck Depression Inventory (BDI) to assess
+depressive symptoms we did not find the results to be
+materially different from the overall estimate (prevalence:
+24.8%, 95% CI: 10.1%–39.4%) (Supplemental Figure 1).
+Analysis conducted after excluding a study that enrolled
+patients from primary care instead of tertiary care/women’s clinics/university hospital/gynaecological clinics
+resulted in little change to the prevalence estimate
+(Supplemental Figure 2). However, meta-analysis of only
+cross-sectional studies resulted in a lower prevalence compared to the overall estimate (22.0% vs 28.9%)
+(Supplemental Figure 3). Meta-analysis of three studies
+did not reveal strong evidence of higher prevalence of
+
+Meta-analysis
+Anxiety. The prevalence for anxiety symptoms was found
+to be 31.8% (95% CI: 26.5% - 37.1%) (Figure 2(a)). We
+were able to pool five studies to compute prevalence ratios.
+The prevalence of anxiety symptoms was 2.8 times higher
+among women who had endometriosis compared to
+women without endometriosis (Figure 3(a)). A prospective cohort study that was not included in the meta-analysis17 reported 44% increased risk for anxiety for women
+with endometriosis compared to women without endometriosis. The same study reported a hazard ratio of 1.39
+(95%CI: 1.14, 1.71) for anxiety among women with endometriosis who were < 40 years of age and 1.53 (95%CI:
+1.15, 2.04) for women who were ⩾ 40 years of age.
+
+Screening
+Screening
+Eligibility
+
+Records identified
+through database
+searching, Pubmed,
+EMBASE, Science direct
+(n=47714)
+
+Duplicates removed = 39
+Titles that did not reach
+inclusion criteria
+removed = 47,650
+
+Records after duplicates
+and titles screened
+(n=95)
+
+Additional records
+identified through other
+sources (n=67)
+
+Full text articles
+assessed for eligibility
+(n=166)
+
+132 studies were
+excluded as they did not
+meet the inclusion
+criteria
+
+Included
+
+Studies included in the
+systematic review (n=34)
+
+Studies included in the
+meta-analysis (n=15)
+
+Figure 1. PRISMA chart.
+
+Studies included in the
+thematic analysis (n=22)
+
+10
+
+Women’s Health﻿
+
+Figure 2. Forest plot of pooled prevalence of (a) anxiety among women with endometriosis, (b) depression among women with
+endometriosis.
+
+Figure 3. Forest plot of prevalence odds ratio of (a) anxiety among women with endometriosis compared to women without
+endometriosis, (b) depression among women with endometriosis compared to women without endometriosis.
+
+depression among women with endometriosis compared to
+women without endometriosis (Figure 3(b)).
+
+Other outcomes
+The pooled prevalence for CPP was high at 57.2% (95%
+CI: 7.0%–107.4%) (Figure 4(a)). We found the pooled
+estimate of mean SF-MPQ for chronic pain to be 13.09
+(95% CI: 7.13–19.05) (Supplemental Figure 4). The other
+outcome for which we were able to compute prevalence
+was dyspareunia which was found to be high too at 54.9%
+(95% CI: 43.9%–65.9%) (Figure 4(b)). Six studies that
+reported anxiety among BAME women with endometriosis were identified, therefore it was not possible to complete a meta-analysis.
+
+Studies that were excluded from the meta-analysis were
+still part of the systematic review and therefore were used
+as part of the thematic and narrative analysis included
+within the discussion.
+
+Publication bias
+Funnel plot suggested evidence for publication bias
+with a tendency for studies with low prevalence rates
+for depression to be not published (Supplemental Figure
+5). However, the p-value for Egger’s test for funnel
+asymmetry was found to be 0.50 suggesting insufficient
+evidence to test for publication bias, probably due to
+low power (only 11 studies included) to detect such a
+bias.
+
+Delanerolle et al.
+
+11
+
+Figure 4. Forest plot of pooled prevalence of (a) chronic pelvic pain among women with endometriosis, (b) dyspareunia among
+women with endometriosis.
+
+Narrative analysis
+The translation of analytical and descriptive themes are
+important to facilitate transparency of reporting qualitative
+and quantitative data. Based on all 34 papers identified
+systematically, anxiety, depression, CPP and dyspareunia
+were identified as recurring themes reported by all the
+studies. In addition, a range of other non-standardized variables were identified as demonstrated in Table 3. However,
+the data were unclear regarding the prevalence of symptoms versus clinical diagnoses, which hinders a full assessment of the short, medium and long-term implications for
+patients and healthcare systems. The identification of CPP
+and dyspareunia in particular purports further impact on
+patients’ MH, as highlighted by Till et al.18 Women with
+
+CPP are reported to have significant rates of psychological
+disorders in comparison to those without CPP.18 Bryant
+et al.19 further reported that in their outpatient clinics for
+CPP, over 50% of patients had moderate to severe anxiety
+while over 25% had moderate to severe depression.
+Symptoms such as anxiety and depression may share a
+symbiotic relationship which may be exacerbated among
+endometriosis women that use opioids due to CPP.
+Generalized anxiety disorder (GAD) has been found to be
+more common in patients with CPP or any type of pain
+disorder or symptomatology associated with a primary
+condition such as endometriosis. Bryant et al.19 reported
+patients with CPP demonstrate 30%–73% with anxiety
+which is 3 to 7 times higher in comparison to the general
+population which is around 12%.20
+
+Table 3. Demonstration of mental health themes identified within the systematically identified dataset.
+Themes
+
+Population Group
+Endometriosis Patients
+
+Depression
+Anxiety
+Pelvic pain
+Pain
+Dysmenorrhoea
+Dyspareunia
+Mental health
+Bipolar I disorder
+Bipolar II disorder
+Bipolar disorder
+Major depressive disorder
+Control and powerlessness
+Well-being
+Physical health
+Sexual function
+Mood disorder
+Psychotic disorder
+
++++++++++++++++++++
++++++++++++++++
++++++++++
+++++++++
+++++++
++++++
+++++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+++
+(continued)
+
+12
+
+Women’s Health﻿
+
+Table 3. (continued)
+Themes
+
+Population Group
+Endometriosis Patients
+
+Somatization
+Panic disorder
+Life satisfaction
+Quality of life
+Disturbed sleep
+Induration
+Pelvic tenderness
+General physical health
+Social support
+Obsessive-compulsive symptoms
+Spottings
+Sexual anxiety
+Self-image
+Hostility
+Paranoid ideation
+Drug use
+Psychological
+Social
+Fertility
+Employment
+Education
+Lifestyle
+Attention-deficit hyperactivity disorder
+Personality disorder
+Duration of infertility
+Congenital malformations
+Dry eye syndrome
+Menses
+Affective disorder
+Pain disability
+Coping styles
+Marital status
+General health
+Eating disorder
+
+GAD causes pervasive worries which can be coupled
+with muscle tension or fatigue that impact other endometriosis symptoms.
+Dyspareunia is a key feature of sexual pain disorders
+and CPP. It is also a cardinal feature of endometriosis,21
+and is connected with various other gynaecological conditions such as infertility. However, this meta-analysis has
+demonstrated that despite a high prevalence of CPP, the
+assessment tools used in most trials are inadequate and its
+association with dyspareunia is unclear. Furthermore,
+while it is agreed most endometriosis patients may have
+‘deep dyspareunia’, it is challenging to confirm this clinically. Self-administered measures of pain (e.g. the McGill
+Pain Questionnaire22) and its impact on sexual function
+(e.g. Female Sexual Function Index,23 Female Sexual
+Distress Scale24), and psychological (e.g. Beck Depression
+
+++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+
+Inventory-II,25 Beck Anxiety Inventory26) and relationship
+adjustment (e.g. Dyadic Adjustment Scale,27 the LockeWallace Marital Adjustment Test28) are some of the tools
+that have been used. These assessment questionnaires are
+often nonspecific for CPP. There is scant evidence that the
+current assessment tools provide meaningful clinical
+results in patients suffering from CPP as a consequence of
+endometriosis. The pain assessment tools are not universally used for CPP suffers and this can be attributed to lack
+of evidence and a clear guidance for its use.
+Surgically diagnosed endometriosis patients may have
+a better probability of confirming symptomatologies of
+dyspareunia. Inadequate assessments could be one reason
+for the current difficulties in identifying and managing
+these symptoms, that could lead to psychological distress
+which could further impact physical and mental wellbeing.
+
+Delanerolle et al.
+This in turn could make the provision of the clinical care of
+CPP cumbersome. The EUA guidelines on management of
+persistent CPP after appropriate medical treatment recommends an approach focussed on managing pain, via integrated medical and psychological care. Patients with
+pelvic pain differ substantially in the extent they will volunteer information about emotional and behavioural
+aspects of pain.29 One way to address this would be to
+introduce a tool for early assessment of pain and any associated psychosocial impact, that incorporates long-term
+monitoring that could support clinical management.
+A total of 17 papers reported the impact of endometriosis on generalized quality of life (QoL) using the Short
+Form Health Survey-36 and 12 (SF36 and SF 12) and also
+using assessments specific to endometriosis (Endometriosis
+Health Profile-30 and EHP-30 and EHP-5). These studies
+(which were not included in the meta-analysis) demonstrated a reduction in QoL,29–34 with a few patients reporting their experience to be ‘worse than death’.35 However,
+these QoL assessments were not conducted in conjunction
+with any MH assessments.
+
+Discussion
+In order to better characterize the MH sequelae of endometriosis, it is equally important to understand the pathogenesis of the disease which is driven by an oestrogen
+dependency and its association with the central feature,
+CPP. Sensitisation to pain varies across women with the
+disease, which may alter their behaviour due to changes
+within the electrophysiology of the brain. Li et al.36 tested
+their theory of endometriosis and change in the electrophysiology and found a number of genes were involved
+with pain, locomotion and anxiety. They concluded that
+endometriosis associated pain sensitisation, depression
+and anxiety all altered the electrophysiology of the brain.36
+Furthermore, Tokushige et al.37 demonstrated that nerve
+fibres within the functional layer of the endometrium and
+ectopic endometriosis lesions were nociceptive within
+clinical studies. Thus, nascent endometriosis specific neuropathological involvement could have a wider effect on
+neuronal behaviour within the central neural system
+(CNS) and influence pain sensitisation among patients,
+and it could be argued that this may impact the electrophysiology of the brain further.38 In addition, in CPP associated with endometriosis, endometriotic lesions elicit
+increases in prostaglandin, cytokine and growth factor
+concentrations inducing a unique neural and vascular
+implantation process via neuroangiogenesis.38 Overall,
+these mechanisms appear to be complex in nature and
+remain unclear. In addition to this, further evidence of the
+CNS involvement has been reported by Agarwal and
+Subramanian39 including two cases of cerebral endometriosis with cystic masses in the cerebellar vermis. As a
+result of these factors, there are potential neuropsychiatric
+
+13
+mechanisms to consider. All this only emphasizes the
+need to better characterize and understand the MH
+sequalae among endometriosis patients. To do this, comprehensive assessment tools maybe required to better
+characterize and report MH symptoms and clinical features through patient reported outcomes.
+Four of the 34 studies identified used a validated, clinical diagnostic assessment to diagnose psychiatric disorders. Kumar et al.40 described 37% of the endometriosis
+group and 50% of the pelvic pain group having a familial
+history of mood disorders although, they were not taking
+any GnRH agonist treatments. Pharmacological, surgical
+or psychosocial interventions and potential associations
+were not identified within these studies.41
+To fully explore QoL among endometriosis patients, the
+mechanistic nature and role of MH difficulties should be
+explored in the first instance. Current QoL data are probably not reflective of the true individual disease burden in
+the short, medium or long-term. QoL data should also be
+used to develop suitable health economic models (HEMs)
+for endometriosis and its associated comorbidities. Without
+this, it is not feasible to evaluate the true health and social
+care cost of endometriosis and its relevance to the MH
+sequalae shared with endometriosis. Thus, there still
+remains a significant gap in understanding the actual cost
+implications of MH symptoms in endometriosis on clinical
+services. Research into this area appears to be absent
+although, some studies have attempted to evaluate HEMs
+for endometriosis using estimated costs, despite the lack of
+comprehensive prevalence data.
+Use of qualitative or quantitative methods alone may
+not suffice to inform the knowledge and practice based
+requirements in endometriosis, because of the complex
+characteristics demonstrated among this population of
+patients. This is also apparent in grey literature.
+In this meta-analysis, majority of the data were on
+prevalence, although the sample sizes were limited, preventing any sub-group analysis being conducted on age
+groups, ethnicity and geographical location. Most studies
+did not report these aspects, therefore, a sub-group analysis was not conducted. In addition to this, a compute odds
+ratio was conducted despite a small number of studies,
+that indicated insufficient evidence within the literature
+to identify the effects of endometriosis on MH in the
+short, medium and long-term. This further reinforces the
+need for comprehensive clinical research to be conducted
+that would enable the results to be generalized to the
+wider population.
+Across most studies, a recurring theme is patients’ experiences of pain, dyspareunia, irregular bleeding and infertility. While endometriosis is associated with infertility, QoL
+of patients could be impacted in a number of ways including their psychological wellbeing. Most papers report on
+both severe and progressive pain during menstruation and
+in pre- and post-menstruation phases. Symptomatologies
+
+14
+such as fatigue, tiredness, sleep disturbances, bowel and
+bladder symptoms have been reported. As a result of these
+symptoms, there is also a reported impact on a woman’s
+mental wellbeing, and women frequently experience and
+report depression and anxiety. Empirical research also suggests an exacerbation of MH symptoms due to a delayed
+diagnosis and the heightened experiences of severe symptoms that remained clinically undermanaged. Prolonged
+low-dose hormonal contraception or progestogens, offered
+as first-line treatment, may in turn aggravate the risk of MH
+problems.42
+There was also a theme that indicated endometriosis
+impacted intimate relationships. This has been suggested
+to be between 33.5% and 71%,29,43 largely as a result of
+CPP and dyspareunia. Bernuit et al.29 across-country study
+indicated 24–25% women within their endometriosis population experienced dyspareunia. However, the precise
+MH impact of this and the possible association with symptoms such as low mood was unreported. It is further evident that the impact of endometriosis on women’s partners
+remains unexplored and requires further research.44,45
+A distinctive feature reported by researchers and
+patients alike within these papers is CPP. As a result of
+endometriosis-associated pain, women may have reduced
+physical functioning that may affect mobility long-term, as
+well increase their risk for other health conditions such as
+diabetes. Simoens et al.35 reported between 16% and 61%43
+of women with endometriosis reported challenges with
+daily activities, including self-care. However, based on
+these studies, it is unclear if the reported deterioration and
+ongoing difficulties with MH is as a direct result of the
+decline in activities or other underlying disorders.
+Interestingly, Nnoaham et al.46 demonstrated a considerable reduction in physical health among endometriosis
+patients in comparison to the rest of the population.
+Based on this evidence, it appears endometriosis
+patients have significant MH symptoms such as depression and anxiety, although the relative clinical significance
+within a generalisable population remains unclear. In order
+to provide optimal care to endometriosis patients, MH difficulties need to be taken into account by clinical teams,
+and based on this evidence, it is unlikely a uniformal holistic approach is currently being used, or at least reported by
+all global healthcare systems. As a result of this, a wider
+evaluation of the MH sequalae of endometriosis is required.
+
+Limitations
+The primary limitations of this review is the small number of
+studies included in the meta-analysis. This evidence synthesis is based on cross-sectional studies only. Cross-sectional
+data often lacks directionality and provides no insight into
+mechanistic associations or causal effects between endometriosis and MH issues. Furthermore, poor quality data was a
+concern, as was the lack of psychiatric diagnostic data, and
+
+Women’s Health﻿
+some studies were excluded on this basis. There was moderate-to-high heterogeneity for the studies included in the overall prevalence estimates of anxiety (I2 = 73%) and depression
+(I2 = 99%). We could not, however, thoroughly investigate
+sources of heterogeneity due the limited number of studies
+included in the analysis (especially for CPP and dyspareunia
+prevalence estimate). Another limitation is that, the results of
+the meta-analysis should be interpreted with caution given
+that it is based on small number of studies for each outcome,
+but this also throws light on the fact that there is a gap in the
+literature on MH disorders in women with endometriosis.
+
+Discussion
+This paper highlights the prevalence of MH sequalae in
+endometriosis. But a key finding of the review is that the
+pain and MH assessments used have considerable variability, and lack specificity. As a result, this could contribute to
+a significant knowledge and practice gap.
+Most studies describe stress-related disorders, eating
+disorders, attention deficit hyperactivity disorders and personality disorders as being common among women with
+endometriosis and some even suggest familial liability,
+although the mechanistic causation requires to be investigated further as the generalizability of this data remains
+poor.
+Overall, psychiatric comorbidities remain unreported
+and unsubstantiated with the exception of a study reporting
+reduced psychological functioning and QoL as a result of
+MH difficulties,41 when the authors reported that 56.4% of
+women with endometriosis fulfilled the clinical criteria for
+psychiatric disorders.
+While we acknowledge pain and MH disorders are
+complex conditions independently, they appear to share an
+overlapping sequalae with endometriosis. However, the
+pathophysiology of this construct remains to be seen. It is
+important that future research conducted should comprise
+of larger sample sizes that could be generalisable to the
+wider population, as well as psychiatric diagnostic assessments. In order to evaluate, diagnose and treat endometriosis in a holistic manner, it is vital to understand the
+applicability of existing instruments and whether these
+could be harmonized even when varied methods and settings use these. Finally, the MH burden associated with
+endometriosis and its associated pain disorders should be
+determined to improve clinical practices.
+
+Conclusion
+This SR demonstrated that the most common type of MH
+symptoms and psychiatric comorbidities reported in
+patients with endometriosis are anxiety and depression.
+However, there were a large proportion of studies with
+poor study designs and small sample sizes, therefore,
+these outcomes may not be reflective of the wider
+
+Delanerolle et al.
+
+15
+
+population. These studies also failed to differentiate MH
+symptoms from psychiatric disorders. Overall, the prevalence of psychiatric comorbidities among the endometriosis populations remains significantly unresearched.
+Interim clinical plans to address these disturbances remain
+inconclusive due to the lack of association data from epidemiological studies between CPP, endometriosis and
+MH issues. This paper also demonstrates that the current
+literature is insufficient to establish either a unidirectional
+and/or a bidirectional causality between endometriosis
+and MH problems. It is vital to acknowledge the importance of conducting comprehensive and statistically significant research to further the understanding of the
+association of endometriosis and MH issues. This would
+further the management of this complex, and life long,
+multifaceted condition.
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with respect
+to the research, authorship, and/or publication of this article.
+
+Funding
+The author(s) received no financial support for the research,
+authorship, and/or publication of this article.
+
+ORCID iD
+Gayathri Delanerolle
+
+https://orcid.org/0000-0002-9628-9245
+
+Supplemental material
+Supplemental material for this article is available online.
+
+References
+1. Aerts L, Grangier L, Streuli I, et al. Psychosocial impact
+of endometriosis: from co-morbidity to intervention. Best
+Pract Res Clin Obstet Gynaecol 2018; 50: 2–10.
+2. Koninckx PR, Ussia A, Adamyan L, et al. Pathogenesis of
+endometriosis: the genetic/epigenetic theory. Fertil Steril
+2019; 111(2): 327–340.
+3. Sampson JA. Metastatic or embolic endometriosis, due to
+the menstrual dissemination of endometrial tissue into the
+venous circulation. Am J Pathol 1927; 3: 93–110.
+4. Halme J, Hammond MG, Hulka JF, et al. Retrograde menstruation in healthy women and in patients with endometriosis. Obstet Gynecol 1984; 64(2): 151–154.
+5. Ballard KD, Seaman HE, de Vries CS, et al. Can symptomatology help in the diagnosis of endometriosis? Findings
+from a national case-control study – part 1. BJOG 2008;
+115(11): 1382–1391.
+6. Mowers EL, Lim CS, Skinner B, et al. Prevalence of
+endometriosis during abdominal or laparoscopic hysterectomy for chronic pelvic pain. Obstet Gynecol 2016; 127:
+1045–1053.
+7. Laganà AS, La Rosa V, Petrosino B, et al. Comment on
+‘risk of developing major depression and anxiety disorders
+among women with endometriosis: a longitudinal follow-up
+study’. J Affect Disord 2017; 208: 672–673.
+
+8. Cavaggioni G, Lia C, Resta S, et al. Are mood and anxiety
+disorders and alexithymia associated with endometriosis? A
+preliminary study. Biomed Res Int 2014; 2014: 786830.
+9. Rolla E. Endometriosis: advances and controversies in classification, pathogenesis, diagnosis, and treatment. F1000Res.
+Epub ahead of print 23 April 2019. DOI: 10.12688/f1000research.14817.1.
+10. Warzecha D, Szymusik I, Wielgos M, et al. The impact of
+endometriosis on the quality of life and the incidence of
+depression – a cohort study. Int J Environ Res Public Health
+2020; 17(10): 3641.
+11. Ohrnberger J, Fichera E and Sutton M. The relationship
+between physical and mental health: a mediation analysis.
+Soc Sci Med 2017; 195: 42–49.
+12. Bodenheimer T, Lorig K, Holman H, et al. Patient self-management of chronic disease in primary care. JAMA 2002;
+288(19): 2469–2475.
+13. Low WY, Edelmann RJ and Sutton C. A psychological profile of endometriosis patients in comparison to patients with
+pelvic pain of other origins. J Psychosom Res 1993; 37(2):
+111–116.
+14. De Graaff AA, Van Lankveld J, Smits LJ, et al. Dyspareunia
+and depressive symptoms are associated with impaired sexual functioning in women with endometriosis, whereas sexual functioning in their male partners is not affected. Hum
+Reprod 2016; 31(11): 2577–2586.
+15. Waller KG and Shaw RW. Endometriosis, pelvic pain,
+and psychological functioning. Fertil Steril 1995; 63(4):
+796–800.
+16. Higgins JPT, Thompson SG, Deeks JJ, et al. Measuring
+inconsistency in meta-analyses. BMJ 2003; 327(7414):
+557–560.
+17. Chen LC, Hsu JW, Huang KL, et al. Risk of developing
+major depression and anxiety disorders among women
+with endometriosis: a longitudinal follow-up study. J Affect
+Disord 2016; 190: 282–285.
+18. Till SR, As-Sanie S and Schrepf A. Psychology of chronic
+pelvic pain: prevalence, neurobiological vulnerabilities, and
+treatment. Clin Obstet Gynecol 2019; 62(1): 22–36.
+19. Bryant C, Cockburn R, Plante AF, et al. The psychological profile of women presenting to a multidisciplinary clinic
+for chronic pelvic pain: high levels of psychological dysfunction and implications for practice. J Pain Res 2016; 9:
+1049–1056.
+20. Romão AP, Gorayeb R, Romão GS, et al. High levels of
+anxiety and depression have a negative effect on quality
+of life of women with chronic pelvic pain. Int J Clin Pract
+2009; 63(5): 707–711.
+21. Wahl KJ, Orr NL, Lisonek M, et al. Deep dyspareunia,
+superficial dyspareunia, and infertility concerns among
+women with endometriosis: a cross-sectional study. Sex
+Med 2020; 8(2): 274–281.
+22. Melzack R and Katz J. The McGill pain questionnaire:
+appraisal and current status. In: Turk DC and Melzack R
+(eds) Handbook of pain assessment. 2nd ed. New York:
+Guilford Press, 2001, pp. 35–52.
+23. Rosen R, Brown C, Heiman J, et al. The Female Sexual
+Function Index (FSFI): a multidimensional self-report
+instrument for the assessment of female sexual function. J
+Sex Marital Ther 2000; 26(2): 191–208.
+
+16
+24. Derogatis LR, Rosen R, Leiblum S, et al. The Female Sexual
+Distress Scale (FSDS): initial validation of a standardized
+scale for assessment of sexually related personal distress in
+women. J Sex Marital Ther 2002; 28(4): 317–330.
+25. Beck AT, Steer RA and Brown GK. Beck depression inventory manual. 2nd ed. San Antonio, TX: Psychological
+Corporation, 1996.
+26. Beck AT and Steer RA. Beck anxiety inventory. San
+Antonio, TX: Psychological Corporation, 1990.
+27. Spanier GB. Measuring dyadic adjustment: new scales
+for assessing the quality of marriage and similar dyads. J
+Marriage Family 1976; 38: 15–28.
+28. Hawkins JL. The Locke marital adjustment test and social
+desirability. J Marriage Family 1966; 28(2): 193–195.
+29. Bernuit D, Ebert AD, Halis G, et al. Female perspectives on
+endometriosis: findings from the uterine bleeding and pain
+women’s research study. J Endometr Pelvic Pain Disord
+2011; 3(2): 73–85.
+30. Marques A, Bahamondes L, Aldrighi JM, et al. Quality
+of life in Brazilian women with endometriosis assessed
+through a medical outcome questionnaire. J Reprod Med
+2004; 49(2): 115–120.
+31. Petrelluzzi KF, Garcia MC, Petta CA, et al. Salivary cortisol
+concentrations, stress and quality of life in women with endometriosis and chronic pelvic pain. Stress 2008; 11(5): 390–397.
+32. Siedentopf F, Tariverdian N, Rücke M, et al. Immune status,
+psychosocial distress and reduced quality of life in infertile
+patients with endometriosis. Am J Reprod Immunol 2008;
+60(5): 449–461.
+33. Tripoli TM, Sato H, Sartori MG, et al. Evaluation of quality of life and sexual satisfaction in women suffering from
+chronic pelvic pain with or without endometriosis. J Sex
+Med 2011; 8(2): 497–503.
+34. Chene G, Jaffeux P, Lasnier C, et al. Quality of life of
+women with endometriosis: comparison between epiphenomenon and severe disease. J Endometr Pelvic Pain
+Disord 2012; 4(2): 77–84.
+35. Simoens S, Dunselman G, Dirksen C, et al. The burden
+of endometriosis: costs and quality of life of women with
+
+Women’s Health﻿
+
+36.
+
+37.
+
+38.
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+endometriosis and treated in referral centres. Hum Reprod
+2012; 27(5): 1292–1299.
+Li T, Mamillapalli R, Ding S, et al. Endometriosis alters
+brain electrophysiology, gene expression and increases pain
+sensitization, anxiety, and depression in female mice. Biol
+Reprod 2018; 99(2): 349–359.
+Tokushige N, Markham R, Russell P, et al. Different types
+of small nerve fibers in eutopic endometrium and myometrium in women with endometriosis. Fertil Steril 2007;
+88(4): 795–803.
+Asante A and Taylor RN. Endometriosis: the role of neuroangiogenesis. Annu Rev Physiol 2011; 73: 163–182.
+Agarwal N and Subramanian A. Endometriosis – morphology, clinical presentations and molecular pathology. J Lab
+Physicians 2010; 2(1): 1–9.
+Kumar A, Gupta V and Maurya A. Mental health and quality of life of chronic pelvic pain and endometriosis patients.
+J Project Psychol Mental Health 2010; 17(2): 153–157.
+Pope CJ, Sharma V, Sharma S, et al. A systematic review of
+the association between psychiatric disturbances and endometriosis. J Obstet Gynaecol Can 2015; 37(11): 1006–1015.
+Skovlund CW, Mørch LS, Kessing LV, et al. Association of
+hormonal contraception with depression. JAMA Psychiatry
+2016; 73(11): 1154–1162.
+Fourquet J, Báez L, Figueroa M, et al. Quantification of the
+impact of endometriosis symptoms on health-related quality of life and work productivity. Fertil Steril 2011; 96(1):
+107–112.
+Hudson N, Law C, Culley L, et al. Conducting dyadic, relational research about endometriosis: a reflexive account
+of methods, ethics and data analysis. Health 2020; 24(1):
+79–93.
+Culley L, Law C, Hudson N, et al. A qualitative study of
+the impact of endometriosis on male partners. Hum Reprod
+2017; 32(8): 1667–1673.
+Nnoaham KE, Hummelshoj L, Webster P, et al. Impact of
+endometriosis on quality of life and work productivity: a
+multicenter study across ten countries. Fertil Steril 2011;
+96(2): 366–373.
+
+

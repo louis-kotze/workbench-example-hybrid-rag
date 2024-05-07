@@ -1,0 +1,1631 @@
+ORIGINAL RESEARCH
+published: 15 December 2021
+doi: 10.3389/fgwh.2021.767114
+
+The Physical, Psychological, and
+Social Day-to-Day Experience of
+Women Living With Endometriosis
+Compared to Healthy Age-Matched
+Controls—A Mixed-Methods Study
+Elisabeth Olliges 1,2,3*, Alina Bobinger 2 , Annemarie Weber 1 , Verena Hoffmann 1 ,
+Timo Schmitz 1,4 , Roxana M. Popovici 5,6 and Karin Meissner 1,2*
+1
+
+Edited by:
+Annalise Weckesser,
+Birmingham City University,
+United Kingdom
+Reviewed by:
+Rosalia Maria Ragusa,
+University Hospital Polyclinic Vittorio
+Emanuele, Italy
+Taís Marques Cerentini,
+Federal University of Health Sciences
+of Porto Alegre, Brazil
+*Correspondence:
+Elisabeth Olliges
+elisabeth.olliges@barmelweid.ch
+Karin Meissner
+karin.meissner@hs-coburg.de
+Specialty section:
+This article was submitted to
+Quality of Life,
+a section of the journal
+Frontiers in Global Women’s Health
+Received: 30 August 2021
+Accepted: 25 October 2021
+Published: 15 December 2021
+Citation:
+Olliges E, Bobinger A, Weber A,
+Hoffmann V, Schmitz T, Popovici RM
+and Meissner K (2021) The Physical,
+Psychological, and Social Day-to-Day
+Experience of Women Living With
+Endometriosis Compared to Healthy
+Age-Matched Controls—A
+Mixed-Methods Study.
+Front. Glob. Womens Health
+2:767114.
+doi: 10.3389/fgwh.2021.767114
+
+Faculty of Medicine, Institute of Medical Psychology, LMU Munich, Munich, Germany, 2 Division of Health Promotion,
+Coburg University of Applied Sciences, Coburg, Germany, 3 Department of Psychosomatic Medicine and Psychotherapy,
+Barmelweid, Switzerland, 4 Chair of Epidemiology, University of Augsburg, Augsburg, Germany, 5 Kïz, Munich, Germany,
+6
+Department of Gynecologic Endocrinology and Fertility Disorders, Heidelberg University Women’s Hospital, Heidelberg,
+Germany
+
+Background: Endometriosis is characterized by lesions of endometrial tissue outside
+the uterus. Chronic pain is considered as main symptom, but challenges can relate to
+various physical, mental, and social aspects of the women’s lives. The aim of our study
+was to gain a holistic understanding of the everyday reality of women with endometriosis
+compared to healthy controls.
+Methods: The total sample comprised 12 hormone-free endometriosis patients (EP) and
+11 age-matched healthy women (HC). A mixed-methods design was used comprising
+semi-structured interviews, standardized questionnaires and a comprehensive diary to
+assess pain ratings and various mental and physical symptoms over the course of
+a menstrual cycle. Interviews were recorded, transcribed, and evaluated according to
+phenomenological analysis using the MAXQDA software.
+Results: Interviews showed that living with endometriosis was associated with an
+impairment in everyday life. Physical strains, especially pain, high levels of psychological
+distress, and social limitations have been reported. Living with endometriosis affected the
+patients’ personality and they “no longer felt like themselves.” Physical and psychological
+symptoms were reported to interfere with social interaction and participation. Evaluation
+of the standardized questionnaires revealed significant impairments in EP compared to
+HC in regard to anxiety and depression scores (both p < 0.001; Hospital Anxiety and
+Depression Scale), mental and physical quality of life (both p < 0.001; Short-Form Health
+Survey-12), stress ratings (p < 0.001; Patient Health Questionnaire-15) and functional
+well-being (p < 0.001; Functional Well-being-7). The highest levels of mean pelvic pain
+and dyschezia were observed in EP during menstruation, but mean pain ratings and
+dyschezia were increased in EPs compared to HP during the whole cycle. EP reported
+mental symptoms (e.g., depressed mood or anxiety) mainly during menstruation, while
+HC did not show any mental symptoms during the cycle. In addition, physical symptoms
+were elevated during the entire cycle in EPs (all p < 0.01).
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+1
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+Discussion: The mixed-methods approach enabled to interpret the interviews, the
+standardized questionnaires, and the symptom diary in a broader context of everyday
+life. The symptoms do not appear to act independently, but rather influence each other.
+This leads to a complex interplay of physical, mental, and social impairments, with pain
+often being the starting point.
+Keywords: endometriosis, mixed-methods design, everyday-experiences, symptom diary, interviews, bio-psychosocial model
+
+INTRODUCTION
+
+The aim of the present study was to gain a holistic
+understanding of the everyday condition of (hormone-free)
+women with endometriosis. In order to meet the complexity of
+the research question, method triangulation was used, i.e., both
+quantitative and qualitative approaches were applied (29). To our
+knowledge, this is the first mixed-methods study to collect data
+from women with endometriosis on a daily basis over the course
+of a menstrual cycle.
+Comprehensive pain ratings (e.g., pelvic pain, dyspareunia,
+dyschezia) were assessed. In addition, since endometriosis
+patients have been shown to suffer not only from pain,
+but also from numerous physical symptoms as well as
+mental problems such as depression or anxiety, we also
+assessed the symptoms of premenstrual dysphoric disorder
+(PMDD) on a daily basis (30). PMDD symptoms comprise
+depressed mood, anxiety, anger, emotional instability, loss of
+interest, lethargy, difficulty concentrating, change in appetite,
+hypersomnia/insomnia, perceived loss of control, and physical
+symptoms (breast discomfort, joint or muscle pain, a sensation
+of “bloating” or weight gain) (31). Diary data were supplemented
+with data from standardized questionnaires collected during
+the menstrual phase: The Hospital Anxiety and Depression
+Scale (HADS) (32), State and Trait Anxiety Inventory (STAI)
+(33, 34), 12-Item Short-Form Health Survey (SF-12) (35), the
+somatic and stress scales from the Patient Health Questionnaire
+(PHQ-15) (36), and Functional Well-being (FW-7) (37). In
+order to better understand the interplay of the individual
+symptoms and to learn more about the individual impact of the
+physical and mental symptoms on the women’s everyday life,
+additional semi-structured interviews were conducted with the
+endometriosis patients.
+
+Endometriosis is a complex, inflammatory disease, characterized
+by lesions of endometrial tissue outside the uterus (1–
+4). Endometriosis has an estimated prevalence of 6–15%
+of women in their reproductive age worldwide (5–7). The
+etiology of endometriosis is not fully understood (8). There are
+several hypotheses regarding the etiopathogenetic mechanisms
+of endometriosis; the most widely accepted transportation
+theory assumes that viable endometrial cells circulate back
+during menstruation through the tubes (menstrual reflux) and
+cluster at neighboring pelvic structures (9). In addition to
+a presumed multifactorial etiology, which is not yet fully
+understood, and the lack of a curative treatment, there are
+many other unanswered questions (10, 11). Further challenges
+include the diagnostic process, which requires laparoscopic
+procedures, and the often massively delayed diagnosis (8 years on
+aver-age) (12, 13).
+Endometriosis manifests at various levels, e.g., anatomic,
+histologic, or immunologic (3), as well as with a variety
+of different symptoms (e.g., chronic fatigue or bladder- and
+bowel-associated symptoms) and comorbidities (e.g., depression)
+(14–17). Chronic pain (e.g., pelvic pain, dysmenorrhea, or
+dyspareunia) and infertility are considered the main symptoms
+(17), but the complaints faced by women with endometriosis
+may relate to various physical, emotional, and social aspects
+of the women’s daily lives (10, 14, 18–20). Current treatment
+approaches for pain and infertility (e.g., hormonal drugs or
+repeated surgical procedures) are not always effective and are
+often associated with unpleasant side effects (21, 22). In addition,
+there is no direct association between histologic findings and
+disease symptoms, and disease progression is difficult to predict
+(3, 23).
+Several studies have reported reduced quality of life in women
+with endometriosis, characterized by constraining physical
+conditions as well as negative emotions such as uncertainty,
+anxiety, or depressive symptoms (14, 16, 18, 24). In most of
+these studies, patient-reported outcomes were measured at only
+a single time point during the menstrual cycle and focused
+on either mental or physical well-being, mostly related to pain
+(25–28). Cross-sectional studies bear the risk of recall bias or
+loss of relevant information. There is insightful research that
+examines pain using an electronic diary to gather information
+about the “day-to-day” experience (23–25), which seems to be
+a worthwhile method to show the course of symptoms over an
+entire menstrual cycle.
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+METHODS AND MATERIALS
+Study Design and Sample
+A prospective observational study was performed in 12
+endometriosis patients (EP) and 11 age-matched healthy
+controls (HC). A mixed-methods design was applied, comprising
+semi-structured interviews, standardized questionnaires, and a
+comprehensive diary to assess pain ratings and PMDD symptoms
+(30). The study also included the collection of menstrual
+and venous blood to evaluate immunological changes [results
+reported elsewhere (38)]. The study protocol was approved by the
+ethical committee of the Medical Faculty at LMU Munich (no.
+17-695) and the research was performed in accordance with the
+
+2
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+Material and Measures
+
+principles of GCP/Declaration of Helsinki. All study participants
+gave written informed consent.
+Between January 2018 and August 2019, women with
+histologically confirmed endometriosis and age matched healthy
+volunteers without endometriosis or menstrual pain were
+recruited. Inclusion criteria were the following: Age between 18
+and 45 years, regular menstrual cycle and sufficient knowledge
+of German language. Further inclusion criteria for the patients
+with endometriosis was biopsy-confirmed endometriosis. An
+additional criterion was related to maximum pelvic pain during
+the last three menstrual cycles (dysmenorrhea) assessed by
+a numeric rating scale (0 = no pain, 10 = worst pain
+imaginable): Inclusion criterion was 5 or more for patients
+with endometriosis, and 3 or less for healthy controls. All
+participants underwent gynecological examination in order to
+confirm (EP) or exclude (HC) the presence of endometriosis. For
+endometriosis patients, the stage of the disease according to the
+Revised Classification of the American Society for Reproductive
+Medicine (rASRM) (39) was assessed by reviewing the patients’
+medical chart and confirmed/adapted during the gynecological
+examination. Exclusion criteria for both groups were the
+use of psychotropic drugs and/or manifest mental illness, a
+malignant disease, the acute need of treatment of a gynecological
+disease, medication with hormonal drugs, pregnancy, and
+current breastfeeding.
+
+Questionnaires
+Standardized and widely used questionnaires were completed
+during the menstrual phase to assess depression and anxiety
+(HADS, STAI) (32–34), mental and physical quality of life (SF12) (35), physical symptoms and stress (PHQ-15) (36), and
+well-being (FW-7) (37).
+
+Symptom Diary
+On a daily basis, participants rated their mean and maximum
+pelvic pain, maximum alguria, maximum dyschezia, and
+maximum dyspareunia on numeric rating scales (NRS, 0 =
+no pain, 100 = maximum pain). In addition, the German
+Premenstrual Symptom Inventory was applied to assess 27
+symptoms that are frequently observed during a menstrual cycle
+(42). Symptoms were assessed on 6-point Likert scales (0 =
+not at all; 5 = extreme) (43) and mean scores were computed
+for the following domains: depressed mood, anxiety, tension,
+emotional instability, loss of interest, lethargy, fatigability, change
+in appetite, hypersomnia/insomnia, loss of control, and physical
+symptoms (breast discomfort, joint or muscle pain, a sensation
+of “bloating” or weight gain). There were further questions about
+the need of drugs (name and dosage of the drug), the presence of
+menses or metrorrhagia (yes/no), and bleeding intensity (NRS, 0
+= no bleeding; 100 = maximum bleeding).
+
+Interviews
+
+Procedure
+
+The development of the semi-structured interview guide was
+based on a literature review and allowed to conduct the
+interviews as standardized as possible, while at the same time
+leaving enough space for individual answers. Interviews were
+conducted face-to-face and were audio-recorded, transcribed and
+evaluated using the MAXQDA software (44, 45). To preserve
+the integrity of the women, confidential data such as names or
+location information were anonymized during transcription and
+pseudonyms with consecutive identification numbers were used.
+Data analysis was performed by two researchers (AW and AB)
+using an interpretive-hermeneutic phenomenology approach.
+The interviews lasted an average of 23.17 min.
+
+EP were recruited through outpatient centers, and HC by
+postings at local universities. In a detailed telephone call, the
+aim and procedure of the study, voluntary participation, and
+data protection were explained. Furthermore, the inclusion and
+exclusion criteria were ascertained and any open questions
+were answered. After signing informed consent, all participants
+completed an online questionnaire that collected information
+regarding demographics and disease history, resp. health
+status. Already at the beginning of the study, it was clearly
+communicated to the participants when the expected onset of
+the menstruation and thus the start of the diary, as well as the
+start of the second menstruation and the visit to the institute
+for the interviews would take place. Participants informed
+the research team at the first day of their next menses and
+received an email that included a link to a comprehensive
+survey to assess pain levels and PMDD symptoms. On each
+day during the menstrual cycle, participants received a similar
+email at the same time of day, depending on the time of
+their first diary response. If a participant did not respond
+within 12 h, a reminder email was automatically sent via the
+RedCAP distribution tool (40, 41). RedCAP was set up in
+such a way that every question had to be answered before
+the questionnaire could be sent off, so that there was hardly
+any missing data. At the time of their second menstruation,
+participants were invited to the Institute of Medical Psychology
+(LMU Munich) to conduct the semi-structured interviews faceto-face, and to complete a catalog of standardized questionnaires.
+Healthy control subjects received an expense compensation
+of 50 e.
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+Statistical Analyses
+Quantitative data was analyzed by means of IBM SPSS Statistics
+25, with a p ≤ 0.05 considered as significant. To compare baseline
+characteristics as well as questionnaire scores between EP and
+HC, independent-samples t-tests, Pearson’s chi-square-tests and
+Mann-Whitney-U-Tests were performed, as appropriate. Diary
+data were analyzed by non-parametric statistics. As the length
+of the women’s cycles varied, the diary data was grouped
+into three phases in order to enable better comparability: The
+menstruation phase (MP; the individual mean value of all days
+during menstruation), the premenstrual phase (PMP; mean value
+of the 5 days prior to menstruation) and the intermediate phase
+(IP; mean value of the days between the menstruation phase
+and the pre-menstruation phase) (31, 46, 47). Pain ratings and
+PMDD symptoms were compared between EP and HC for
+each cycle phase using Mann-Whitney U-tests (p-values were
+Bonferroni-corrected for the three cycle phases). Within-subject
+
+3
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+changes in pain ratings and PMDD symptoms between cycle
+phases were explored using Wilcoxon signed-rank tests (with
+uncorrected p-values).
+
+months (±17.74 SD) and the rASRM score ranged between I and
+IV (Table 1).
+
+RESULTS
+
+Non-parametric tests evaluating the results of the standardized
+questionnaires revealed significant differences between EP and
+HC in regard to anxiety and depression scores (both p < 0.05;
+HADS), mental and physical quality of life (both p < 0.001; SF12) as well as physical symptoms and stress ratings (both p <
+0.001; PHQ) and functional well-being (p < 0.05; FW-7), with
+EPs showing higher burden and worse quality of life and wellbeing than HC. No significant group differences were found for
+state anxiety (STAI; p = 0.17) (Table 1).
+
+Standardized Questionnaires
+
+Thirteen patients and 15 healthy subjects were eligible for the
+study. One patient had to be excluded because of a planned
+medical infertility treatment. Two healthy controls had to be
+excluded because they were too young to be matched with a
+patient. Two healthy controls reported significant menstrual pain
+during the observation period and were excluded, as well. Finally,
+11 patients and 12 healthy controls were included in the study.
+EP and HC were comparable in regard to age, body mass
+index, relationship status, and educational background (Table 1).
+In EP, mean time since the first diagnostic surgery was 41.92
+
+Symptom Diary
+As shown in Table 2, the highest levels of mean and maximum
+pelvic pain and dyschezia were observed in EP during the
+menstruation phase. Maximum pain ratings were significantly
+higher in the intermediate phase than in the premenstruation
+phase only in EPs. HC reported mild pelvic pain only during the
+
+TABLE 1 | Socio-demographic, health-related, and diagnostic characteristics of
+study participants.
+Variables
+
+EP (n = 12)
+
+HC (n = 11)
+
+p-value
+
+TABLE 2 | Diary results for pain ratings in endometriosis patients and healthy
+controls, according to cycle phases.
+
+a
+
+Age (years), mean (SD)
+
+33.67 (6.31)
+
+29.14 (6.77)
+
+0.16
+
+BMI, mean (SD)
+
+21.63 (2.03)
+
+22.04 (4.26)
+
+0.48a
+
+Secondary school
+
+1 (8.25)
+
+0
+
+High school
+
+4 (33.33)
+
+0
+
+A-level
+
+4 (33.33)
+
+3 (27.27)
+
+University degree
+
+3 (25)
+
+8 (72.72)
+
+Educational background, n (%)
+
+0.06b
+
+Relationship status, n (%)
+Single
+
+3 (25)
+
+1 (9.1)
+
+In a relationship (not married)
+
+7 (58.33)
+
+8 (72.72)
+
+2 (16.67)
+
+2 (18.18)
+
+Married
+Months since first endometriosis
+diagnosis, mean (SD)
+
+Group
+(EP n =
+12; HC n
+= 11)
+
+Mean pelvic
+pain. median
+(IQR)
+
+EP
+
+Endometriosis stage, ASRM Score, n (%)
+I
+
+3 (25)
+
+–
+
+II
+
+3 (25)
+
+–
+
+III
+
+3 (25)
+
+–
+
+IV
+
+3 (25)
+
+–
+
+Premenstruation
+phase
+
+42.34 (17.63;
+52.95)***
+
+10.32 (3.51;
+23.88)***
+
+12.2 (1.8; 21.8)*
+
+≤0.01a
+
+≤0.001a
+
+n.s.
+
+5 (0.5; 8.4)
+
+0 (0; 0.2)
+
+0 (0; 1.17)
+
+≤0.05a
+
+≤0.05a
+
+n.s.
+
+80.00 (70;
+94)***
+≤0.001a
+
+52 (40;
+70.75)***
+≤0.01a
+
+27.5 (3.75; 42.5)*
+
+23 (2; 50)
+
+3 (1; 10)
+
+0 (0; 2)
+
+≤0.05a
+
+≤0.05a
+
+n.s.
+
+EP
+
+17.85 (1.8;
+23.05)***
+
+5.19 (2.44;
+22.52)**
+
+5 (0.45; 26.25)**
+
+n.s.
+
+n.s.
+
+n.s.
+
+HC
+
+0 (0; 0)
+
+0 (0; 0)
+
+0 (0; 0)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+1.4 (0; 8.2)
+
+2.95 (0.92;
+6.8)**
+
+1 (0; 3)
+
+n.s.
+
+n.s.
+
+n.s.
+
+HC
+
+0 (0; 0.83)
+
+0.45 (0; 1.6)
+
+0 (0; 0)
+
+n.s.
+
+n.s.
+
+≤0.05a
+
+EP
+
+0 (0; 0)
+
+3.75 (0; 9.5)
+
+0 (0; 0)
+
+n.s.
+
+n.s.
+
+n.s.
+
+0 (0; 0)
+
+0 (0; 0)
+
+0 (0; 0)
+
+n.s.
+
+n.s.
+
+n.s.
+
+0.6b
+Maximum
+pelvic pain.
+median (IQR)
+
+EP
+
+HC
+Maximum
+dyschezia.
+median (IQR)
+
+Depression, Anxiety, Stress (during menstruation), mean (SD)
+Depression (HADS)
+
+6.25 (3.67)
+
+3 (3.13)
+
+0.03c
+
+Anxiety (HADS)
+
+7.75 (3.1)
+
+4.45 (2.42)
+
+0.01c
+
+State anxiety (STAI)
+
+42.82 (4.26)
+
+39.78 (5.29)
+
+0.17c
+
+Stress scale (PHQ)
+
+7.25 (3.91)
+
+3 (1.84)
+
+<0.001c
+
+Maximum
+alguria.
+median (IQR)
+
+Physical symptoms and Quality of Life (during menstruation), mean (SD)
+c
+
+Physical symptoms scale (PHQ)
+
+8.25 (3.22)
+
+1.64 (1.21)
+
+<0.001
+
+Physical health sum score (SF-12)
+
+43.96 (9.06)
+
+55.92 (2.25)
+
+<0.001c
+
+Mental health sum score (SF-12)
+
+39.01 (10.74)
+
+51.09 (4.15)
+
+<0.001c
+
+Habitual Well-being (FW-7)
+
+22.08 (6.37)
+
+27.91 (4.78)
+
+0.02c
+
+Maximum
+dyspareunia.
+median (IQR)
+
+EP, endometriosis patients; HC, healthy controls; SD, standard deviation; BMI, body
+mass index; HADS, Hospital Anxiety and Depression Scale; STAI, State and Trait Anxiety
+Inventory; PHQ, Patient Health Questionnaire; IQR, interquartile range; SF-12, 12-Item
+Short-Form Health Survey; FW-7, Marburger Fragebogen zum habituellen Wohlbefinden;
+ASRM, American Society for Reproductive Medicine.
+a Two-sided independent t-test, b Pearson’s Chi-Square-Test, c Mann-Whitney-U-Test.
+
+Phase
+
+Menstruation Intermediate
+phase
+phase
+
+HC
+
+41.92 (17.74)
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+Pain ratings,
+NRS 0-100
+(0 = no pain;
+100 =
+maximum
+pain)
+
+HC
+
+≤0.001a
+
+NRS, numeric rating scale; EP, endometriosis patients; HC, healthy controls; IQR,
+interquartile range; n.s., not significant; a uncorrected p-values for within-group
+comparison with previous phase. *p ≤ 0.05; **p ≤ 0.01; ***p ≤ 0.001; Bonferronicorrected p-values for comparison between groups.
+
+4
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+TABLE 3 | Continued
+
+TABLE 3 | Diary results for PMDD symptoms in endometriosis patients and
+healthy controls, according to cycle phases.
+PMDD
+symptoms
+(range 0–5)
+
+Group
+(EP n =
+12; HC n
+= 11)
+
+Depressed
+mood.
+median (IQR)
+
+EP
+
+HC
+
+Anxiety.
+median (IQR)
+
+EP
+
+HC
+Affective
+lability.
+median (IQR)
+
+EP
+
+Phase
+Menstruation Intermediate
+phase
+phase
+0.42 (0.11;
+1.55)
+
+1.03 (0; 1.42)
+
+≤0.05a
+
+≤0.05a
+
+n.s.
+
+0.17 (0.11;
+0.39)
+
+0.33 (0.03;
+0.7)
+
+0.2 (0; 0.87)
+
+n.s.
+
+n.s.
+
+n.s.
+
+1.83 (0.75;
+2.43)**
+
+0.63 (0.32;
+1.06)
+
+1.9 (1.9; 7.45)
+
+n.s.
+
+≤0.01a
+
+n.s.
+
+0.2 (0; 0.77)
+
+0.3 (0; 0.8)
+
+0.27 (0.07; 1.2)
+
+n.s.
+
+n.s.
+
+n.s.
+
+1.41 (1.11;
+1.75)**
+
+0.28 (0.06;
+1.18)
+
+0.6 (0; 4.4)
+
+≤0.05
+
+≤0.01
+
+a
+
+0.1 (0; 0.5)
+n.s.
+
+n.s.
+
+n.s.
+
+Anger/irritability. EP
+median (IQR)
+
+1.95 (1.04;
+3.04)
+
+0.53 (0.16;
+1.03)
+
+0.3 (0; 1.65)
+
+≤0.01a **
+
+≤0.01a
+
+n.s.
+
+HC
+
+0.3 (0.1; 0.65)
+
+0.4 (0.15;
+0.85)
+
+0.5 (0.1; 1.25)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+2.2 (0.4; 2.58)
+
+0.29 (0.01;
+0.87)
+
+0 (0; 0.5)
+
+≤0.05a
+
+≤0.01a
+
+n.s.
+
+HC
+
+0.06 (0; 0.5)
+
+0.32 (0.05;
+0.67)
+
+0.4 (0; 1.4)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+2.2 (0.98;
+2.8)***
+
+0.65 (0.1;
+1.38)
+
+0.2 (0; 1.2)
+
+≤0.01a
+
+≤0.01a
+
+n.s.
+
+HC
+
+0 (0; 1.2)
+
+0.25 (0; 0.71)
+
+0.2 (0; 1.2)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+2.5 (1.68;
+3.19)
+
+1.05 (0.4;
+1.88)
+
+0.95 (0; 1.9)
+
+≤0.01a
+
+≤0.05a
+
+n.s.
+
+HC
+
+0.9 (0.4; 1.15)
+
+0.5 (0.14;
+1.12)
+
+1.2 (0.5; 1.8)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+0.93 (0.42;
+1.55)
+
+0.39 (0.12;
+0.74)
+
+0.07 (0; 0.37)
+
+Difficulty in
+concentrating
+median (IQR)
+
+Lethargy
+median (IQR)
+
+Change in
+appetite
+median (IQR)
+
+Hypersomnia/
+insomnia
+median (IQR)
+
+n.s.
+
+n.s.
+
+HC
+
+0.33 (0.17;
+0.67)
+
+0.26 (0.06;
+0.72)
+
+0.27 (0; 0.53)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+1.15 (0.69;
+1.76)**
+
+0.54 (0.14;
+1.05)
+
+0.15 (0; 0.85)
+
+≤0.01a
+
+≤0.05a
+
+n.s.
+
+0.4 (0.3; 0.7)
+
+0.32 (0.23;
+0.71)
+
+0.5 (0.2; 1.4)
+
+n.s.
+
+n.s.
+
+n.s.
+
+Menstruation Intermediate
+phase
+phase
+
+Premenstruation
+phase
+
+1.85 (0.65;
+2.35)**
+
+0.53 (0.07;
+0.97)
+
+0 (0; 1.9)
+
+n.s.
+
+≤0.01a
+
+n.s.
+
+HC
+
+0 (0; 0.6)
+
+0.29 (0.09;
+0.58)
+
+0 (0; 0.8)
+
+n.s.
+
+n.s.
+
+n.s.
+
+EP
+
+1.03 (0.69;
+2.02)**
+
+0.55 (0.2;
+1.09)**
+
+1.18 (0.35; 2.22)**
+
+n.s.
+
+≤0.01a
+
+≤0.05a
+
+HC
+
+0.23 (0.1; 0.8)
+
+0.1 (0.06;
+0.24)
+
+0.21 (0.15; 0.4)
+
+n.s.
+
+n.s.
+
+n.s.
+
+menstruation phase. Group comparisons indicated higher ratings
+of mean and maximum pain and dyschezia in EP compared with
+HC during all three phases of the menstrual cycle. In addition,
+maximum alguria was elevated in HC during the intermediate
+phase compared with the menstruation phase but still lower than
+in EP (Table 2).
+As shown in Table 3, EP reported PMDD-associated
+symptoms mainly during the menstruation phase, while HC did
+not show any PMDD symptoms during the menstrual cycle.
+Group comparisons revealed that EP were significantly more
+likely than HC to report depressed mood, anxiety, affective
+lability, anger/irritability, difficulty concentrating, lethargy,
+hypersomnia/insomnia, perceived loss of control, and physical
+symptoms during the menstruation phase. In addition, physical
+symptoms were elevated during the entire cycle in EP compared
+with HC (Table 3).
+
+Qualitative Interviews
+The qualitative interviews revealed that living with endometriosis
+is associated with impairment in everyday life. Some women
+described not being completely free of symptoms on any given
+day and that their symptoms increased around menstruation.
+Many interests or other needs were subordinated to the disease.
+The following three main categories were identified: impact
+on a physical level, a mental level, and a social level (see
+Table 4): In addition to severe pain, women reported many
+other physical symptoms, e.g., gastrointestinal and circulatory
+problems, heavy bleeding, migraine, tightness in the chest, up to a
+strong physical exhaustion. Most women described severe mental
+distress, especially the perceived loss of control due to various
+physical symptoms that often occurred unpredictably, and the
+limited treatment options for endometriosis. Moreover, women
+described a constant mental preoccupation with pain. Living with
+endometriosis affected their personality and they no longer felt
+
+(Continued)
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+EP
+
+Phase
+
+PMDD, Premenstrual dysphoric disorder; IQR, interquartile range; EP, endometriosis
+patients; HC, healthy controls; n.s., not significant. a uncorrected p-values for within-group
+comparison with previous phase. **p ≤ 0.01; ***p ≤ 0.001; Bonferroni-corrected p-values
+for comparison between groups.
+
+0.07 (0; 0.33)
+
+≤0.05a
+
+HC
+
+Perceived
+loss of control
+median (IQR)
+
+Physical
+symptoms
+median (IQR)
+
+n.s.
+
+HC
+
+Loss of
+interest.
+median (IQR)
+
+0.4 (0; 0.9)
+
+Group
+(EP n =
+12; HC n
+= 11)
+
+Premenstruation
+phase
+
+1.72 (1.17;
+2.4)**
+
+a
+
+PMDD
+symptoms
+(range 0–5)
+
+5
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+TABLE 4 | Interview analysis guide and examples.
+Category
+
+Definition
+
+Anchor examples
+
+Impact on physical level
+
+• All physical symptoms perceived by the women:
+◦ Pain, migraine, strong menstrual bleeding, etc.
+◦ Sleeping problems
+◦ Impaired functionality and activity
+
+• “So for me, it was primarily the pain”
+• “...always strong cramps, also at the sphincter and also
+strong diarrhea and nausea”
+• “...I just also have a bleed, that I know a sanitary towel and
+a tampon, they’re both not going to hold anymore”
+
+Impact on mental level (Impact on
+personality)
+
+• Impact on emotions and thoughts
+• Restrictions in concentration, load capacity, and “scope of
+action”
+• Awareness of limited treatment options
+• Occurrence of different, changing physical symptoms
+
+• “…most of all the psychological strain, actually, that I can’t
+plan”
+• “so I am really there mega dissatisfied and also really
+desperate. And I’ve never had feeling I’ve never had
+before...”
+• “and the not really existing conventional medical options,
+because you just don’t have that much perspective in a
+certain way”
+
+Impact on social level (professional
+level)
+
+• Avoidance of social events, traveling etc. (staying at home)
+• Impact on social relationships (intimate partnership)
+• Impact on practicing the women’s professions
+
+• “...my friend, that excites him, he can understand it a little
+bit, but for him it’s also bad”
+• “And what also bothers me a lot is, that I isolate myself so
+much from other people”
+• “And also at work, that bothers that I’m just not as resilient
+as I used to be”
+• “And I couldn’t go home by myself anymore either, my
+colleagues had to drive me home”
+
+Interviews have been conducted in German.
+
+control, or loss of concentration, were significantly increased,
+indicating that endometriosis patients have to battle with many
+other physical and psychological stresses in addition to pain.
+PMDD symptoms were not elevated during the premenstrual
+phase in either EP or HC, suggesting that PMDD per se has
+not occurred in this cohort, which is in agreement with the
+exclusion criterion of mental illness. Nevertheless, patients
+showed the highest levels of physical symptoms during the
+premenstrual period.
+In order to avoid the sole evaluation of a priori predefined
+categories and to offer the opportunity to speak freely and
+openly about their experiences, semi-structured interviews were
+conducted with the endometriosis patients. The face-to-face
+interviews showed that living with endometriosis was associated
+with manifold impairment in everyday life. Physical strains,
+especially pain, high levels of psychological distress, and social
+limitations were reported. Living with endometriosis affected the
+women’s personality and they “no longer felt like themselves.”
+The constant physical, emotional, and cognitive preoccupation
+with pain appears to result in a number of other mental and
+social negative consequences. The recognition that, in addition to
+other physical symptoms, pain serves as a kind of “starting point”
+for a whole series of associated and mutually influencing mental
+and social strains has also been described in previous studies
+(5, 20, 28, 49, 50). Furthermore, discomfort fluctuated over
+time, sometimes unpredictably, creating tremendous uncertainty
+and avoidance behavior. In their systematic review, Gao et al.
+identified pain, psychosocial functioning, and social functioning
+as particularly affected domains in women with endometriosis,
+and the present results further support this conclusion. However,
+in the present study, the influence of other fluctuating physical
+symptoms (e.g., nausea or exhaustion) across the entire cycle
+became additionally evident (51).
+
+like themselves. Patients reported impaired social interactions
+(e.g., their intimate relationships), restricted participation in
+daily life (e.g., travel or participating at events) and impaired
+occupational performance. As a result, avoidance behavior was
+reported, and patients increasingly withdrew in order to recover.
+
+DISCUSSION
+Endometriosis is a chronic disease that is often associated with
+pelvic pain. However, this does not do justice to the day-to-day
+reality of women with endometriosis, who are confronted with
+variety of symptoms that often appear suddenly and interact
+with each other. The aim of the present study was to gain a
+holistic understanding of the everyday reality of women with
+endometriosis. For this purpose, a mixed-methods design was
+used to collect information on different levels and relate them to
+each other.
+The standardized questionnaires yielded worse results
+for the patients compared to healthy controls. Accordingly,
+endometriosis patients showed significantly higher depression
+and anxiety scores (HADS) during menstruation, as well as a
+reduced mental and physical quality of life (SF-12, FW-7), more
+stress as well as more physical symptoms (PHQ-15). This is
+not only in accordance with previous studies (18, 20, 48, 49),
+but was further confirmed by the detailed diary survey, which
+provided the opportunity to observe symptom fluctuations
+over the entire menstrual cycle. By pseudonymizing the diary
+entries, biases induced by social desirability could be avoided.
+It was very impressively demonstrated that patients reported
+significantly more pelvic pain (up to 80 on NRS 0-100) and
+further physical symptoms throughout the menstrual cycle.
+During menstruation all PMDD associated symptoms (except
+for changes in appetite) such as depression, anxiety, loss of
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+6
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+DATA AVAILABILITY STATEMENT
+
+The current study is limited by the relatively small and
+heterogenous sample; a larger sample size would have been
+desirable. Especially time since diagnosis varied considerably
+among patients [on average 41.92 months (±17.74)]. In
+addition, disease-unrelated factors (e.g., disputes or professional
+challenges) might have influenced the participants’ daily
+condition and for instance might have led to concentration
+difficulties or anxiety. The complex and comprehensive data
+ensured a holistic picture of participants’ experiences, but
+certainly also led to fatigue and habituation effects due to the
+extensive questionnaires. Although the completion of the diary
+was sometimes perceived as exhausting by the participants, it
+was nevertheless manageable for them as it was predictable
+and time-limited.
+In conclusion, the multi-method approach of this study
+revealed that pain and the associated cognitive and emotional
+distress, as well as the unpredictable occurrence of symptoms,
+led to significant impairment at the physical, mental, and social
+levels in women with endometriosis; this process appears to
+be reinforced by the lack of a curative therapy. Similar to
+other chronic pain conditions (52), therapeutic approaches that
+perceive the disease from a bio-psycho-social perspective should
+be applied to reduce the negative impact of endometriosis
+on women’s daily lives. Accordingly, a multimodal treatment
+approach is warranted that includes not only drug treatment
+and surgery, but also addresses the bio-psycho-social needs
+of the patients (53). Future studies with larger samples and
+longer observation times are needed to better understand the
+fluctuations of daily symptoms in endometriosis patients over
+time as well as the influence of individual factors, such as type of
+endometriosis, treatment approach, and psychosocial stressors.
+
+The raw data supporting the conclusions of this
+article will be made available by the authors, without
+undue reservation.
+
+ETHICS STATEMENT
+The studies involving human participants were reviewed
+and approved by Ethical Committee of the Medical Faculty
+at LMU Munich (no. 17-695). The patients/participants
+provided their written informed consent to participate in
+this study.
+
+AUTHOR CONTRIBUTIONS
+EO, AW, VH, RMP, and KM contributed to conception and
+design of the study. EO and KM performed the statistical
+analysis and wrote the first draft of the manuscript. All authors
+contributed to manuscript revision, read, and approved the
+submitted version.
+
+FUNDING
+KM received a grant
+Foundation, Germany.
+
+the
+
+Schweizer-Arau-
+
+ACKNOWLEDGMENTS
+Our special gratitude belongs to the women for their open and
+patient participation.
+
+REFERENCES
+
+10. Latthe P, Mignini L, Gray R, Hills R, Khan K. Factors predisposing
+women to chronic pelvic pain: systematic review. BMJ. (2006) 332:749–
+55. doi: 10.1136/bmj.38748.697465.55
+11. Rogers PAW, D’Hooghe TM, Fazleabas A, Giudice LC, Montgomery
+GW, Petraglia F, et al. Defining future directions for endometriosis
+research:workshop report from the 2011 world congress of
+endometriosis in Montpellier, France. Reproduct Sci. (2013)
+20:483–99. doi: 10.1177/1933719113477495
+12. Ballard K, Lowton K, Wright J. What’s the delay? A qualitative study of
+women’s experiences of reaching a diagnosis of endometriosis. Fertil Steril.
+(2006) 86:1296–301. doi: 10.1016/j.fertnstert.2006.04.054
+13. Hudelist G, Fritzer N, Thomas A, Niehues C, Oppelt P, Haas
+D, et al. Diagnostic delay for endometriosis in Austria and
+Germany: causes and possible consequences. Hum Reprod. (2012)
+27:3412–6. doi: 10.1093/humrep/des316
+14. Aerts L, Grangier L, Streuli I, Dallenbach P, Marci R, Wenger JM,
+et al. Psychosocial impact of endometriosis: from co-morbidity
+to intervention. Best Pract Res Clin Obstet Gynaecol. (2018)
+50:2–10. doi: 10.1016/j.bpobgyn.2018.01.008
+15. D’Hooghe T, Hummelshoj L. Multi-disciplinary centres/networks of
+excellence for endometriosis management and research: a proposal. Hum
+Reprod. (2006) 21:2743–8. doi: 10.1093/humrep/del123
+16. Simoens S, Dunselman G, Dirksen C, Hummelshoj L, Bokor A, Brandes I,
+et al. The burden of endometriosis: costs and quality of life of women with
+endometriosis and treated in referral centres. Hum Reprod. (2012) 27:1292–
+9. doi: 10.1093/humrep/des073
+17. Triolo O, Laganà AS, Sturlese E. Chronic pelvic pain in endometriosis: an
+overview. J Clin Med Res. (2013) 5:153. doi: 10.4021/jocmr1288w
+
+1. Giudice LC. Endometriosis. N Engl J Med. (2010) 362:2389–
+98. doi: 10.1056/NEJMcp1000274
+2. Kennedy S, Bergqvist A, Chapron C, D’Hooghe T, Dunselman G, Greb R,
+et al. ESHRE guideline for the diagnosis and treatment of endometriosis. Hum
+Reprod. (2005) 20:2698–704. doi: 10.1093/humrep/dei135
+3. Johnson NP, Hummelshoj L, Adamson GD, Keckstein J, Taylor HS, Abrao
+MS, et al. World endometriosis society consensus on the classification of
+endometriosis. Hum Reprod. (2017) 32:315–24. doi: 10.1093/humrep/dew293
+4. Koninckx PR, Ussia A, Adamyan L, Tahlak M, Keckstein J, wattiez A, et al.
+The epidemiology of endometriosis is poorly known as the pathophysiology
+and diagnosis are unclear. Best Pract Res Clin Obstet Gynaecol. (2021) 71:14–
+26. doi: 10.1016/j.bpobgyn.2020.08.005
+5. Denny E. “I never know from one day to another how I will feel”: pain
+and uncertainty in women with endometriosis. Qualit Health Res. (2009)
+19:985–95. doi: 10.1177/1049732309338725
+6. Adamson GD, Kennedy S, Hummelshoj L. Creating Solutions in
+Endometriosis: Global Collaboration Through the World Endometriosis
+Research Foundation. London: SAGE Publications Sage UK
+(2010). doi: 10.1177/228402651000200102
+7. Mehedintu C, Plotogea M, Ionescu S, Antonovici M. Endometriosis still a
+challenge. J Med Life. (2014) 7:349–57.
+8. Saunders
+PT,
+Horne
+AW.
+Endometriosis:
+etiology,
+pathobiology, and therapeutic prospects. Cell. (2021) 184:2807–
+24. doi: 10.1016/j.cell.2021.04.041
+9. Rock JA, Markham SM. Pathogenesis of endometriosis. Lancet. (1992)
+340:1264–7. doi: 10.1016/0140-6736(92)92959-J
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+from
+
+7
+
+December 2021 | Volume 2 | Article 767114
+
+Olliges et al.
+
+Experiences of Women With Endometriosis
+
+39. Haas D, Shebl O, Shamiyeh A, Oppelt P. The rASRM score and the Enzian
+classification for endometriosis: their strengths and weaknesses. Acta Obstet
+Gynecol Scand. (2013) 92:3–7. doi: 10.1111/aogs.12026
+40. Harris PA, Taylor R, Minor BL, Elliott V, Fernandez M, O’Neal
+L, et al. The REDCap consortium: building an international
+community of software platform partners. J Biomed Inform. (2019)
+95:103208. doi: 10.1016/j.jbi.2019.103208
+41. Harris PA, Taylor R, Thielke R, Payne J, Gonzalez N, Conde JG. Research
+electronic data capture (REDCap)—a metadata-driven methodology and
+workflow process for providing translational research informatics support. J
+Biomed Inform. (2009) 42:377–81. doi: 10.1016/j.jbi.2008.08.010
+42. Ditzen B, Nussbeck F, Drobnjak S, Spörri C, Wüest D, Ehlert U.
+Validierung eines deutschsprachigen DSM-IV-TR basierten Fragebogens zum
+prämenstruellen syndrom. Zeitschrift für Klinische Psychol Psychother. (2011)
+40:149–59. doi: 10.1026/1616-3443/a000095
+43. Endicott J, Nee J, Harrison W. Daily Record of Severity of Problems
+(DRSP): reliability and validity. Arch Womens Ment Health. (2006) 9:41–
+9. doi: 10.1007/s00737-005-0103-y
+44. Verbi S. MAXQDA, Software for Qualitative Data Analysis. Sozialforschung
+GmbH. Berlin (1989).
+45. Mayring P. Qualitative inhaltsanalyse. In: Mey G, Mruck K, editors. Handbuch
+Qualitative Forschung in der Psychologie. Wiesbaden: Springer (2020). p.
+495–511. doi: 10.1007/978-3-658-26887-9_52
+46. Smith MJ, Schmidt PJ, Rubinow DR. Operationalizing DSM-IV criteria
+for PMDD: selecting symptomatic and asymptomatic cycles for research. J
+Psychiatr Res. (2003) 37:75–83. doi: 10.1016/S0022-3956(02)00053-5
+47. Halbreich U. The diagnosis of PMS/PMDD–the current debate. In: Shaughn
+PM, O’Brian, Rapin AJ, Schmidt PJ. editors. The Premenstrual Syndromes.
+London: CRC Press (2007). p. 21–32. doi: 10.3109/9781435628168-5
+48. Della Corte L, Di Filippo C, Gabrielli O, Reppuccia S, La Rosa VL, Ragusa R,
+et al. The burden of endometriosis on women’s lifespan: a narrative overview
+on quality of life and psychosocial wellbeing. Int J Environ Res Public Health.
+(2020) 17:4683. doi: 10.3390/ijerph17134683
+49. Moradi M, Parker M, Sneddon A, Lopez V, Ellwood D. Impact of
+endometriosis on women’s lives: a qualitative study. BMC Women’s Health.
+(2014) 14:123. doi: 10.1186/1472-6874-14-123
+50. Denny E, H Mann MC. A clinical overview of endometriosis: a misunderstood
+disease. Br J Nurs. (2007) 16:1112–6. doi: 10.12968/bjon.2007.16.18.27503
+51. Gaoa X, Yeha Y-C, Outleya J, Simonb J, Bottemanc M, Spaldingd J. Healthrelated quality of life burden of women with endometriosis: a literature. Curr
+Med Res Opinion. (2006) 22:1787–97. doi: 10.1185/030079906X121084
+52. Pergolizzi J, Ahlbeck K, Aldington D, Alon E, Coluzzi F, Dahan A, et al.
+The development of chronic pain: physiological CHANGE necessitates a
+multidisciplinary approach to treatment. Curr Med Res Opinion. (2013)
+29:1127–35. doi: 10.1185/03007995.2013.810615
+
+18. Nnoaham KE, Hummelshoj L, Webster P, d’Hooghe T, de Cicco Nardone F,
+de Cicco Nardone C, et al. Impact of endometriosis on quality of life and work
+productivity: a multicenter study across ten countries. Fertil Steril. (2011)
+96:366–73.e8. doi: 10.1016/j.fertnstert.2011.05.090
+19. Sepulcri Rde P, do Amaral VF. Depressive symptoms, anxiety, and quality of
+life in women with pelvic endometriosis. Europ J Obstetr Gynecol Reproduct
+Biol. (2009) 142:53–6. doi: 10.1016/j.ejogrb.2008.09.003
+20. Culley L, Law C, Hudson N, Denny E, Mitchell H, Baumgarten M,
+et al. The social and psychological impact of endometriosis on women’s
+lives: a critical narrative review. Hum Reprod Update. (2013) 19:625–
+39. doi: 10.1093/humupd/dmt027
+21. Lemaire GS. More than just menstrual cramps: symptoms and uncertainty
+among women with endometriosis. J Obstetr Gynecol Neonatal Nurs. (2004)
+33:71–9. doi: 10.1177/0884217503261085
+22. Mehrdad Moghimi M, Bahram Moazzami M. Comparing the
+efficacy of surgery and medical therapy for pain management in
+endometriosis: a systematic review and meta-analysis. Pain Phys. (2017)
+20:185–95. doi: 10.36076/ppj.2017.195
+23. Demco L. Mapping the source and character of pain due to endometriosis
+by patient-assisted laparoscopy. J Am Assoc Gynecol Laparosc. (1998) 5:241–
+5. doi: 10.1016/S1074-3804(98)80026-1
+24. Fourquet J, Báez L, Figueroa M, Iriarte RI, Flores I. Quantification
+of the impact of endometriosis symptoms on health-related
+quality of life and work productivity. Fertil Steril. (2011)
+96:107–12. doi: 10.1016/j.fertnstert.2011.04.095
+25. Deal LS, DiBenedetti DB, Williams VS, Fehnel SE. The development
+and validation of the daily electronic endometriosis pain and bleeding
+diary. Health Qual Life Outcomes. (2010) 8:64. doi: 10.1186/1477-752
+5-8-64
+26. Seitz C, Lanius V, Lippert S, Gerlinger C, Haberland C, Oehmke F, et al.
+Patterns of missing data in the use of the endometriosis symptom diary. BMC
+Women’s Health. (2018) 18:88. doi: 10.1186/s12905-018-0578-0
+27. Wyrwich KW, O’Brien CF, Soliman AM, Chwalisz K. Development and
+validation of the endometriosis daily pain impact diary items to assess
+dysmenorrhea and nonmenstrual pelvic pain. Reproduct Sci. (2018) 25:1567–
+76. doi: 10.1177/1933719118789509
+28. Denny E, Mann CH. Endometriosis-associated dyspareunia: the
+impact on women’s lives. BMJ Sexual Reproduct Health. (2007)
+33:189–93. doi: 10.1783/147118907781004831
+29. O’Cathain A. Mixed methods research. Qual Res Health Care. (2020) 4:169–
+80. doi: 10.1002/9781119410867.ch12
+30. American Psychiatric Association. Diagnostic and Statistical Manual of
+Mental Disorders (DSM-5 R ). Washington, DC: American Psychiatric
+Association (2013).
+31. Janda C, Kues JN, Andersson G, Kleinstäuber M, Weise C. A symptom
+diary to assess severe premenstrual syndrome and premenstrual dysphoric
+disorder. Women Health. (2017) 57:837–54. doi: 10.1080/03630242.2016.12
+06055
+32. Herrmann-Lingen C, Buss U, Snaith P. Hospital Anxiety and Depression
+Scale-Deutsche Version (HADS-D). Bern: Huber (2011).
+33. Laux L. Das State-Trait- Angstinventar (STAI): Theoretische GRundlagen und
+Handanweisung. Weinheim (1981).
+34. Spielberger CD, Gorsuch RL, Lushene R, Vagg PR, Jacobs GA. Manual for the
+State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press
+(1983). doi: 10.1037/t06496-000
+35. Bullinger MK, I. SF-36 Fragebogen zum Gesundheitszustand-Manual.
+Göttingen: Hogrefe (1998).
+36. Schat AC, Kelloway EK, Desmarais S. The Physical Health Questionnaire
+(PHQ): construct validation of a self-report scale of somatic symptoms.
+J Occup Health Psychol. (2005) 10:363. doi: 10.1037/1076-8998.
+10.4.363
+37. Herda CA, Scharfenstein A, Basler H-D. Marburger Fragebogen zum
+habituellen Wohlbefinden. Marburg: Med. Zentrum für Methodenwiss und
+Gesundheitsforschung (1998).
+38. Schmitz T, Hoffmann V, Olliges E, Bobinger A, Popovici R, Nößner E, et al.
+Reduced frequency of perforin-positive CD8+ T cells in menstrual effluent
+of endometriosis patients compared to healthy controls. J Reprod Immunol.
+(2021) 148:103424. doi: 10.1016/j.jri.2021.103424. [Epub ahead of print].
+
+Frontiers in Global Women’s Health | www.frontiersin.org
+
+53. Meissner K, Schweizer-Arau A, Limmer A, Preibisch C, Popovici
+RM, Lange I, et al. Psychotherapy with somatosensory stimulation
+for endometriosis-associated pain. Obstet Gynecol. (2016) 128:1134–42.
+doi: 10.1097/AOG.0000000000001691
+Conflict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or financial relationships that could be construed as a
+potential conflict of interest.
+Publisher’s Note: All claims expressed in this article are solely those of the authors
+and do not necessarily represent those of their affiliated organizations, or those of
+the publisher, the editors and the reviewers. Any product that may be evaluated in
+this article, or claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Copyright © 2021 Olliges, Bobinger, Weber, Hoffmann, Schmitz, Popovici and
+Meissner. This is an open-access article distributed under the terms of the Creative
+Commons Attribution License (CC BY). The use, distribution or reproduction in
+other forums is permitted, provided the original author(s) and the copyright owner(s)
+are credited and that the original publication in this journal is cited, in accordance
+with accepted academic practice. No use, distribution or reproduction is permitted
+which does not comply with these terms.
+
+8
+
+December 2021 | Volume 2 | Article 767114
+
+

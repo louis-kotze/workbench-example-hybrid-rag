@@ -1,0 +1,748 @@
+PSYCHOLOGY, HEALTH & MEDICINE
+2022, VOL. 27, NO. 6, 1410–1420
+https://doi.org/10.1080/13548506.2021.1948581
+
+Pain catastrophizing, but not mental health or social support,
+is associated with menstrual pain severity in women with
+dysmenorrhea: A cross-sectional survey
+Subhadra Evans PhD a, Charlotte Dowding, Lisa Olive PhD a,b, Laura A Payne PhDc,
+Marilla Druitt MBBS BMedSc FRANZCOGd,e, Laura C Seidmanf, David Skvarc PhDa
+and Antonina Mikocka-Walus PhD a
+a
+
+Center for Social and Early Emotional Development , School of Psychology, Deakin University, Geelong,
+Australia; bCentre for Innovation in Mental and Physical Health and Clinical Treatment, Deakin University,
+Geelong, Australia; cMcLean Hospital/Harvard Medical School, Belmont, Massachusetts, USA; dUniversity
+Hospital Geelong, Australia; eSchool of Medicine, Deakin University, Geelong, Australia; fMcLean Hospital,
+Belmont, Massachusetts, USA
+ABSTRACT
+
+ARTICLE HISTORY
+
+The aim of this study was to understand the relationship between
+psychosocial factors, including mental health, pain cognitions and
+social support associated with menstrual pain severity in women
+with dysmenorrhea of no identified medical cause (primary dysme­
+norrhea; PD) and dysmenorrhea related to endometriosis.
+Participants included 1192 women aged 18–50 years with men­
+strual pain, recruited to an online cross-sectional survey in 2019.
+Questionnaires assessed self-reported menstrual pain severity,
+depression, anxiety, stress, pain catastrophizing, and social support.
+Women with endometriosis had significantly higher menstrual pain
+severity (p < 0.001) and pain catastrophizing (p < 0.001) than
+women with PD. Of the psychosocial factors, only pain catastrophiz­
+ing (specifically, the helplessness sub-scale) predicted menstrual
+pain severity in each group. Overall, 36% of women with PD and
+58% with endometriosis had clinically relevant levels of pain cata­
+strophizing. Findings suggest a common psychological mechanism
+in women with menstrual pain, regardless of etiology. Interventions
+to reduce pain helplessness may be beneficial in supporting
+women with dysmenorrhea.
+
+Received 6 April 2021
+Accepted 22 June 2021
+KEYWORDS
+
+Dysmenorrhea;
+endometriosis; psychosocial;
+pain catastrophizing
+
+Background
+Dysmenorrhea, or menstrual pain, affects up to 95% of menstruating women and is
+associated with poor quality of life (Iacovides et al., 2015). Primary dysmenorrhea (PD)
+refers to painful cramps without evident pelvic pathology, while secondary dysmenor­
+rhea involves pelvic abnormalities, including endometriosis (Harel, 2006). Endometriosis
+involves the growth of endometrial-like tissue outside the uterus and is a debilitating
+condition associated with pain and infertility (Lagana et al., 2017; Vitale et al., 2017).
+
+CONTACT Subhadra Evans, PhD
+subhadra.evans@deakin.edu.au
+Early Emotional Development, Deakin University, Geelong, Australia
+© 2021 Informa UK Limited, trading as Taylor & Francis Group
+
+School of Psychology,Center for Social and
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+1411
+
+The experience of dysmenorrhea is best understood from a biopsychosocial perspec­
+tive (Speer et al., 2016). For example, there is little relationship between the extent of
+disease and endometriosis symptom severity, highlighting the role of drivers beyond
+organic disease (Nunnink & Meana, 2007). As psychological and social processes likely
+interact with biological processes in dysmenorrhea (Joseph & Mills, 2019), further
+research is needed to understand the relationship between modifiable variables, such as
+psychological symptoms, pain cognitions, social support, and menstrual pain, to inform
+the development of targeted biopsychosocial interventions.
+Psychological symptoms are frequently associated with higher rates of dysmenorrhea,
+particularly in women with endometriosis (Pope et al., 2015). Pain catastrophizing, a pain
+cognition involving lack of control and the expectation of negative outcomes related to
+a painful experience, is associated with worse pain and health-related outcomes in
+women with dysmenorrhea (Walsh et al., 2003). In contrast, social support can act as
+a protective factor in physical and psychological health, directly through social relation­
+ships and indirectly to safeguard against stressful situations (Reblin & Uchino, 2008). For
+example, a cross-sectional study of 360 university students found that women with low
+social support were 4.3 times more likely to have dysmenorrhea (Faramarzi & Salmalian,
+2014). While social support may act as a protective factor, pain can also result in lower
+social support through withdrawal from social activities, in a self-perpetuating cycle
+(Wallace et al., 2014). At present, studies have neglected to examine the combined
+predictive utility of social and psychological factors in dysmenorrhea, as well as which
+type of companion (i.e. family, friend, significant other) may be important.
+The aims of this study were to examine the psychosocial profile of pain in women with
+dysmenorrhea. Exploring differences between PD and dysmenorrhea related to endome­
+triosis is clinically valuable for understanding the specific profile of endometriosis. Given
+the substantial burden of endometriosis, it is likely that the psychosocial functioning of
+women with endometriosis will be particularly compromised. We hypothesize that 1)
+women with endometriosis will have a more compromised psychosocial profile (higher
+pain catastrophizing, more symptoms of anxiety, depression, and stress, and reduced
+social support) compared to women with PD; and 2) psychosocial variables (higher pain
+catastrophizing and symptoms of anxiety, depression, and stress, and reduced social
+support) will together predict menstrual pain severity in both groups.
+
+Methods
+Participants and procedures
+The study was an online cross-sectional survey. Eligible participants were women aged
+18–50 living in Australia, having experienced a period in the past 12 months. Participants
+were recruited through University forums, via social media sites (e.g. Facebook), and
+women’s gyms during May-August 2019. An online link directed participants to a webbased survey created using Qualtrics, which involved online consent. The survey took
+30 minutes to complete. Participation involved completion of the 171 items. Participants
+were offered the chance to win 1 of 5 100 USD vouchers. The study was approved by the
+University Human Ethics Advisory Group.
+
+1412
+
+S. EVANS ET AL.
+
+Table 1. Demographic data in women allocated to the dysmenorrhea and endometriosis
+group.
+
+Mean ± SD (range);
+number (%)
+Age
+Age at menarche
+< 12 years
+≥ 12 years
+Menstrual pain duration
+Education
+Year 12
+Bachelor’s degree
+Master’s degree
+Marital status
+Single
+Married/de facto
+Divorced
+Employment status
+Full time
+Part time
+Student
+
+PD
+(n = 673)
+
+Endometriosis
+(n = 519)
+
+p value
+
+28.62 ± 8.2 (18–50)
+12.59 ± 1.5 (8–18)
+145 (22)
+527 (78)
+12.22 ± 7.3 (1–37)
+
+30.88 ± 7.1 (18–50)
+12.50 ± 1.7 (8–25)
+140 (27)
+379 (73)
+15.48 ± 7.1 (1–38)
+
+0.000**
+0.34
+0.03
+0.03
+0.000**
+
+189 (28)
+259 (39)
+58 (9)
+
+93 (18)
+185 (36)
+50 (10)
+
+0.000**
+> 0.01
+> 0.01
+
+385 (57)
+261 (39)
+7 (1)
+
+190 (37)
+301 (58)
+12 (2)
+
+0.000**
+0.000**
+> 0.01
+
+192 (29)
+173 (26)
+202 (30)
+
+243 (47)
+120 (23)
+54 (10)
+
+0.000**
+> 0.01
+0.000**
+
+**p < 0.0001, *p < 0.001
+
+Data Screening: A total of 2,899 individuals expressed interest in the study. Those
+who did not meet inclusion criteria included: no period within last 12 months (n = 138),
+residing outside Australia (n = 32), not identifying as female (n = 10), not aged 18–
+50 years (n = 532), and no consent (n = 15) – with a sample of 2172 attempting the
+survey. Of those, we excluded 801 women who did not complete the survey, leaving 1371
+women. The mean menstrual pain rating of those who completed the survey was
+significantly higher than those who did not complete the survey, although both displayed
+means in the moderate pain range and the difference was not deemed as minimally
+clinically important, defined as a difference of 1.74 (Farrar et al., 2001) (6.55 [2.3] vs 6.23
+[2.4] respectively, p = 0.005). A further 179 women scored below 4 on the menstrual pain
+NRS and were excluded, leaving a final sample of 1192 women.
+Sample Characteristics: Participant mean age was 29.5 years (SD 7.76). Almost 44%
+of women identified as having endometriosis (n = 519), with 86% reporting diagnosis via
+laparoscopy (n = 446). While there were no significant group differences between PD and
+endometriosis on tertiary education, divorce status, and part-time employment, there
+was a small but significant difference in age (PD: 28.62 [8.2] years; endometriosis: 30.88
+[7.1] years, p < 0.001), and duration of menstrual pain (PD: 12.22 years [7.3] years;
+endometriosis: 15.48 [7.1] years, p < 0.001) (Table 1).
+
+Measures
+Demographics and Dysmenorrhea Survey. Demographic questions included age,
+ethnicity(s), education level, marital status, and employment status. Dysmenorrhea
+items included age at first menses, menstrual pain duration, use of the contraceptive
+pill, and endometriosis diagnosis, including ‘have you ever received a diagnosis of
+endometriosis’ and ‘how was this diagnosis made (e.g. pelvic exam, laparoscopy?)’.
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+1413
+
+Dysmenorrhea. An 11-point numeric rating scale (NRS) was used to assess menstrual
+pain severity, from 0 (no pain) to 10 (worst pain possible)(Chen et al., 2015).
+Dysmenorrhea was defined as having at least moderate ‘period pain’, as evidenced by
+an NRS rating of ‘4’ and above (Vincent et al., 2011). Women who rated pain at a ‘3’ or
+lower were excluded. The NRS has good construct validity and extensive use in women
+with menstrual pain (Chen et al., 2015; Hawker et al., 2011).
+Pain Catastrophizing Scale. The 13 item Pain Catastrophizing Scale (PCS) measures
+rumination, magnification, and feeling helpless about pain (Sullivan, 2009). The PCS
+yields a total score (0–52) and three subscale scores (rumination, magnification, and
+helplessness), with a higher score indicating higher pain catastrophizing. A total score of
+30 or above is associated with a clinically relevant level of catastrophizing (Sullivan,
+2009). Internal consistency in the current study was excellent (α = 0.95), consistent with
+previous research (Wheeler et al., 2019).
+Depression Anxiety Stress Scales (DASS-21). A 21-item self-report scale that assess
+symptoms of depression, anxiety, and stress (Osman et al., 2012). Participants were asked
+to rate how much the items applied to them over the past week on a 4-point scale, from 0
+(did not apply to me at all) to 3 (applied to me very much, or most the time). Internal
+consistency of the three subscales were good (α = 0.92, 0.83, 0.86, respectively), consistent
+with previous research (Sinclair et al., 2012).
+Multidimensional Scale of Perceived Social Support (MSPSS). A 12-item self-report
+measure of perceived social support from family, friends, and a significant other (Zimet,
+1988). In line with previous research, internal consistency of the overall scale was
+excellent (α ¼ 0.93).
+
+Data analysis
+Statistical analyses were performed using SPSS Statistics 25. Continuous variables
+were compared using t-tests; comparisons between discrete variables were analysed
+using chi-square tests, with post-hoc differences examined using standardized resi­
+duals (significant >1.96). Linear multiple regression was performed to determine
+which of the psychosocial variables were most important for menstrual pain. The
+amount of unique variance explained by a predictor was calculated by squaring the
+semi-partial correlation. A Bonferroni correction was used to account for the
+number of predictors (3 sub-scales for each of the PCS, DASS and MSPSS scales,
+and the total of each; alpha = .05 was divided by 12), such that statistical signifi­
+cance was set at .004 for regressions. Missing data rate for the study was below 2%
+for each scale.
+A post-hoc examination of common method variance (CMV). We quantified CMV
+using Harmans single-factor method and observed common variance of 34.71%, below
+the threshold of 50%. We further examined for bias using the CFA marker methodol­
+ogy outlined by Williams, Hartmann, and Cavazotte (2010). The initial model was
+a good fit (CFI = 0.968; RMSEA = .052), but the fit reduced substantially through
+iterative marker models (CFIs = 0.169 to 0.317; RMSEAs = .225 to .271. Chi-square fit
+was significant in all models (initial model = χ2(24) = 141.1, p < .001), but this is likely
+due to the large sample. Only the factor loading for PSP Friends reduced by about one-
+
+1414
+
+S. EVANS ET AL.
+
+third from the baseline model to the unconstrained (Beta = 0.645; 0.437). As such, we
+found little evidence to suggest common method bias (Williams & McGonagle, 2016).
+
+Results
+Psychosocial differences between women with PD and endometriosis
+As shown in Table 2, after adjusting for multiple comparisons, dysmenorrhea ratings
+were higher in the endometriosis group (PD mean = 6.71; endometriosis mean = 7.88,
+t = −14.04, p < .0001), however a pain NRS difference of 1.17 is not considered clinically
+significant (Farrar et al., 2001). After accounting for multiple comparisons, there were
+also significant group difference on catastrophizing (PD mean = 24.38; endometriosis
+mean = 30.81, t = −9.44, p < .0001). The endometriosis group had a higher proportion of
+scores greater than 30 on the PCS (endometriosis: 58%; PD: 36%, χ2(1) = 54.96,
+p < 0.0001). There were no significant group differences in depression, anxiety, stress,
+or social support.
+
+Predictors of menstrual pain severity in the PD group
+The Durbin-Watson statistic of 1.91 indicated that the data were not autocorrelated. As
+demonstrated in Table 3, our model including rumination, magnification, helplessness
+(PCS), depression, anxiety, stress (DASS-21), and support (MSPSS) showed statistical
+significance, accounting for 22% of the variance in menstrual pain [F = 19.99 (9, 653),
+p < 0.001]. When examined individually, only the helplessness subscale of the PCS was
+significant, accounting for approximately 7% of variance in menstrual pain.
+
+Table 2. Psychosocial ratings in women with PD and endometriosis.
+
+Mean ± SD;
+number (%)
+Menstrual pain NRS
+DASS – Anxiety
+DASS – Depression
+DASS – Stress
+PCS – Total
+≥ 30
+PCS – Rumination
+PCS – Magnification
+PCS – Helplessness
+MSPSS – Total
+MSPSS – Significant Other
+MSPSS – Family
+MSPSS – Friends
+
+PD
+(n = 673)
+
+Endometriosis
+(n = 519)
+
+6.71 ± 1.6
+10.37 ± 8.5
+12.74 ± 10.8
+17.45 ± 9.6
+24.38 ± 12.2
+239 (36)
+9.34 ± 4.2
+4.78 ± 3.1
+10.27 ± 5.7
+5.23 ± 1.2
+5.48 ± 1.5
+5.03 ± 1.5
+5.18 ± 1.5
+
+7.88 ± 1.4
+11.24 ± 9.0
+13.79 ± 10.8
+18.96 ± 9.7
+30.81 ± 11.2
+297 (57)
+10.88 ± 3.9
+6.07 ± 3.1
+13.84 ± 5.5
+5.33 ± 1.1
+5.64 ± 1.5
+5.25 ± 1.5
+5.10 ± 1.4
+
+p value
+
+0.000**
+0.090
+0.092
+0.007*
+0.000**
+0.000**
+0.000**
+0.000**
+0.149
+0.070
+0.014
+0.360
+
+Note. NRS – Numeric Rating Scale, PCS – Pain Catastrophizing Scale, DASS – Depression Anxiety Stress
+Scale, MSPSS – Multidimensional Scale of Perceived Social Support
+**p < 0.0001, *p < 0.001.
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+1415
+
+Table 3. Linear regressions examining psychosocial predictors of menstrual pain severity in women
+with PD and endometriosis.
+
+PCS – Rumination
+– Magnification
+– Helplessness
+DASS – Anxiety
+– Depression
+– Stress
+MSPSS – Significant Other
+– Family
+– Friends
+R2
+F change
+
+PD
+B [CI (95%)]
+0.04 [0.005–0.08]
+−0.04 [−.096 – .005]
+0.11 [.081 – .142]
+−0.007 [−.024 – .10]
+0.002 [−.13 – .016]
+0.000 [0.017 – .017]
+−.047 [−.124 – .029]
+.001 [−.078 – .079]
+.039 [−.044 – .122]
+
+β
+0.13
+−.09
+.44**
+−.04
+.01
+−.00
+−.05
+.00
+.04
+0.22
+19.99**
+
+Endometriosis
+B [CI (95%)]
+0.029 [−.016 – -0.074]
+−.053 [−.103 – −.003]
+.106 [.073 – .139]
+.002 [−.017 – .022]
+.008 [−.007 – −.023]
+−.013 [−.03 – .005]
+−.025 [−.112 – .063]
+.087 [−.002 – .175]
+−.016 [−.104 – −.072]
+
+β
+0.08
+−.12
+.42**
+.02
+.06
+−.09
+−.03
+.09
+−.017
+0.18
+12.30**
+
+Note. PCS – Pain Catastrophizing Scale; DASS – Depression Anxiety Stress Scale; MSPSS – Multidimensional Scale of
+Perceived Social Support; **p < 0.001, *p < 0.005
+
+Predictors of menstrual pain severity in the endometriosis group
+The Durbin-Watson statistic of 2.08 indicated that the data were not autocorrelated. The
+psychosocial predictors overall accounted for 18% of the variance in menstrual pain
+[F = 12.30 (9, 501), p < 0.001]. Similar to the PD findings, only helplessness was
+a significant individual predictor, accounting for 8% of variance in menstrual pain.
+Regressions were repeated for PD and endometriosis, controlling for differences between
+the groups, including age and length of menstrual pain, but there were no changes to
+significant findings.
+
+Discussion
+This is the first study to examine a range of psychosocial predictors of menstrual pain in
+a large sample of women reporting dysmenorrhea with and without endometriosis. Our
+hypothesis that women with endometriosis would demonstrate compromised psychoso­
+cial functioning compared to women with PD was partially supported. Women with
+endometriosis had significantly higher menstrual pain (although not clinincally mean­
+ingful), and pain catastrophizing (helplessness, magnification, and rumination), but not
+depression, anxiety, stress, or poor social support. We found a similar pattern of
+psychosocial predictors across groups, with pain helplessness significantly predicting
+menstrual pain severity. Prior research has documented the importance of catastrophiz­
+ing in understanding pain in a range of chronic conditions, including endometriosis
+(McPeak et al., 2018). The present study extends this literature by demonstrating that
+pain helplessness may be especially important in understanding dysmenorrhea, regard­
+less of etiology.
+A large proportion of women with dysmenorrhea, particularly endometriosis, are at
+risk of poor outcomes. Scoring over 30 on the PCS is deemed clinically relevant with
+a high risk of disability (Sullivan, 2009). In the current study, one third of women with
+PD and over half with endometriosis reported PCS scores over 30, suggesting risk of
+poor health-related outcomes. A prospective study of 115 women with endometriosis
+found baseline catastrophizing (but not mental health or pain duration) was associated
+
+1416
+
+S. EVANS ET AL.
+
+with decreased pelvic pain improvement (Martin et al., 2011). In a recent crosssectional study (n = 236), catastrophizing was associated with worse quality of life
+(QoL), independently of psychological comorbidities and pelvic pain in women with
+endometriosis. Consistent with our findings, only helplessness was a significant pre­
+dictor of QoL (McPeak et al., 2018). Although these studies did not examine the role of
+social support, together with our findings, evidence indicates that catastrophizing – and
+in particular, feeling helpless – is a key psychological factor related to pain in menstrual
+conditions.
+The mechanisms underlying the relationship between pain catastrophizing and pain
+experience have not been fully identified. Given that we found only helplessness was
+associated with pain, it is possible that feeling powerless in the face of menstrual pain
+represents a specific pathway for priming the brain to experience heightened pain. Recent
+neural evidence has highlighted the importance of pain catastrophizing in top-down
+processes in pain perception. Individuals high on pain catastrophizing tend to rate pain
+based on predicted threat (rather than changes in sensory inputs), with associated
+activation in brain areas associated with aversive learning (Lim et al., 2020).
+Longitudinal studies in the context of menstrual pain are required to confirm causal
+pathways.
+There is likely a bidirectional relationship between catastrophizing and dysmenorrhea,
+with catastrophizing a cause and a consequence of repeated exposure to menstrual pain.
+Research has emphasised the negative impact of dysmenorrhea on biopsychosocial health
+(Faramarzi & Salmalian, 2014; Schoep et al., 2019). Thus, repeated experience of men­
+strual pain likely contributes to a focus on pain threat and feelings of helplessness.
+Consistent with the biopsychosocial model (Engel, 1977), myriad factors may be involved
+in why women with dysmenorrhea develop catastrophizing, including the wider culture,
+which holds periods as taboo (Berkley & McAllister, 2011). Given that a diagnosis of
+endometriosis takes up to 10 years – and even then, treatment is often elusive (Hudelist
+et al., 2012), it is perhaps unsurprising that women with severe menstrual pain may feel
+helpless. Literature documenting the experience of endometriosis also reveals that many
+women are dismissed by their physicians as hysterical, or being hypochondrial about
+‘normal’ menstruation (Whelan, 2007). A lack of adequate treatment, support, and
+validation may leave women feeling helpless in the face of menstrual pain.
+Interestingly, mental health was not significantly associated with dysmenorrhea.
+Previous research has highlighted the roles of depression and anxiety in pain (Bajalan,
+Moafi, MoradiBaglooei & Alimoradi, 2019). However, these studies have tended not to
+include catastrophizing. On the basis of the present study, and others that have examined
+catastrophizing along with mental health factors (Carey et al., 2014; Martin et al., 2011;
+McPeak et al., 2018; Payne et al., 2016), it appears that catastrophizing is particularly
+important. It is noteworthy that the psychosocial variables in this study together con­
+tributed 22% and 18% of the variance in menstrual pain for PD and endometriosis
+respectively, implying that psychosocial variables included here may also contribute to
+menstrual pain in important ways. Pain catastrophizing may be a latent factor contribut­
+ing to both distress and pain. Distress is related to helplessness, where the individual may
+feel overwhelmed, that things are terrible and will not improve, and that they have few
+resources to cope (Quartana et al., 2009). It is possible that co-morbid distress in
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+1417
+
+dysmenorrhea is due to elevated pain catastrophizing cognitions in the form of help­
+lessness around pain.
+The current study failed to find a significant relationship between perceived social
+support and pain severity. It is possible that cultural attitudes toward menstruation are
+more important than an individual’s personal support network. One qualitative study
+found that women commonly acted to comply with social cues that demanded the
+concealment of menstruation, regardless of menstrual symptom severity (O’Flynn,
+2006). Future research should examine the role of wider social forces, including social
+taboos around menstruation in the experience of menstrual pain.
+Our findings indicating a shared pattern of pain predictors (helplessness) for women
+with dysmenorrhea regardless of etiology is consistent with prior research demonstrating
+that pelvic abnormalities, such as in endometriosis may not result in a distinct symptom
+profile. A study involving women with chronic pelvic pain (n = 656) found that the
+severity of pelvic pain was similar in women with and without endometriosis lesions, and
+independently associated with catastrophizing (Yosef et al., 2016). The current study
+extends this finding, revealing a similar psychosocial profile for PD and endometriosis
+even when including mental health and social support. The experience of menstrual pain,
+rather than pathology, may be particularity important in dysmenorrhea (Evans et al.,
+2018). It is possible that the combination of cyclical menstrual pain with feeling helpless
+acts as a precursor to the development of neural pain pathways shared by women with
+pelvic pain regardless of diagnosis (As-Sanie et al., 2012). However, it is worth noting that
+women with endometriosis reported significantly longer duration of pain, and higher
+pain and catastrophizing in the present study, suggesting that menstrual pain may be
+experienced as more severe and disabling in endometriosis.
+Limitations of the study include its cross-sectional design not allowing causal infer­
+ences. The reliance on self-report measures and lack of clinical measures means some
+women reporting PD may actually have endometriosis. Likewise, confirmation of endo­
+metriosis was not possible. The use of a community sample may limit the generalisability
+of findings, however, prior research suggests that sociodemographic and QoL profiles are
+similar in women with endometriosis recruited through support networks compared to
+tertiary care centres (De Graaff et al., 2015), suggesting our results may extend to tertiary
+clinic patients.
+
+Conclusions
+Pain helplessness relates to pain experience in dysmenorrhea, regardless of etiology.
+Targeting helplessness may be an important preventive and treatment goal for dysme­
+norrhea. Psychological and mind-body interventions are worth investigating, including
+cognitive behavior therapy, which targets maladaptive thoughts related to catastrophiz­
+ing and mind-body interventions, which have been found to reduce pelvic pain
+catastrophizing (Payne et al., 2020). Although such interventions are promising, largescale research is required to understand their efficacy and whether their mechanism of
+action involves reduced pain helplessness. Further research is also required to under­
+stand the origins of menstrual pain helplessness, including the roles of healthcare
+professionals and wider societal norms in adequately supporting women with men­
+strual pain.
+
+1418
+
+S. EVANS ET AL.
+
+Declarations
+Ethics approval and consent to participate:
+The study received ethical approval from Deakin University’s ethics committee.
+
+Disclosure statement
+The authors declare that they have no competing interests.
+
+Authors’ contributions
+SE, AMW, LO, MD, LP and CD were involved in the conceptualization of the study. SE, CD, and
+DRS conducted the analysis. SE, CD, LP and AMW contributed to writing. All authors read and
+approved the final manuscript.
+
+Funding
+The authors have no funding to report.
+
+ORCID
+Subhadra Evans PhD
+http://orcid.org/0000-0002-1898-0030
+http://orcid.org/0000-0003-4643-8561
+Lisa Olive PhD
+Antonina Mikocka-Walus PhD
+http://orcid.org/0000-0003-4864-3956
+
+References
+As-Sanie, S., Harris, R. E., Napadow, V., Kim, J., Neshewat, G., Kairys, A., . . . Schmidt-Wilcke, T.
+(2012). Changes in regional gray matter volume in women with chronic pelvic pain: A
+voxel-based morphometry study. Pain, 153(5), 1006–1014. https://doi.org/10.1016/j.pain.2012.
+01.032
+Bajalan, Z., Moafi, F., MoradiBaglooei, M., & Alimoradi, Z. (2019). Mental health and primary
+dysmenorrhea: A systematic review. Journal of Psychosomatic Obstetrics and Gynaecology, 40(3),
+185–194. https://doi.org/10.1080/0167482X.2018.1470619
+Berkley, K. J., & McAllister, S. L. (2011). Don’t dismiss dysmenorrhea! Pain, 152(9), 1940–1941.
+https://doi.org/10.1016/j.pain.2011.04.013
+Carey, E. T., Martin, C. E., Siedhoff, M. T., Bair, E. D., & As-Sanie, S. (2014). Biopsychosocial
+correlates of persistent postsurgical pain in women with endometriosis. International Journal of
+Gynaecology and Obstetrics: The Official Organ of the International Federation of Gynaecology
+and Obstetrics, 124(2), 169–173. https://doi.org/10.1016/j.ijgo.2013.07.033
+Chen, C. X., Kwekkeboom, K. L., & Ward, S. E. (2015). Self-report pain and symptom measures for
+primary dysmenorrhoea: A critical review. Eur J Pain, 19(3), 377–391. https://doi.org/10.1002/
+ejp.556
+De Graaff, A. A., Dirksen, C. D., Simoens, S., De Bie, B., Hummelshoj, L., D’Hooghe, T. M., &
+Dunselman, G. A. (2015). Quality of life outcomes in women with endometriosis are highly
+influenced by recruitment strategies. Human Reproduction (Oxford, England), 30(6),
+1331–1341. https://doi.org/10.1093/humrep/dev084
+Engel, G. L. (1977). The need for a new medical model: A challenge for biomedicine. Science, 196
+(4286), 129–136. https://doi.org/10.1126/science.847460
+
+PSYCHOLOGY, HEALTH & MEDICINE
+
+1419
+
+Evans, S. F., Brooks, T. A., Esterman, A. J., Hull, M. L., & Rolan, P. E. (2018). The comorbidities of
+dysmenorrhea: A clinical survey comparing symptom profile in women with and without
+endometriosis. Journal of Pain Research, 11, 3181–3194. https://doi.org/10.2147/JPR.S179409
+Faramarzi, M., & Salmalian, H. (2014). Association of psychologic and nonpsychologic factors
+with primary dysmenorrhea. Iranian Red Crescent Medical Journal, 16(8), e16307. https://doi.
+org/10.5812/ircmj.16307
+Farrar, J. T., Young, J. P., Jr., LaMoreaux, L., Werth, J. L., & Poole, R. M. (2001). Clinical
+importance of changes in chronic pain intensity measured on an 11-point numerical pain
+rating scale. Pain, 94(2), 149–158. https://doi.org/10.1016/s0304-3959(01)00349-9
+Harel, Z. (2006). Dysmenorrhea in adolescents and young adults: Etiology and management.
+Journal of Pediatric and Adolescent Gynecology, 19(6), 363–371. https://doi.org/10.1016/j.jpag.
+2006.09.001
+Hawker, G. A., Mian, S., Kendzerska, T., & French, M. (2011). Measures of adult pain: Visual
+Analog Scale for Pain (VAS Pain), Numeric Rating Scale for Pain (NRS Pain), McGill Pain
+Questionnaire (MPQ), Short-Form McGill Pain Questionnaire (SF-MPQ), Chronic Pain Grade
+Scale (CPGS), Short Form-36 Bodily Pain Scale (SF-36 BPS), and Measure of Intermittent and
+Constant Osteoarthritis Pain (ICOAP). Arthritis Care Res (Hoboken), 63(Suppl 11), S240–252.
+https://doi.org/10.1002/acr.20543
+Hudelist, G., Fritzer, N., Thomas, A., Niehues, C., Oppelt, P., Haas, D., . . . Salzer, H. (2012). Diagnostic
+delay for endometriosis in Austria and Germany: Causes and possible consequences. Human
+Reproduction (Oxford, England), 27(12), 3412–3416. https://doi.org/10.1093/humrep/des316
+Iacovides, S., Avidon, I., & Baker, F. C. (2015). What we know about primary dysmenorrhea today:
+A critical review. Human Reproduction Update, 21(6), 762–778. https://doi.org/10.1093/
+humupd/dmv039
+Joseph, K., & Mills, J. (2019). Unmet treatment needs in patients with chronic pelvic pain in a New
+Zealand gynaecology service. The Australian & New Zealand Journal of Obstetrics &
+Gynaecology, 59(6), 856–860. https://doi.org/10.1111/ajo.13059
+Lagana, A. S., La Rosa, V. L., Rapisarda, A. M. C., Valenti, G., Sapia, F., Chiofalo, B., . . . Vitale, S. G.
+(2017). Anxiety and depression in patients with endometriosis: Impact and management
+challenges. International Journal of Women’s Health, 9, 323–330. https://doi.org/10.2147/
+IJWH.S119729
+Lim, M., O’Grady, C., Cane, D., Goyal, A., Lynch, M., Beyea, S., & Hashmi, J. A. (2020). Threat
+prediction from schemas as a source of bias in pain perception. The Journal of Neuroscience :
+The Official Journal of the Society for Neuroscience, 40(7), 1538–1548. https://doi.org/10.1523/
+JNEUROSCI.2104-19.2019
+Martin, C. E., Johnson, E., Wechter, M. E., Leserman, J., & Zolnoun, D. A. (2011).
+Catastrophizing: A predictor of persistent pain among women with endometriosis at 1 year.
+Human Reproduction (Oxford, England), 26(11), 3078–3084. https://doi.org/10.1093/humrep/
+der292
+McPeak, A. E., Allaire, C., Williams, C., Albert, A., Lisonkova, S., & Yong, P. J. (2018). Pain
+catastrophizing and pain health-related quality-of-life in endometriosis. The Clinical Journal of
+Pain, 34(4), 349–356. https://doi.org/10.1097/AJP.0000000000000539
+Nunnink, S., & Meana, M. (2007). Remembering the pain: Accuracy of pain recall in
+endometriosis. Journal of Psychosomatic Obstetrics and Gynaecology, 28(4), 201–208. https://
+doi.org/10.1080/01674820701388781
+O’Flynn, N. (2006). Menstrual symptoms: The importance of social factors in women’s experience.
+British Journal of General Practice, 56(533), 950–970.
+Osman, A., Wong, J. L., Bagge, C. L., Freedenthal, S., Gutierrez, P. M., & Lozano, G. (2012). The
+depression anxiety stress scales-21 (DASS-21): Further examination of dimensions, scale relia­
+bility, and correlates. Journal of Clinical Psychology, 68(12), 1322–1338. https://doi.org/10.1002/
+jclp.21908
+Payne, L. A., Rapkin, A. J., Lung, K. C., Seidman, L. C., Zeltzer, L. K., & Tsao, J. C. (2016). Pain
+catastrophizing predicts menstrual pain ratings in adolescent girls with chronic pain. Pain Med,
+17(1), 16–24. https://doi.org/10.1111/pme.12869
+
+1420
+
+S. EVANS ET AL.
+
+Payne, L. A., Seidman, L. C., Romero, T., & Sim, M. S. (2020). An open trial of a mind-body
+intervention for young women with moderate to severe primary dysmenorrhea. Pain Med, 21
+(7), 1385–1392. https://doi.org/10.1093/pm/pnz378
+Pope, C. J., Sharma, V., Sharma, S., & Mazmanian, D. (2015). A systematic review of the
+association between psychiatric disturbances and endometriosis. J Obstet Gynaecol Can, 37
+(11), 1006–1015. https://doi.org/10.1016/S1701-2163(16)30050-0
+Quartana, P. J., Campbell, C. M., & Edwards, R. R. (2009). Pain catastrophizing: A critical review.
+Expert Review of Neurotherapeutics, 9(5), 745–758. https://doi.org/10.1586/ern.09.34
+Reblin, M., & Uchino, B. N. (2008). Social and emotional support and its implication for health.
+Current Opinion in Psychiatry, 21(2), 201–205. https://doi.org/10.1097/YCO.
+0b013e3282f3ad89
+Schoep, M. E., Adang, E. M. M., Maas, J. W. M., De Bie, B., Aarts, J. W. M., & Nieboer, T. E. (2019).
+Productivity loss due to menstruation-related symptoms: A nationwide cross-sectional survey
+among 32 748 women. BMJ Open, 9(6), e026186. https://doi.org/10.1136/bmjopen-2018-026186
+Sinclair, S. J., Siefert, C. J., Slavin-Mulford, J. M., Stein, M. B., Renna, M., & Blais, M. A. (2012).
+Psychometric evaluation and normative data for the depression, anxiety, and stress scales-21
+(DASS-21) in a nonclinical sample of U.S. adults. Evaluation & the Health Professions, 35(3),
+259–279. https://doi.org/10.1177/0163278711424282
+Speer, L. M., Mushkbar, S., & Erbele, T. (2016). Chronic pelvic pain in women. American Family
+Physician, 93(5), 380–387.
+Sullivan. (2009). The pain catastrophizing scale; user manual.
+Vincent, K., Warnaby, C., Stagg, C. J., Moore, J., Kennedy, S., & Tracey, I. (2011). Dysmenorrhoea
+is associated with central changes in otherwise healthy women. Pain, 152(9), 1966–1975. https://
+doi.org/10.1016/j.pain.2011.03.029
+Vitale, S. G., La Rosa, V. L., Rapisarda, A. M. C., & Lagana, A. S. (2017). Impact of endometriosis
+on quality of life and psychological well-being. Journal of Psychosomatic Obstetrics and
+Gynaecology, 38(4), 317–319. https://doi.org/10.1080/0167482X.2016.1244185
+Wallace, L. S., Wexler, R. K., McDougle, L., Miser, W. F., & Haddox, J. D. (2014). Voices that may
+not otherwise be heard: A qualitative exploration into the perspectives of primary care patients
+living with chronic pain. Journal of Pain Research, 3(7), 291–299. https://doi.org/10.2147/JPR.
+S62317
+Walsh, T. M., LeBlanc, L., & McGrath, P. J. (2003). Menstrual pain intensity, coping, and disability:
+The role of pain catastrophizing. Pain Med, 4(4), 352–361. https://doi.org/10.1111/j.1526-4637.
+2003.03039.x
+Wheeler, C. H. B., Williams, A. C. C., & Morley, S. J. (2019). Meta-analysis of the psychometric
+properties of the Pain Catastrophizing Scale and associations with participant characteristics.
+Pain, 160(9), 1946–1953. https://doi.org/10.1097/j.pain.0000000000001494
+Whelan, E. (2007). ‘No one agrees except for those of us who have it’: Endometriosis patients as an
+epistemological community. Sociology of Health & Illness, 29(7), 957–982. https://doi.org/10.
+1111/j.1467-9566.2007.01024.x
+Williams, L. J., Hartman, N., & Cavazotte, F. (2010). Method variance and marker variables: A
+review and comprehensive CFA marker technique. Organizational research methods, 13(3),
+477–514.
+Williams, L. J., & McGonagle, A. K. (2016). Four research designs and a comprehensive analysis
+strategy for investigating common method variance with self-report measures using latent
+variables. Journal of Business and Psychology, 31(3), 339–359.
+Yosef, A., Allaire, C., Williams, C., Ahmed, A. G., Al-Hussaini, T., Abdellah, M. S., . . . Yong, P. J.
+(2016). Multifactorial contributors to the severity of chronic pelvic pain in women. American
+Journal of Obstetrics and Gynecology, 215(6), 760 e761–760 e714. https://doi.org/10.1016/j.ajog.
+2016.07.023
+Zimet. (1988). Multidimensional scale of perceived social support. PsycTESTS Dataset, 52(1),
+30–41.
+
+Copyright of Psychology, Health & Medicine is the property of Routledge and its content
+may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for
+individual use.
+
+

@@ -1,0 +1,1144 @@
+EMPIRICAL STUDIES
+
+doi: 10.1111/scs.12810
+
+About me as a person not only the disease – piloting Guided
+Self-Determination in an outpatient endometriosis setting
+Susan Munch Simonsen M.Ed., RN (Educational Consultant)1,2, Charlotte Strømberg MPG, RN (Head of
+Nursing)1, Vibeke Zoffmann PhD, MPH, RN (Professor, Head of Research)3,4
+, Dorte Hartwell MD (Senior
+Consultant)1 and Mette Linnet Olesen PhD, MPH, RN (Clinical Researcher, Nurse Specialist)1,3
+1
+
+Department of Gynecology, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark, 2Centre for Human Resources and
+Education, The Capital Region of Denmark, Denmark, 3Research Unit Women’s and Children’s Health, Copenhagen University Hospital,
+Rigshospitalet, Copenhagen, Denmark and 4Copenhagen University, Copenhagen, Denmark
+
+Scand J Caring Sci; 2020; 34: 1017–1027
+About me as a person not only the disease – piloting
+Guided Self-Determination in an outpatient endometriosis setting
+
+Introduction: Endometriosis is a chronic disease affecting
+5–10% of women in the reproductive age. Despite surgical and medical treatment, many women struggle with
+pain, infertility, sexual dysfunction, depression, distress
+and reduced workability, affecting their overall quality of
+life. The usual follow-up procedures may not support the
+women’s self-management of this condition. Therefore,
+person-centred empowerment-based approaches are
+needed.
+Aim: To assess if the implementation of the Guided SelfDetermination method targeted women with complex
+endometriosis appeared feasible and supported selfmanagement.
+Methods: Guided Self-Determination was offered to 10
+out-patients with complex endometriosis. Each of the
+women had five conversations based on prefilled diseasespecific reflection sheets. A qualitative evaluation was
+conducted in 2016–2017 covering semi-structured, telephone interviews and focus group interviews, which
+were analysed using thematic analysis. Additionally, we
+assessed if the women changed the self-reported
+
+Introduction
+Endometriosis is a gynaecological disease defined by the
+presence of endometrial-like tissue outside the uterus
+causing chronic inflammation (1). The prevalence is estimated to be about 5–10% of the general female
+
+Correspondence to:
+Mette Linnet Olesen, Department of Gynecology, Copenhagen
+University Hospital, Rigshospitalet, Copenhagen, Denmark.
+E-mail: mette.linnet.olesen@regionh.dk
+© 2019 Nordic College of Caring Science
+
+questionnaires, Endometriosis Health Profile 30 and the
+Patient Activation Measure from before and after the
+conversations.
+Results: We identified four themes: feeling alone with the
+disease; establishing a meaningful relationship with
+healthcare professionals in a traditional hospital setting;
+person-specific knowledge facilitated new behaviours
+and; accepting a chronic condition – the beginning of a
+process. All dimensions of the Endometriosis Health Profile 30 and the Patient Activation Measure appeared to
+improve at two weeks and so did almost all the dimensions of Endometriosis Health Profile 30 after 1 year.
+Conclusions: The implementation of the Guided SelfDetermination method appeared feasible and the women
+developed self-management skills in relation to
+endometriosis and its symptoms. This was achieved by
+increasing insight into their needs and behaviours and
+gaining new knowledge about the disease itself. The
+before-and-after assessment suggested benefit of the
+intervention, but this should be further tested in a randomised trial.
+Keywords: endometriosis, empowerment, self-management, nurse-led intervention, guided self-determination,
+life skills, follow-up, outpatient clinic.
+Submitted 4 July 2019, Accepted 28 November 2019
+
+population of reproductive age but is much higher in
+women with infertility and chronic pelvic pain (2).
+Women with endometriosis experience a broad spectrum
+of symptoms including pelvic pain, dysmenorrhoea and
+dyspareunia (1). Sexual dysfunction is described as a
+multidimensional phenomenon which is associated with
+but not limited to deep dyspareunia and thus can have a
+great impact on those suffering from endometriosis (3).
+Women may also experience fatigue (4) psychological
+challenges (5) and psychopathological comorbidities such
+as somatisation, anxiety, sensitivity and depression (6–8)
+
+1017
+
+1018
+
+S.M. Simonsen et al.
+
+all of which can negatively impact their quality of life
+(QOL) (9,10), sleep, perceived stress (10) and perception
+of pain (7). Altogether endometriosis affects education
+and workability (5) with direct and indirect socio-economic costs (7,9).
+The primary purpose of endometriosis treatment is to
+reduce pain and has traditionally focused on surgical and
+medical treatment. Even though these treatment options
+have been shown to reduce pain, women often still
+struggle with pain which ultimately affects their QOL
+(9,11). A Norwegian study reported that women with
+moderate to severe endometriosis had poorer mental
+HRQOL as compared to women with rheumatoid arthritis
+(12). Therefore, it is important to address psychosocial
+symptoms alongside physical symptoms. Usual follow-up
+procedures following treatment appear not to support the
+women’s self-management of the condition. Therefore,
+person-centred interventions are needed to address all
+the aspects of women’s lives suffering endometriosis and
+simultaneously support their self-management skills in
+relation to persisting symptoms. Searching the literature,
+we have not found such interventions.
+In this study, we apply a person-centred empowerment-based method, ‘Guided Self-Determination’ (GSD),
+which was developed in diabetes care (13–16). It includes
+patient reflection sheets and conversations with healthcare professionals (HCPs). It has successfully been transferred to other patient groups including parents to
+premature children (17), patients in dialysis (18) and
+patients with schizophrenia (19,20) and cancer (21,22).
+In diabetes, GSD improved glycemic control (23) and has
+reduced disease-related distress (24). Qualitative evaluations in the diabetes and dialysis settings have shown
+GSD to be a useful person-centred problem-solving tool
+that facilitates the development of life skills (18,25). In a
+nurse-led stepped-care intervention, GSD improved physical QOL (22) and the development of relational competencies and problem-solving skills in gynaecological
+cancer survivors (26).
+In this study, we aimed to assess if the implementation
+of GSD was feasible in an outpatient setting treating
+endometriosis and if and how GSD impacted on the
+women’s self-management of the disease. Additionally,
+we assessed changes in self-reported endometriosis-specific health-related quality of life (HRQOL) and confidence
+in managing health and care.
+
+women’s experience of GSD targeted at women with
+endometriosis (GSD-endo). These were supplemented
+with before-and-after assessment on the self-reported
+measurements, Endometriosis Health Profile 30 (EHP-30)
+(28,29) and the Patient Activation Measure (PAM) (30).
+
+Participants
+From January 2016 to April 2017, women with
+endometriosis were invited to participate if they indicated
+complex symptoms by marking at least two of six questions in a short endometriosis screening tool developed
+for the study (Table 1). Development was inspired by the
+questionnaires SF 36 (31) and EHP 30 (28,29).
+Additional inclusion criteria were age 18 years or
+above; pre-menopausal; diagnosed with endometriosis
+(histology) at least 4 months ago but not more than
+10 years ago; and the ability to read and write in Danish.
+Exclusion criteria were participation in a prior GSD-endo
+pilot study; pregnancy or fertility treatment; pain due to
+other conditions; and psychological conditions including
+cognitive or psychiatric impairment, alcohol or drug
+abuse and surgery planned within the next year. After
+verbal and written information, women signed a written
+informed consent form to participate and answered the
+baseline questionnaires (Fig. 1) after which they were
+mailed the preparatory reflection sheets for the first
+conversation.
+Fourteen women initially agreed to participate; however, four never received the intervention due to the following reasons: one became pregnant; one became
+divorced; one lived too far away; and one provided no
+reason for nonparticipation, leaving 10 participants to
+receive the intervention.
+
+The intervention GSD
+Guided Self-Determination supports reflection, collaboration and changes in the patients’ lives facilitated by the
+development of life skills in dealing with the disease
+(18,25). Life skills are a comprehensive concept defined
+as: ‘Those personal, social, cognitive and physical skills
+that enable a person to control and direct their lives and
+Table 1 Screening questions
+1
+
+Methods
+Design
+We used both qualitative and quantitative methods. Thematic analysis was conducted according to Braun and
+Clarke (27) on data from semi-structured individual and
+focus group interviews to gain knowledge of the
+
+2
+3
+4
+5
+6
+
+Are you worried about what the endometriosis will cause in the
+future?
+Do you feel limited in your daily life due to endometriosis?
+Does endometriosis keep you from doing things in your daily life?
+Do you consider your quality of your life affected due to
+endometriosis?
+Have you experienced pain due to your endometriosis within the
+past 4 weeks?
+Do you feel more tired than your peers?
+
+© 2019 Nordic College of Caring Science
+
+About me as a person not only the disease
+
+1019
+
+GSD CONVERSATIONS
+
+Baseline
+Questionnaire
+N = 10
+
+During a 5 months
+periode at average
+N = 10
+
+DATA COLLECTION
+
+2 weeks after
+completed conversation
+
+6 – 8 months after
+completed conversation
+
+Follow-up conversation
+after 12 months N = 4
+
+Questionnaire N = 10
+
+Focus group interview N = 4
+
+Questionnaire N = 4
+
+Telephone interview
+N = 9
+
+Figure 1 Overview of the intervention and the data collection.
+
+develop the capacity to live with and produce change in
+their environment’ (32).
+The main features of GSD include preparatory semistructured reflection sheets and conversations with an
+HCP certified in GSD. Different reflection sheets were
+completed by the patients before face-to-face conversations with the HCP. The sheets facilitate reflection and
+self-insight helping the patients to acknowledge and
+express their own specific needs, values and resources.
+The prefilled sheets constitute the starting point for faceto-face conversations, and during these, the patient and
+the HCP together create a common knowledge that provides the basis for further problem-solving of the issues
+that the patient considered to be particularly important
+in accordance with their values and needs.
+Our study builds on a previously piloted GSD-endo
+study (unpublished, presented at the 11th World Congress on Endometriosis, 2011). In our study, a total of 20
+disease-specific reflection sheets were used in five conversations. In addition, four women received a one-year
+follow-up conversation as a test. They were the first to
+complete the GSD course, and therefore, they participated in a focus group interview in which they suggested
+the follow-up conversation.
+
+GSD certified nurses
+Nurses were educated during a four-day course including
+theoretical and practical training with a final test. In this
+study, GSD-endo was facilitated by three nurses, who
+had at least 20 years of gynaecological experience, all
+employed at the Gynecological Outpatient Clinic at the
+Copenhagen University Hospital, Rigshospitalet. In addition to the certification in GSD, they received two group
+supervisions with a psychologist covering their experience with GSD and discussion about when to refer to a
+psychologist.
+
+Interviews
+Nine women were interviewed two weeks after the last
+conversation; one was not interviewed due to referral to
+
+© 2019 Nordic College of Caring Science
+
+a psychologist. The individual interviews lasted 25–
+35 minutes and aimed to capture the women’s immediate experience of GSD-endo and the feasibility of the
+intervention while the conversations were still remembered. The first question was: Why did you choose to participate in the pilot study? Thereafter, the focus was on four
+areas: how they experienced the reflection sheets; the conversations with the nurse; GSD’s contribution to the development of
+life skills; and the overall organisation of GSD-endo conversations. After 8 months, a 50-minute focus group interview
+was conducted with four women to gain various perspectives on GSD and to assess the long-term durability of
+any changes. Knowledge from the single telephone interviews qualified the questions in the focus group interview guide. The patient trajectory and time points for
+data collection are presented in Fig. 1.
+
+Analysis of interviews
+Data from the two kinds of interviews were initially analysed separately but it became clear that the findings integrated and complemented each other. Therefore, we
+decided to analyse them together. We used thematic
+analysis (27) which was applied as a hybrid of inductive
+and deductive analysis. The inductive part considered
+how women with endometriosis experienced living with
+the disease and receiving GSD-endo. The deductive part
+referred to whether the women, like in previous qualitative evaluations of GSD, developed life skills enabling
+them to self-manage their disease in daily life.
+The thematic analysis was carried out by three of the
+investigators (SMS, CS, MLO) in six phases: first, the
+transcribed interviews were read multiple times to
+become familiar with data; second, initial ideas about
+codes were noted; third, the interviews were coded
+independently by each investigator into codes and possible overall themes and discussed; fourth, codes and
+overall themes and their potential inter-relationship
+were visualised in several mind maps and were discussed; fifth, a consensus was reached on codes which
+were named and defined; and sixth, findings were
+reported in this article.
+
+1020
+
+S.M. Simonsen et al.
+
+Questionnaires
+Questionnaires were collected at three different time
+points: after informed consent at baseline (n = 10), two
+weeks after the last conversation (n = 10) and after one
+year (n = 4) to assess potential changes short term and
+long term in this particular patient group.
+EHP-30. The EHP questionnaire is disease-specific and
+designed to measure the women’s experience of their
+HRQOL regarding endometriosis. We used the long-form
+core instrument EHP-30 (28,29), which covers pain, control and powerlessness, emotional well-being, social support and self-image dimensions. Answers were given on
+a five-point Likert scale, and each dimension was calculated on a scale from 0 to 100 where 0 is the best possible health status and 100 is the worst. We were granted
+permission to use the Danish validated version by Isis
+Innovation Limited (www.isis-innivation.com).
+PAM. The PAM measures the women’s knowledge, skills
+and confidence in managing health and care (30). Based
+on their answers, they obtained a PAM score between 0
+and 100 which classified the women on one of four
+levels of activation from being passive and overwhelmed
+at level 1 to having adopted behaviours to support their
+health though still being struggling to maintain them
+because of life stressors on level 4. A license was
+obtained to use the Danish validated version from
+Insignia Health (www.insigniahealth.com).
+Data were entered into the software program Excel,
+and descriptive statistics were calculated according to the
+guidelines of the various scales including scores, medians,
+interquartile ranges and median changes.
+
+The analysis generated four themes as shown in Table 3.
+The women experienced many challenges and felt lonely
+in dealing with the disease. GSD-endo became the turning
+point for a process where they developed life skills improving their ability to self-manage the disease in daily life. In
+the following, we describe the themes in detail.
+
+Feeling alone with the disease
+In the single interviews, all the women expressed that
+their motivation for participating was a feeling of loneliness. They described, trying different methods to receive
+help with their condition but had not succeeded in getting what they needed ‘I had no life left in me, physically, mentally or socially. My illness continually
+consumed everything (Woman 7)’. They had several
+worries regarding fertility, sexuality, their relationship to
+their partner and having to take sick leave due to pain.
+The usual follow-up had not fulfilled their needs.
+The women expressed that they did not share their
+problems with others because they felt that nobody
+understood ‘I have never talked about my illness with
+anyone (Woman 8)’. A barrier for others to understand
+the disease and the related pain was that it was invisible
+‘There are many who say: ‘You do not look like someone
+who has such a pain’ but that is because I am used to
+having pain every day (Woman 5)’.
+
+Establishing a meaningful relationship with HCPs in a
+traditional hospital setting
+The women appreciated being invited to evaluate the
+new empowerment-based approach in the outpatient
+Table 3 Themes and subthemes
+
+Results
+
+Themes
+
+Subthemes
+
+Baseline characteristics of the 10 participating women are
+shown in Table 2.
+
+Feeling alone with the disease
+
+Table 2 Characteristics of participants
+
+Establishing a meaningful
+relationship with HCPs in a
+traditional hospital setting
+
+Not knowing what to do
+Difficult to explain to others
+Worried about the future
+Reduced expectations to the HCPs
+Equality
+Different expectations to the HCPs
+Seen as a person
+A feeling of being acknowledged
+Increasing trust
+Gaining insight into themselves and
+their previous behaviour
+Gaining knowledge about the
+disease and treatment
+Developing life skills in relation to
+endometrioses
+Not feeling abnormal anymore
+Increased self-confidence
+Increased quality of life
+In short term and long term
+
+Women
+
+Age
+
+Number
+of births
+
+Endometriosis stage
+based on ASRM score
+
+Number of
+prior surgeries
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+25–30
+35–40
+20–25
+40–45
+25–30
+25–30
+30–35
+40–45
+35–40
+25–30
+
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+
+2
+4
+1
+3
+4
+2
+4
+4
+4
+4
+
+2
+1
+1
+2
+1
+4
+1
+1
+3
+8
+
+Person-specific knowledge
+facilitated new behaviours
+
+Accepting a chronic condition
+– the beginning of a process
+
+© 2019 Nordic College of Caring Science
+
+About me as a person not only the disease
+clinic that normally represented a biomedical approach to
+them. They experienced that the GSD-endo conversations differed from the dialog they usually had with professionals ‘It has been very different from other
+conversations. I have gotten more in-depth answers and
+much deeper talks (Woman 4)’. They pointed out that
+these conversations were focused on their personal needs
+and preferences. They experienced it was an advantage
+that the nurses had both communicative competences,
+disease-specific knowledge and time for conversations
+was prioritised ‘Nice that it [the GSD conversations] was
+held in the outpatient clinic and good that the outpatient
+clinic also created something good and positive because
+the visits usually caused something negative and frustrating (Woman 1)’.
+During the GSD-endo conversations, the women
+expressed having a more equal dialog with the nurses
+than normally and they also began to have new expectations to the collaboration with all the HCPs in the multidisciplinary endometriosis team. ‘It has been exciting and
+rewarding. I didn’t expect to gain so much from this. It
+made so much sense to me and the outcome has been
+good in terms of the future and myself (Woman 1)’.
+They described that the prefilled reflection sheets
+offered structure and reflection. It helped them to organise their thoughts and challenges and prepared them for
+the conversations ‘Words put on the sheets helped to
+prepare and set structure and direction (Woman 6)’. This
+preparation provided insight into challenges and actions
+in relation to their disease which they were previously
+not aware of. The new insight led to a deeper and more
+focused subsequent conversation ‘the sheets helped to
+get around difficult things (Woman 3)’. They experienced
+that the GSD-endo conversations had a positive focus on
+what they could do to manage the disease themselves ‘I
+have learned more about myself. It is okay to ask for
+help and I have greater care for myself’ (Woman 3).
+They appreciated the focus on their whole life situation
+with endometriosis ‘I was seen as a person. It was about
+me and not just about the disease (Woman 10)’. They
+emphasised that a prerequisite for the conversations was
+mutual trust enabling them to share intimate concerns and
+dare to talk about things that they found were difficult.
+‘The nurse had the knowledge and understood. . . I felt
+very safe. I am usually very cautious and quiet, and I don’t
+simply talk to others (Woman 9)’. They also appreciated
+the time for GSD-endo conversations ‘During these conversations there was time and 100% focus (Woman 6)’.
+
+Person-specific knowledge facilitated new behaviours
+The women gained new disease-specific knowledge about
+endometriosis, treatment and symptoms as well as personal knowledge about themselves and their way of
+managing endometriosis in daily life. ‘I have become
+© 2019 Nordic College of Caring Science
+
+1021
+
+more aware of my thinking patterns. When I get sad and
+frustrated, I can better understand it and I have a better
+insight (Woman 1)’. The new personal knowledge made
+it easier to deal with the symptoms.
+It has given me more knowledge, and my boyfriend
+also knows more now because we can talk about
+things based on the sheets. It’s the same at work,
+because I’m more open and can tell them more
+about it (Woman 3).
+Their personal knowledge was obtained by awareness
+and insight into their previous way of thinking and dealing with the disease, and they developed a more positive
+mindset. New actions and behaviours were described
+which provided the women with a sense of being in
+control.
+I have gotten new and better thinking patterns and
+a more positive view. I have become better at taking
+pain medication and dare to connect my disease to
+my emotions. I have obtained tools for problemsolving. I still have the same emotions, but they are
+easier to handle (Woman 5).
+They received support to change inappropriate ways in
+which they had previously managed the disease: ‘I took
+pain medications – both Dolol and Oxycontin. I have
+now been drugfree for a month and a half and only take
+medicine when needed. The nurse believed in me and
+was certain that I could get off the pain relief medication. . . we fought together (Woman 9)’.
+It was a common theme that they became better at
+communicating needs. They began to explain
+endometriosis and their challenges to friends, family and
+colleagues: ‘I ask for help, and they [GSD-endo conversations] have helped me with being more open to everyone. My work [colleagues] had no knowledge about the
+disease, and therefore I have been able to educate them
+about it. I realized that it is about me (Woman 3)’.
+
+Accepting a chronic condition – the beginning of a process
+The women became better at prioritising which problems
+to address and solve and accepting that not all could be
+solved ‘I have gained greater acceptance [after the GSD
+conversations] and I’m in a process of gaining complete
+acceptance (Woman 3)’. They started to accept living
+with endometriosis and the inescapable and persistent
+symptoms. ‘I have gained a much greater emotional
+acceptance of the disease. I want to be healthier and I
+found out that I need to accept my body. I have gone
+from frustrations to actions (Woman 5)’.
+This process of acceptance seemed to be initiated by
+the knowledge about their reactions and the new disease-specific knowledge ‘I’ve got a lot out of talking to
+someone who has a lot of knowledge and understanding
+of my illness and the sheets have supported me to think
+deeper about things (Woman 4)’. They realised that they
+
+1022
+
+S.M. Simonsen et al.
+
+were not alone, and their challenges were common to
+other women with endometriosis too. This introduced an
+experience of being normal which contrasted a previous
+feeling of being abnormal. ‘I have always felt very abnormal but at the conversations it [her situation and behavior] was normalized and I gained tools and methods to
+explain the disease at home (Woman 1)’.
+The focus group interview including four women six to
+eight months after the GSD conversations revealed that
+the new approaches to the disease and the acceptance of
+their situation were still maintained. ‘My whole quality
+of life has improved. And I still have cysts on my intestines and daily pain, so it [the disease] is not . . . so to
+say. . . much better. But something has happened to me
+and my handling of the disease has changed my life radically (Woman 1)’. Another woman describes ‘I am at
+peace with myself and I am at peace with my illness
+(Woman 5)’.
+
+Structure and organisation of GSD conversations
+Because we aimed to assess if the GSD was feasible for
+implementation in our clinical practice, the women were
+asked about the overall organisation of the conversations.
+They found five conversations suitable but suggested two
+to four weeks between them would have provided time
+for reflection. One hour was the optimal length to get
+into the depths of the problems, and an undisturbed setting was valued. It was important for trust and openness
+that the same nurse facilitated all conversations. Most
+women did not care whether the nurse was dressed in
+uniform or not. It was suggested that the number of conversations could be individualised in the future based on
+needs. The four women who participated in the focus
+group interview would appreciate a long-term follow-up
+conversation one year after the GSD standard course
+(five conversations).
+
+continued to score level one before and after the conversations. After 12 months, the delta change was only 0.5.
+
+Discussion
+This combined qualitative and quantitative study provides important results from a newly developed empowerment-based intervention, GSD-endo, for women
+suffering from complex endometriosis. Research in caring
+for this patient group is sparse, and the women are
+known to have unmet needs (33). The thematic analysis
+provided detailed information about changes in the
+women’s reaction to the condition enabled by GSD-endo:
+becoming less lonely with the condition, establishing a
+meaningful relationship with HCPs, gaining personal and
+disease-specific knowledge that facilitated new behaviours and initiated a process of acceptance. A quantitative inventory suggested that EHP-30 identified changes
+among the women which did not seem to be just as convincing for PAM.
+The fact that the women felt isolated and alone with
+endometriosis was also found in a narrative review on
+the social and psychological impact of living with
+endometriosis (5), where some women reported to be
+reluctant to talk to others about their situation. Loneliness has been described due to lack of acceptance from
+partners (34). The women in our study had worries in
+relation to fertility, sexuality, partner and workability.
+Emotional distress was also a pervasive theme in the
+review by Cully et al. (5). Further, ‘uncertainty’ was
+found to impact on the women’s lives both pre- and
+post-diagnosis due to uncertainty in relation to diagnostic
+delay, ‘symptomatic uncertainty’ due to the variability of
+symptoms and ‘trajectory uncertainty’ related to the
+future especially regarding fertility (5).
+Not receiving support from the healthcare system was
+reported in a qualitative study where the women mostly
+highlighted negative experiences with HCPs who did not
+
+Quantitative results – questionnaires
+EHP 30. Results of the EHP 30 questionnaires are presented in Table 4 and Fig. 2. In general, all dimensions
+appeared to improve from baseline to 2 weeks after the
+last GSD conversation, and in an overall perspective, this
+appeared to be maintained after 12 months except for
+the dimension ‘Self-image’.
+PAM. The results from the PAM questionnaire are presented in Table 4. The median delta change was one level
+in a positive direction after two weeks suggesting an
+increased ability in the women’s knowledge, skills and
+confidence in managing own health. However, four out
+of the ten women had the same scores at level one
+before and after the GSD-endo conversations. After
+12 months (data not shown), two out of the four women
+
+Table 4 EHP 30 and PAM scores at baseline and 2 weeks after the
+last conversation (medians, interquartile ranges and median changes)
+
+EHP 30*
+Pain
+Control and
+powerlessness
+Emotional
+well-being
+Social support
+Self-image
+PAM
+
+Baseline
+(N = 10)
+
+Two weeks after last
+conversations (N = 10)
+
+Median
+change
+
+55 (49–60)
+73 (68–82)
+
+41 (40–51)
+54 (47–73)
+
+14
+19
+
+60 (45–69)
+
+44 (39–52)
+
+17
+
+78 (66–88)
+67 (54–75)
+1 (1–1.75)
+
+56 (42–72)
+42 (35–50)
+2 (1–2.75)
+
+22
+25
++1
+
+*All EHP 30 values are rounded up to nearest whole number.
+© 2019 Nordic College of Caring Science
+
+About me as a person not only the disease
+
+1023
+
+Figure 2 EHP dimensions at baseline, 2 weeks and 12 months for each participant.
+
+prioritise their concerns or took them seriously (35). A
+recent Swedish study found women’s encounters with
+HCP’s of mixed character comprising experiences of confidence and understanding but also mistrust and humiliation (36). A qualitative study of clinicians’ perceptions of
+women’s experiences with endometriosis and of psychosocial care for this group found that most clinicians
+assessed themselves not adequately trained to understand
+and provide psychosocial care for this group and many
+found it not necessary to do so (37).
+
+© 2019 Nordic College of Caring Science
+
+A key to action seemed to be the new personal knowledge provided by the women’s insight into previous
+behaviour regarding the disease gained through the
+preparatory GSD-endo sheets and the following conversations. Person-centred interventions with a holistic
+approach have been requested to support this group in
+handling the negative social and psychological impact of
+endometriosis and its treatment (5). Patient-centred
+endometriosis care and especially areas such as ‘continuity’, ‘respect’ and ‘information’ has been associated with
+
+1024
+
+S.M. Simonsen et al.
+
+better HRQOL (38). Previously, it has been stated that in
+particular nurses are well-suited to deliver appropriate
+care to this group (39). Even though this statement was
+presented more than 10 years ago, it is still relevant
+today. We believe that supporting women’s abilities to
+cope with endometriosis and enabling integration of life
+and disease, based on personal values and preferences,
+remain key tasks for nurses. Positive coping strategies
+focusing on the problem or on emotions in relation to
+endometriosis were in a recent review found to be associated with better mental health (40).
+A recent study stated information, communication and
+education to be important areas in patient-centred
+endometriosis care (41). Our findings support disease and
+person-specific education to be an important empowering
+factor and necessary for the women to self-manage their
+condition. In our study, the women gained personal and
+disease-specific knowledge which in turn enabled them
+to articulate their challenges to HCPs, family members
+and colleagues, which was found to be an important
+empowering process. The women described gaining control during the GSD conversations which is in line with
+the overall purpose of GSD. The method was developed
+to support an empowerment process in which patients
+develop life skills enabling them to self-manage their disease in daily life (16). The women describe many examples of newly developed skills such as, being able to
+prioritise between problems, gaining the ability to communicate difficult feelings, increasing acceptance and
+developing their problem-solving skills. The latter was
+also an important outcome of GSD targeted women with
+gynaecological cancer (26).
+Research in Self-Determination Theory has found that
+humans have three innate psychological needs: competence, autonomy and being able to create relationships
+with others. Thus, satisfaction of these needs leads to
+enhanced mental health and self-motivation (42). The
+women in our study described GSD-endo to enhance
+their sense of autonomy by addressing their individual
+needs. They developed life skills enabling them to relate
+to their significant others, and due to insight and education, they increased their own competence in handling
+the disease. Taken together, GSD-endo supported all
+three innate needs and increased the women’s mental
+health and self-motivated problem-solving strategies.
+Our findings indicate that GSD is a feasible method in
+providing person-centred support for out-patients with
+endometriosis but needs further testing in a randomised
+trial. In this pilot study, GSD empowered the women by
+facilitating the development of life skills. To our best
+knowledge, many methods exist that address elements of
+personal goal setting, shared decision-making and targeted support of frail individuals. But none of these combines theories and practice like GSD. GSD is unique
+because of the person-centred approach and, at the same
+
+time, impact on HCP’s mindset and understanding of the
+patient’s individual needs.
+Multidisciplinary approaches have been described as
+mandatory to reduce the impact of the endometriosis on
+QOL and sexual function (43). Our study indicates that
+nurses play a more active role in the team when they
+apply GSD to support women with complex endometriosis to cope with symptoms such as pain which is associated with reduced QOL, anxiety and depression (7).
+This is in line with the before-and-after assessment
+especially on HRQOL (EHP 30) suggesting benefits of
+GSD-endo; however, this should be confirmed by a randomised trial. The EHP-30 scores in our study are in general higher (worse) than in an American cross-sectional
+study (44) probably because the women in our study
+were screened to have complex endometriosis.
+
+Strengths of the study
+Based on the expected needs of the patients, we chose
+GSD, which has shown benefit in other settings. We
+applied a qualitative analysis to show the potential effects
+of GSD in endometriosis. And we applied quantitative
+data to underpin these. Several researchers were
+involved in the analysis and interpretation of data contributing to different perspectives on the findings.
+
+Limitations of the study
+The nurses delivering this intervention had more than
+20 years of experience. Their clinical experience may have
+affected the women’s experience of GSD-endo, and therefore, the results may not be generalisable to a different setting with less experienced nurses. On the other hand, very
+experienced nurses have been found to be reluctant to
+apply evidence-based methods (45) but this was not the
+case in our study. One woman was referred to a psychologist and not interviewed. She was satisfied with the conversations, and they revealed her need for referral. If she
+had been interviewed, it might have contributed with
+other perspectives. We present few quantitative data collected before and after without blinding or a control group.
+We do not know if or how the women would have
+improved their scores over time without GSD-endo.
+
+Perspectives
+GSD-endo has the potential to benefit women with complex endometriosis, but this needs testing in a randomised trial where causality can be established. Since
+this study was completed, GSD-endo has been developed
+in a digital version where reflection sheets are hosted on
+the Public Danish eHealth Portal, Sundhed.dk. The conversations can now be delivered face-to-face, on the telephone or supported by video. A blended learning
+© 2019 Nordic College of Caring Science
+
+About me as a person not only the disease
+certification programme in GSD has been developed. All
+these new features likely increase the feasibility of
+nationwide tests and implementations of GSD in several
+settings including complex endometriosis (www.guidedse
+lfdetermination.eu).
+
+1025
+
+psychological therapy after two conversations because of
+a complex life situation with other challenges than
+endometriosis.
+
+Conflict of interests
+All authors declare no conflict of interests.
+
+Conclusions
+Guided Self-Determination supported the women in
+developing self-management skills in relation to
+endometriosis and its symptoms. This was due to insight
+into their own needs and behaviours and their gained
+knowledge about the disease itself. The before-and-after
+assessment on EHP 30 suggested benefits, but this needs
+confirmation in a randomised trial.
+
+Author contributions
+
+Acknowledgements
+
+Ethical approval
+
+Thanks to the participating women who have given us
+valuable feedback on their experiences and to the nurses
+for providing conversations and collecting questionnaires,
+especially Helle Ring Knudsen. Finally, thanks to MD
+Andreas Henriksen for statistical assistance.
+
+The project was notified and approved by the Danish
+Data Protection Agency (JNR.2013-41-2427). According
+to Danish law it was exempted from approval by The
+Danish Ethics Committee. The study was conducted in
+accordance with the Helsinki Declaration. Continuously
+we had increased awareness of women in need of support from a psychologist. One woman was referred to
+psychological therapy after two conversations because of
+a complex life situation with other challenges than
+endometriosis.
+
+Ethical approval
+The project was notified and approved by the Danish
+Data Protection Agency (JNR.2013-41-2427). According
+to Danish law, it was exempted from approval by The
+Danish Ethics Committee. The study was conducted in
+accordance with the Helsinki Declaration. Continuously,
+we had increased awareness of women in need of support from a psychologist. One woman was referred to
+
+References
+1 Kennedy S, Bergqvist A, Chapron C,
+D’Hooghe T, Dunselman G, Greb R,
+Hummelshoj L, Prentice A, Saridogan
+E. ESHRE guideline for the diagnosis
+and treatment of endometriosis. Hum
+Reprod 2005; 20: 2698–704.
+2 Meuleman C, Vandenabeele B,
+Fieuws S, Spiessens C, Timmerman D,
+D’Hooghe T. High prevalence of
+endometriosis in infertile women with
+normal ovulation and normospermic
+partners. Fertil Steril 2009; 92: 68–74.
+3 Barbara G, Facchin F, Buggio L,
+Somigliana E, Berlanda N, Kustermann A, Vercellini P. What is known
+and unknown about the association
+between endometriosis and sexual
+functioning: a systematic review of
+
+© 2019 Nordic College of Caring Science
+
+SMS, CS, DH and VZ designed the study. CS conducted
+interviews, the focus group interview was conducted by
+a communication consultant. SMS, CS and MLO analyzed data. All authors have contributed to writing the
+article and approved the final version.
+
+Funding
+The study was funded by The Gynecological Department,
+Copenhagen University Hospital, Rigshospitalet.
+
+the literature. Reprod Sci 2017; 24:
+1566–76.
+4 Ramin-Wright A, Kohl Schwartz AS,
+Geraedts K, Rauchfuss M, Wolfler
+MM, Haeberlin F, von Orelli S, Eberhard M, Imthurn B, Imesch P, Fink
+D, Leeners B. Fatigue – a symptom
+in endometriosis. Hum Reprod 2018;
+33: 1459–65. [Epub ahead of print].
+5 Culley L, Law C, Hudson N, Denny
+E, Mitchell H, Baumgarten M, RaineFenning N. The social and psychological impact of endometriosis on
+women’s lives: a critical narrative
+review. Hum Reprod Update 2013; 19:
+625–39.
+6 Gambadauro P, Carli V, Hadlaczky
+G. Depressive symptoms among
+women with endometriosis: a systematic review and meta-analysis.
+
+Am J Obstet Gynecol 2019; 220: 230–
+41.
+7 Lagana AS, La Rosa VL, Rapisarda
+AMC, Valenti G, Sapia F, Chiofalo B,
+Rossetti D, Ban Frangez H, Vrtacnik
+Bokal E, Vitale SG. Anxiety and
+depression
+in
+patients
+with
+endometriosis: impact and management challenges. Int J Womens Health
+2017; 9: 323–30.
+8 Lagana AS, Condemi I, Retto G, Muscatello MR, Bruno A, Zoccali RA, Triolo
+O, Cedro C. Analysis of psychopathological comorbidity behind the common symptoms and signs of
+endometriosis. Eur J Obstet Gynecol
+Reprod Biol 2015; 194: 30–3.
+9 Nnoaham KE, Hummelshoj L, Webster P, d’Hooghe T, de Cicco NF, de
+Cicco NC, Jenkinson C, Kennedy SH,
+
+1026
+
+S.M. Simonsen et al.
+
+Zondervan KT. Impact of endometriosis on quality of life and work productivity: a multicenter study across
+ten countries. Fertil Steril 2011; 96:
+366–73.
+10 Marinho MCP, Magalhaes TF, Fernandes LFC, Augusto KL, Brilhante
+AVM, Bezerra L. Quality of life in
+women with endometriosis: an integrative review. J Womens Health
+2018; 27: 399–408.
+11 Simoens S, Dunselman G, Dirksen C,
+Hummelshoj L, Bokor A, Brandes I,
+Brodszky V, Canis M, Colombo G l,
+DeLeire T, Falcone T, Graham B, Halis
+G, Horne A, Kanj O, Kjer J j, Kristensen J, Lebovic D, Mueller M, Vigano P, Wullschleger M, D’Hooghe T.
+The burden of endometriosis: costs and
+quality of life of women with
+endometriosis and treated in referral
+centres. Hum Reprod 2012; 27: 1292–9.
+12 Verket NJ, Uhlig T, Sandvik L,
+Andersen MH, Tanbo TG, Qvigstad
+E. Health-related quality of life in
+women with endometriosis, compared with the general population
+and women with rheumatoid arthritis. Acta Obstet Gynecol Scand 2018;
+97: 1339–48.
+13 Zoffmann V, Kirkevold M. Relationships and their potential for change
+developed in difficult type 1 diabetes.
+Qual Health Res 2007; 17: 625–38.
+14 Zoffmann V, Kirkevold M. Life versus disease in difficult diabetes care:
+conflicting perspectives disempower
+patients and professionals in problem
+solving. Qual Health Res 2005; 15:
+750–65.
+15 Zoffmann V, Harder I, Kirkevold M.
+A person-centered communication
+and reflection model: sharing decision-making in chronic care. Qual
+Health Res 2008; 18: 670–85.
+16 Zoffmann V, Kirkevold M. Realizing
+empowerment in difficult diabetes
+care: a guided self-determination
+intervention. Qual Health Res 2012;
+22: 103–18.
+17 Weis J, Zoffmann V, Egerod I.
+Enhancing person-centred communication in NICU: a comparative thematic analysis. Nurs Crit Care 2015;
+20: 287–98.
+18 Finderup J, Bjerre T, Soendergaard
+A, Nielsen ME, Zoffmann V. Developing life skills in haemodialysis
+using the guided self-determination
+
+method: a qualitative study. J Ren
+Care 2016; 42: 83–92.
+19 Jorgensen R, Hansson L, Zoffmann
+V. Changes in persistent delusions in
+schizophrenia using guided self-determination: a single case study.
+Issues Ment Health Nurs 2012; 33:
+293–300.
+20 Jorgensen R, Licht RW, Lysaker PH,
+Munk-Jorgensen P, Buck KD, Jensen
+SO, Hansson L, Zoffmann V. Effects
+on cognitive and clinical insight with
+the use of Guided Self-Determination in outpatients with schizophrenia: A randomized open trial. Eur
+Psychiatry 2015; 30: 655–63.
+21 Linnet Olesen M, Hansson H, Ottesen B, Thranov IR, Thisted LB, Zoffmann V. The psychosocial needs of
+gynaecological cancer survivors: A
+framework for the development of a
+complex intervention. Eur J Oncol
+Nurs 2015; 19: 349–58.
+22 Olesen ML, Duun-Henriksen AK,
+Hansson H, Ottesen B, Andersen KK,
+Zoffmann V. A person-centered
+intervention targeting the psychosocial needs of gynecological cancer
+survivors: a randomized clinical trial.
+J Cancer Surviv 2016; 10: 832–41.
+23 Zoffmann V, Lauritzen T. Guided
+self-determination improves life skills
+with type 1 diabetes and A1C in randomized controlled trial. Patient Educ
+Couns 2006; 64: 78–86.
+24 Zoffmann V, Vistisen D, Due-Christensen M. Flexible guided self-determination intervention for younger
+adults with poorly controlled Type 1
+diabetes, decreased HbA1c and psychosocial distress in women but not
+in men: a real-life RCT. Diabet Med
+2015; 32: 1239–46.
+25 Husted GR, Esbensen BA, Hommel
+E, Thorsteinsson B, Zoffmann V.
+Adolescents developing life skills for
+managing type 1 diabetes: a qualitative, realistic evaluation of a guided
+self-determination-youth intervention. J Adv Nurs 2014; 70: 2634–50.
+26 Thisted LB, Zoffmann V, Olesen ML.
+Labeled as lucky: contradictions
+between what women and healthcare professionals experience regarding the need for help after the early
+stages of gynecological cancer. Support Care Cancer 2019. https://doi.org/
+10.1007/s00520-019-04882-2 [Epub
+ahead of print].
+
+27 Braun V, Clarke V. Using thematic
+analysis in psychology. Qual Res Psychol 2006; 3: 77–101.
+28 Jones G, Kennedy S, Barnard A,
+Wong J, Jenkinson C. Development
+of an endometriosis quality-of-life
+instrument:
+The
+Endometriosis
+Health Profile-30. Obstet Gynecol
+2001; 98: 258–64.
+29 Jones G, Jenkinson C, Kennedy S.
+Evaluating the responsiveness of the
+Endometriosis Health Profile Questionnaire: the EHP-30. Qual Life Res
+2004; 13: 705–13.
+30 Hibbard JH, Stockard J, Mahoney
+ER, Tusler M. Development of the
+Patient Activation Measure (PAM):
+conceptualizing and measuring activation in patients and consumers.
+Health Serv Res 2004; 39(4 Pt 1):
+1005–26.
+31 Stull DE, Wasiak R, Kreif N, Raluy
+M, Colligs A, Seitz C, Gerlinger C.
+Validation of the SF-36 in patients
+with endometriosis. Qual Life Res
+2014; 23: 103–17.
+32 Nutbeam D. Health promotion glossary. Health Promot 1986; 1: 113–27.
+33 As-Sanie S, Black R, Giudice LC,
+Gray Valbrun T, Gupta J, Jones B,
+Laufer MR, Milspaw AT, Missmer
+SA, Norman A, Taylor RN, Wallace
+K, Williams Z, Yong PJ, Nebel RA.
+Assessing research gaps and unmet
+needs in endometriosis. Am J Obstet
+Gynecol 2019; 221: 86–94.
+34 Strzempko Butt F, Chesla C. Relational patterns of couples living with
+chronic
+pelvic
+pain
+from
+endometriosis. Qual Health Res 2007;
+17: 571–85.
+35 Moradi M, Parker M, Sneddon A,
+Lopez V, Ellwood D. Impact of
+endometriosis on women’s lives: a
+qualitative study. BMC Womens Health
+2014; 14: 123.
+36 Hallstam A, Stalnacke BM, Svensen
+C, Lofgren M. Living with painful
+endometriosis - A struggle for coherence. A qualitative study. Sex Reprod
+Health 2018; 17: 97–102.
+37 Young K, Fisher J, Kirkman M. Clinicians’ perceptions of women’s experiences of endometriosis and of
+psychosocial care for endometriosis.
+Aust N Z J Obstet Gynaecol 2017; 57:
+87–92.
+38 Apers S, Dancet EAF, Aarts JWM,
+Kluivers KB, D’Hooghe TM, Nelen
+
+© 2019 Nordic College of Caring Science
+
+About me as a person not only the disease
+W. The association between experiences with patient-centred care and
+health-related quality of life in
+women with endometriosis. Reprod
+Biomed Online 2018; 36: 197–205.
+39 Denny E. Women’s experience of
+endometriosis. J Adv Nurs 2004; 46:
+641–8.
+40 Zarbo C, Brugnera A, Frigerio L,
+Malandrino C, Rabboni M, Bondi E,
+Compare A. Behavioral, cognitive,
+and emotional coping strategies of
+women with endometriosis: a critical
+narrative review. Arch Womens Ment
+Health 2018; 21: 1–13.
+41 Geukens EI, Apers S, Meuleman C,
+D’Hooghe TM, Dancet EAF. Patient-
+
+© 2019 Nordic College of Caring Science
+
+centeredness and endometriosis: Definition, measurement, and current
+status. Best Pract Clin Obstet Gynaecol
+2018; 50: 11–7.
+42 Ryan RM, Deci EL. Self-determination theory and the facilitation of
+intrinsic motivation, social development, and well-being. Am Psychol
+2000; 55: 68–78.
+43 Vitale SVL, Vitagliano A, Noventa M,
+Lagana FM, Ardizzone A, Rapisarda
+AMC, Terzic MM, Terzic S, Lagana AS.
+Sexual function and quality of life in
+patients affected by deep infiltrating
+endometriosis: current evidence and
+future perspectives. J Endometr Pelvic
+Pain Disord 2017; 9: 270–4.
+
+1027
+
+44 Soliman AM, Coyne KS, Zaiser E,
+Castelli-Haley J, Fuldeore MJ. The
+burden of endometriosis symptoms
+on health-related quality of life
+in women in the United States:
+a cross-sectional study. J Psychosom Obstet Gynaecol 2017; 38:
+238–48.
+45 Jorgensen R, Christiansen J, Nissen
+HB, Kristoffersen K, Zoffmann V.
+The deadlock of saying "That is what
+we already do!" A thematic analysis
+of mental healthcare professionals’
+reactions to using an evidence-based
+intervention. J Psychiatr Ment Health
+Nurs 2019; 26: 39–48.
+
+Copyright of Scandinavian Journal of Caring Sciences is the property of Wiley-Blackwell and
+its content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+
+

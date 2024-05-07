@@ -1,0 +1,834 @@
+Mixed-Methods Designs
+Martino Maggetti
+
+Contents
+1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 General Principles of Mixed Designs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3 Statistics-Oriented Mixed Designs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4 Case Studies-Oriented Mixed Designs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 QCA-Based Mixed Design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6 Advantages and Limitations of Mixed Designs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8 Selected Literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2
+4
+7
+8
+11
+12
+13
+14
+15
+
+Abstract
+
+This chapter focuses on mixed-method designs, an increasingly popular approach
+to designing research in the social sciences that is used to combine the respective
+advantages of qualitative and quantitative analytical procedures and to strengthen
+the empirical analysis. After the introduction, two general principles of mixed
+designs are discussed, the principle of triangulation and the principle of integration. The former involves the concomitant application of different methods in
+order to cross-validate their ﬁndings. The latter entails the sequential combination
+of different methods to produce a uniﬁed causal inference, whereby one method is
+used to establish the ﬁnal inference, and the other one is applied to prepare, test,
+qualify or reﬁne the analysis generating this inference. Afterwards, the chapter
+proceeds by presenting three varieties of mixed-method studies: statisticsoriented, case-oriented and QCA-based mixed-methods designs. The last section
+M. Maggetti (*)
+Institute of Political, Historical and International Studies, University of Lausanne, Lausanne,
+Schweiz
+E-Mail: martino.maggetti@unil.ch
+
+# Springer Fachmedien Wiesbaden GmbH, ein Teil von Springer Nature 2018
+C. Wagemann et al. (Hrsg.), Handbuch Methoden der Politikwissenschaft, Springer
+Reference Sozialwissenschaften, https://doi.org/10.1007/978-3-658-16937-4_12-1
+
+1
+
+2
+
+M. Maggetti
+
+before concluding discusses several advantages and limitations of mixed-method
+research.
+Keywords
+
+Integration · Methodological pluralism · Mixed-methods · Research design ·
+Triangulation
+
+1
+
+Introduction
+
+A mixed-method design is usually understood as a research strategy that combines
+qualitative and quantitative analytical procedures in a single study or research
+project, namely with respect to data collection and data analysis (Creswell 2014)1.
+Instead, when multiple types of qualitative data (e.g., interviews and observations),
+or, respectively, multiple types of quantitative data (e.g., survey and databases) are
+examined, the expression “multimethod research” is used (see however Seawright
+2016; Goertz 2017). Mixing methods implies accepting – at least implicitly – the
+pragmatist assumption that qualitative and quantitative methods are not only compatible, but also complementary for producing knowledge that is scientiﬁcally
+relevant and societally useful (Morgan 2007; Feilzer 2010). In that regard, it is
+worth noting that qualitative and quantitative research traditions are nowadays
+perceived as less oppositional, and thereby less polarizing, than it was during the
+ﬁerce paradigmatic debates that were commonplace in the 1970s and 1980s. However, they still correspond to relatively distinctive research communities, whose
+research practices can be identiﬁed through their ideal-typical constitutive features.
+Generally speaking, qualitative research is traditionally associated with an ideographic paradigm emphasizing meaning, interpretation, subjectivity and inductivism, whereas quantitative research embraces a nomothetic paradigm which gives
+prominence to generalizability, causal explanation, intersubjective knowledge, and
+hypothetic-deductive reasoning (Denzin and Lincoln 2011; Given 2008). More
+speciﬁcally, qualitative and quantitative approaches co-exist by presenting distinctive features also when taking a “post-positivist” stance (Maggetti et al. 2013). In this
+respect, empirically oriented qualitative research is typically based on “[causal]
+process observations,” that is, pieces of evidence about the processes underlying
+speciﬁc causal relations (Brady et al. 2006). It is also characterized by special
+attention to individual cases for which evidence is derived from in-depth withincase analysis. What is more, a crucial goal of qualitative research is to uncover the
+causal mechanisms at work (Gerring 2004), that is, to transform the so-called black
+box into a transparent box exposing the properties and activities of the entities under
+investigation (Hedström and Ylikoski 2010). Quantitative research, on the other
+hand, relies on a large number of “data set observations” (Brady et al. 2006). Unlike
+the former, it is variable-oriented and concentrates on the (average) causal effect of
+
+1
+
+I would like to thank Ina Kubbe for helpful comments on this chapter.
+
+Mixed-Methods Designs
+
+3
+
+one or a few of independent variables on a given dependent variable. It usually
+derives inference from cross-case comparison and thus requires cross-sectional
+and/or longitudinal variation. It also focuses on overall patterns of ﬁt and is geared
+towards generalization (Mahoney and Goertz 2006).
+The whole point of mixing methods is to transcend “paradigm wars” (Bryman
+2008) and put together the respective advantages of qualitative and quantitative
+analytical procedures – in a nutshell, corresponding to context-sensitive knowledge
+and in-depth understanding on the one hand, and generalizability and analytical rigor
+on the other (Creswell 2013). More speciﬁcally, as this chapter will show, different
+methods can be combined in a (more or less) coherent framework to strengthen the
+analysis with respect to its reliability and validity (i.e., by ensuring the convergence
+of results when applying different perspectives), breadth (i.e., by extending the
+number of cases and the scope of the inquiry), or depth (i.e., by collecting richer
+information from a small number of cases) (Johnson et al. 2007; Teddlie and Yu
+2007; Greene et al. 1989). What is more, a number of scholars concerned with the
+relevance of political science have argued that mixed methods are particularly wellsuited for problem-driven, contextualized research that addresses pressing issues in
+the real world of politics (Schram et al. 2013). This argument rests on the assumption
+that mixed methods allow for alternative, ﬂexible and heterodox methodologies that
+could help in overcoming meta-theoretical and methodological debates and better
+connecting research with practice2. The added value of mixed-methods research
+seems to be increasingly recognized by the scholars in several disciplines as this
+methodological perspective is thriving. As Seawright (2016: 3) has shown by using a
+rough measure based on the overall number of scholarly texts that contain the
+expressions “multi-method” or “mixed-method” among those referred in Google
+Scholar (in all disciplines), the number of academic contributions that contain these
+expressions increased in absolute terms from a few hundred overall to around 6’000
+for the former expression and around 11’000 for the latter on a yearly basis from
+2000 to 2013.
+The success of mixed-method research could be understood as a component of a
+general trend towards methodological pluralism (Giraud and Maggetti 2015). In this
+sense, qualitative and quantitative analytical paradigms have become less and less
+perceived as “ideological” enemies (Sartori 1993). Quite on the contrary, scholars
+increasingly recognize the beneﬁts of both research traditions, by acknowledging not
+only how quantitative and qualitative tools can complement each another, but that
+they provide distinctive beneﬁts when they are used in combination. This chapter
+moves forward from this assumption, that mixing methods is ontologically possible
+and even potentially beneﬁcial (Olsen 2004), and it focuses on methodological
+issues and challenges related to the design of mixed-method studies. The question
+of the alignment between different ontologies and different methods to be mixed will
+be also mentioned towards the end of the chapter.
+
+2
+
+As this chapter has a methodological focus, this question will not be treated.
+
+4
+
+M. Maggetti
+
+As a matter of fact, mixed-method designs are not only mushrooming but also
+evolve and come in huge variety. Consequently, countless sophisticated typologies
+of mixed methods exist. For instance, Bryman (2006a) organizes different analytical
+procedures by distinguishing between: the simultaneous or sequential processes of
+data collection; whether priority is given to qualitative or quantitative data; the
+different functions of methodological integration, e.g., explanation versus validation; and the different stages of the research process where integration could take
+place. Teddlie and Tashakkori (2006) provide a typology that features four overarching “families” of designs: sequential; concurrent; conversion – occurring when
+data in one form are transformed into another form; and fully integrated. Hesse-Biber
+(2010) speciﬁcally mentions exploratory, conﬁrmatory, and interactive mixedmethods research, that is, the practice of promoting a constant dialogue and systematic interaction between researchers working with different methods. Creswell and
+Plano Clark (2011) distinguish, among others, a parallel, a sequential and an
+embedded design. While acknowledging the importance of considering this variety,
+this chapter follows a simpler taxonomy of mixed methods. Mixed-method studies
+can be “well balanced”; however, in the empirical practice mixed-method research
+tends to be built around a foundation that is either statistics-oriented, case studyoriented, or QCA-oriented3. In other words, the combination of methods typically
+has a starting point or a core perspective that can be used to distinguish between
+varieties of mixed-method designs – at least in terms of ideal-types. Therefore, after
+presenting the general principles of mixed methods designs, the chapter proceeds by
+discussing statistics-oriented, case-oriented and QCA-based mixed methods designs.
+Their use depends on both scientiﬁc and pragmatic considerations. On the one hand,
+the choice of a design should depend on its adequacy with the research goal of a
+given study. On the other hand, it is necessarily co-determined by data availability
+and the researcher’s methodological training and competence.
+
+2
+
+General Principles of Mixed Designs
+
+Mixed-method studies are usually designed to combine methods in two distinctive
+ways: through the triangulation or through the integration of different methods.
+
+2.1
+
+Triangulation
+
+This type of research design involves the concomitant application of different
+methods to the study of the very same phenomenon. It mainly corresponds to the
+(convergent) parallel design mentioned in the previous section, but it can also be
+conducted sequentially. The “triangulation” in itself consists of the rigorous side-by3
+
+Qualitative Comparative Analysis (QCA) deserves a separate treatment as it provides a distinctive
+approach to mixing methods. Please see the chapter by Wagemann and Siewert.
+
+Mixed-Methods Designs
+
+5
+
+side comparison of different classes of data (i.e., qualitative vs. quantitative) (Webb
+et al. 1966: 181). This procedure, broadly speaking, is grounded in the idea that
+different methods shed light on different facets of empirical reality, which cannot be
+captured by single-method studies (Denzin 1973: 15). The main assumption behind
+triangulation is that the strengths of one method offset the weaknesses of another
+one. Triangulation also allows to enrich the explanation of the research problem
+under investigation and to synthesize or integrate theories that are aligned with
+particular methodologies (Jick 2008). Thereby, the independent application of different methods, when they deliver the same results, reinforces the conﬁdence in the
+explanatory model and in the validity of results (Jick 1979). This argument was
+historically the ﬁrst and continues to be a common rationale for the use of mixed
+methods (Clark and Lipset 2001). More speciﬁcally, triangulating different data
+collection methods – such as surveys, experiments and participant observation –
+allows researchers to cross-validate their evidence and reveal the presence and extent
+of measurement error, if any. The use of different methods for data analysis enables
+researchers to develop “well-validated” conclusions, e.g., by comparing statistical
+results with thematic results from in-depth interviews, or, alternatively, to take the
+required steps to understand why different methods led to different results (Creswell
+and Plano Clark 2011).
+The contribution by Ayoub et al. (2014) offers an illustration of how triangulation
+could be applied to the analysis of social movements. In a study of the diffusion of
+Lesbian, Gay, Bisexual, and Transgender (LGBT) rights, Ayoub et al. focused on the
+role of transnational channels for the diffusion of norms. In a ﬁrst step, the quantitative analysis established the relevance of cross-border connections between social
+movements. The effect of several types of diffusion channels was tested with a
+statistical analysis, showing that these connections are essential to provide organizational capacity, and, at the same time, enabling socialization processes to groups of
+LGBT activists that would otherwise lack of resources and cohesiveness. The second
+step – based on semistructured interviews with different categories of respondents
+and on participant observation in Poland and Slovenia – was mainly applied to
+conﬁrm or to question the validity of the large-N analysis, to crosscheck data using
+different sources, and to ultimately increase the robustness of ﬁndings with casebased evidence. This ﬁne-grained analysis clariﬁed the relevance of transnational
+ties for local actors, e.g., by pointing to the role of international activist meetings and
+conferences in promoting transnational LGBT activism in Europe; it also delivered
+additional information to contextualize the ﬁndings of the statistical analysis, e.g.,
+with respect to the determinants of variations in local support and opposition to
+LGBT rights. The downsides of this approach mentioned by the authors consisted in
+the length of the research process and in the ﬁnancial burdens associated with it.
+
+2.2
+
+Integration
+
+Integration refers to the explicit use of both qualitative and quantitative methods as
+non-redundant parts of a single research study. The typical approach to integration is
+
+6
+
+M. Maggetti
+
+to connect quantitative and qualitative methods at the outset, when the results of the
+ﬁrst phase are used to inform the design and data collection of the second phase, and
+ultimately produce an integrated data analysis (Clark and Lipset 2001: 40–41). The
+key difference to triangulation, which aims at comparing methods, data, and inferences, is that integration proceeds through am “inter-meshed relationship” between
+methods and/or data (Moran-Ellis et al. 2006) so as to produce a uniﬁed causal
+inference (Seawright 2016). The underlying idea is that qualitative and quantitative
+analysis can be meaningfully and productively “adjoined,” as they are ontologically
+compatible and epistemologically complementary: for instance, qualitative research
+can help scholars to build better statistical models, which in turn will strengthen
+qualitative analysis (Collier et al. 2010). This procedure typically corresponds to a
+sequential design starting with quantitative analysis and ending with a qualitative
+study or vice versa (Creswell and Plano Clark 2011). According to Seawright
+(2016), an integrative multi-method design involves the use of different methods
+to answer a single research question or to test a single hypothesis. These methods are
+sequentially combined to produce a uniﬁed causal inference, whereby one method is
+used to establish the ﬁnal inference, and the other one is applied to prepare, test,
+qualify or improve the analysis generating this inference. However, integration can
+also occur through an embedded design, whereby quantitative and qualitative
+procedures or results are combined through their joint interpretation when the stages
+of data collection and analysis have been completed (Creswell and Plano Clark
+2011).
+An example of this approach is the sequential combination of experimental
+evidence with face-to-face interviews reported by Dunning and Harrison (2010).
+In a study of cleavages and ethnic voting in Mali, the authors built up an experimental setting to isolate the effects of different dimensions of candidate identity on
+voter preferences. A number of individuals chosen randomly was exposed to
+videotaped political speeches and then asked to evaluate various attributes of the
+candidate giving the speech. The experimental manipulation consisted in the variation of the ﬁctional politician’s last name, allowing Dunning and Harrison to control
+for ethnicity and for “cousinage” – historical alliances based on shared surnames. To
+produce the ﬁnal inference, face-to-face interviews were important in many regards.
+Ex-ante interviews were used to deﬁne the population to be tested and to reﬁne the
+details of the experimental setting, while ex-post interviews were mainly used to
+interpret and extend experimental results. In short, the experiment revealed that
+ethnicity plays a relatively minor role with respect to cousinage, and interviews
+clariﬁed the motivations for the propensity to support “cousins,” namely the mutual
+conﬁdence emerging from the ability of “cousins” to warn and sanction one another.
+The main challenges of this study were related to the logistics of the ﬁeldwork and
+the application of the experimental protocol, e.g., concerning the possible discrepancy between the treatment assignment and the subjective perception of the
+assigned condition (cf. the appendix of Dunning and Harrison 2010 for an extensive
+discussion of these issues).
+After having presented these general principles, the next three sections go into the
+details of statistics-oriented, case-oriented and QCA-based mixed-methods designs.
+
+Mixed-Methods Designs
+
+3
+
+7
+
+Statistics-Oriented Mixed Designs
+
+In this type of design, statistical analysis plays a prominent role, while other methods
+are used to complement or to reﬁne the analysis, either by purposively selecting
+cases to be studied in-depth or through random case selection. The former procedure
+is much more common in the practice of empirical research, but the latter deserves to
+be mentioned, as it implies a quite different logic of mixing methods.
+
+3.1
+
+Statistics and Purposive Case Selection
+
+The most prominent research design of this type is the so-called “nested design”
+(Lieberman 2005), which is sequential and integrative. The standard nested design is
+as follows: First, statistical analysis is applied to a large sample in order to identify
+correlations and to test some preliminary explanatory models. Then, this ﬁrst step is
+used to inform the case selection for in-depth research, whose aim is to test and
+validate the statistical analysis, or, alternatively, to understand why the results of the
+quantitative analysis are unsatisfactory and to produce new theoretical insights that
+could be used to improve the models. This is done through the close examination of
+typical cases and outliers. Typical cases – those well predicted by the statistical
+model – can be studied qualitatively to reinforce conﬁdence in the explanatory
+model, namely through the identiﬁcation of process-tracing evidence leading from
+the cause to the effect of interest. Lieberman (2005) also recommends enhancing
+analytical leverage by maximising variation on the key explanatory variables.
+Instead, the study of outliers is particularly helpful to improve the theoretical
+framework and model-building when the preliminary statistical analysis did not
+yield conclusive results. In this case, the goal is to account for patterns of variations
+in the outcome. Therefore, unlike the previous strategy, case selection must refer to
+the dependent variable. Another variety of nested design to be mentioned is casestudy based. The basic principle is to start with an exploratory within-case analysis
+and then seek to develop a general model to be tested with a large-N analysis
+(Rohlﬁng 2008).
+An example of nested strategy can be found in Coppedge (2005). His study
+provides an explanation of the democratic deterioration of Venezuela using a
+combination of case study and quantitative analysis. First, the author situated
+Venezuela in a comparative historical perspective, estimated the impact of several
+explanatory factors, and identiﬁed the points that were not well explained by these
+general factors. Secondly, he applied case study methods to provide additional
+explanations for these residuals. Thereby, the explanatory model built around
+macro-level arguments about the economic decline and the growth of corruption in
+an oil-based economy was complemented with ﬁne-grained evidence about the
+responsibility of political parties and civil-military relations. The application of a
+mixed-method perspective allowed the author to concentrate his in-depth research on
+the cases that were the most theoretically fruitful, and at the same time to make sense
+
+8
+
+M. Maggetti
+
+of unexplained variance in the statistical analysis, which would have been otherwise
+treated as “noise.”
+
+3.2
+
+Statistics and Random Case Selection
+
+Statistics and case selection can also be combined in a sequence where the former is
+used to identify empirical regularities and the latter to assess the competing explanations of these regularities. The strategy to achieve this type of research design is
+close to the general principle of triangulation. The key principle is the random
+selection of cases for post-estimation narrative development (Fearon and Laitin
+2008). This means that cases – considered as narrative accounts of the process
+leading to the outcome with a special focus on the proposed causal factors – are
+selected from a list of pertinent instances through a random number generator. In this
+way, the researcher is expected to be protected against systematic bias in case
+selection. At the same time, stratiﬁcation can be used to improve the representativeness of the selected cases. Through this procedure, it is possible to assess the
+plausibility of statistical regularities and in particular to discriminate between observationally equivalent statements. Afterwards, the researcher can come back to the
+large-N analysis with new insights and reﬁne the analysis. However, given the
+requirements of random selection, this method is only suitable when the cases to
+be studied in-depth correspond themselves to a medium-N sample.
+
+4
+
+Case Studies-Oriented Mixed Designs
+
+A case study is “an intensive study of a single case or a small number of cases which
+draws on observational data and promises to shed light on a larger population of
+cases” (Gerring 2017a: 28). As case study research is usually based on rich empirical
+data, it displays a huge propensity for the use of mixed methods (Kitchenham 2010),
+so as to extend and generalize the ﬁndings from in-depth research, or, conversely, to
+guide the selection of speciﬁc cases to be investigated in detail. The main varieties of
+case study research to be considered are those based on the analysis of variations and
+those based on the analysis of mechanisms.
+
+4.1
+
+Within-Case and Cross-Case Analysis
+
+A ﬁrst variety of case-oriented mixed-method studies is built around a case study
+whose purpose is to analyze within-case variation, that is, variation at the level of
+subunits and/or over time (Gerring 2017a, b), combined with cross-case analysis
+aiming at extending and generalizing the argument to a larger population. A possible
+research strategy is to start with an inductive “seminal” case study that explores the
+relevant variables and hypotheses, and then move forward with a large-N analysis.
+An extreme variant of this strategy can be found in the “grounded theory” approach,
+
+Mixed-Methods Designs
+
+9
+
+which aims at generating theory from the inductive accumulation of data, without
+prior knowledge (Glaser 1998, Strauss and Corbin 1997). Another research strategy
+– which is probably more common in political research – is to systematically select
+cases from a preliminary large-N analysis or from a pre-existing sample, and then
+undertake an in-depth within-case study. Speciﬁcally, it is possible to maximize
+analytical leverage through the selection of “special” cases with respect to a broader
+population (Maggetti et al. 2013). Seawright and Gerring (2008) mention a number
+of cases providing distinctive analytical leverage: typical cases, extreme cases,
+deviant cases, and crucial cases (cf. Kühn in this volume for an extensive presentation). The ﬁrst can be considered a representative instance of a theoretically sound,
+empirically robust cross-case relationship. Extreme cases are those that display
+extreme values on the independent and/or dependent variables, while deviant ones
+are those presenting anomalies with respect to a model or an expected relationship.
+Crucial cases correspond to most-likely cases, which could be used to disconﬁrm or
+challenge theory-based hypotheses, and to least-likely cases, which provide support
+to conﬁrm or corroborate them. The former are cases that, on all dimensions except
+the variable of interest, should predict a given outcome, and yet the outcome does not
+occur, while the latter refers to cases where, on all the dimensions except the variable
+of interest, the outcome is predicted not to occur and yet it does so.
+Levy (2008a) refers to Allison’s (1971) famous study of decision-making during
+the Cuban missile crisis as a good example of a crucial case design. In his application, Allison framed the crisis as a most-likely case for a rational unity actor model,
+and respectively, as a least-likely case for alternative explanations based on organizational and governmental politics factors. Then, he showed that evidence contradicted predictions based on the former model while ﬁtting with those based on the
+latter, providing thus a strong argument in favor of the generalizability of organizational and governmental politics models for explaining foreign policy decisionmaking. This example clearly shows that the study of “special cases” is a productive
+mixed methodology – even though some methodological contributions would not
+treat it explicitly as such. Indeed, the inferential logic of special cases analysis
+requires a careful and systematic procedure of case selection based on large-N
+cross-case knowledge, which is usually derived from previous studies, but can also
+originate from a previous ﬁrst-hand research.
+
+4.2
+
+Mechanisms
+
+A second version of case-oriented mixed methods is explicitly focused on the study
+of mechanisms. Following Goertz (2017), the core idea of this design is to provide an
+explanation of individual outcomes along with more general causal effects identiﬁed
+through cross-case research. This could be done speciﬁcally through process tracing
+(cf. Beach in this volume) or through the application of counterfactual reasoning.
+Both methods are typically used ex-post, that is, after cross-case studies, and should
+thereby be considered as mixed methods. In other words: the ﬁnal inference derives
+from the conjunction between the insights of macro-comparative cross-case studies –
+
+10
+
+M. Maggetti
+
+that usually rely on statistical analysis, but also on Qualitative Comparative Analysis
+(QCA) – and the insights derived from the analysis of the underlying mechanisms.
+The goal of process tracing is to identify the causal mechanisms at work by
+examining in detail each step of the causal sequence that connects so-called distal
+causes (i.e., remote, structural explanatory factors) with the explanandum. The
+researcher should act like a detective, by collecting small pieces of evidence and
+looking for traces of the hypothesized causal connections within the case under
+examination (George and Bennett 2005). A causal mechanism is found when each
+micro-linkage of the causal chain is established and the whole sequence leads
+coherently and systematically from the cause to the ﬁnal effect. Process tracing
+could also allow researchers to deal with micro-macro transitions, which represent
+one of the most intractable problems in social causal theory, due to the very high
+number of intervening variables and the intricate epistemological foundations of this
+kind of inference (Sawyer 2003; Coleman 1990). As an example of its mixedmethod character, process tracing can be applied to examine complex causal mechanisms as those hypothesized following a large-N analysis of civil wars focusing on
+patterns of transnational diffusion (Bennett and Checkel 2014). The ﬁne-grained
+analysis of sequences of explanatory factors can unveil the causal mechanisms
+triggering diffusion in the larger population of cases, such as framing, resource
+mobilization and social learning (Levy 2015).
+Counterfactual reasoning is a procedure to examine causes as necessary conditions for their effects, assuming that, if a given cause had not occurred, then also its
+effect would not have occurred (Woodward and Hitchcock 2003). To sustain this
+type of proposition, counterfactual reasoning in its purest form corresponds to
+thought experiments that should satisfy the scientiﬁc standards of logical consistency, theoretical validity, and empirical consistency, plus two more speciﬁc criteria:
+the minimal-rewrite rule and the projectability of implications (Tetlock and Belkin
+1996). According to the former, the counterfactual scenario in which the cause does
+not occur and therefore the effect is also absent must be the closest possible to the
+real world where both do occur, and, importantly, it must be closer to it than any
+alternative scenario where the cause does not occur but the effect does (Woodward
+and Hitchcock 2003). The latter refers to the possibility of deriving observable
+implications from the counterfactual scenario and then assess their plausibility
+according to contextual historical knowledge. As an example, speculations about
+the occurrence of World War I if Gavrilo Princip had not shot dead the Austrian
+Archduke Franz Ferdinand in Sarajevo on 28 June 1914 are consistent with this
+procedure (Lebow 2000). Counterfactual reasoning – based on non-trivial and
+plausible counterfactual statements (Mahoney and Barrenechea 2016) – can be used
+as a mixed methodology when counterfactuals are employed for examining causality
+in “historical” case studies, especially in those that postulate the occurrence of
+necessary conditions (Levy 2015, 2008b).
+
+Mixed-Methods Designs
+
+5
+
+11
+
+QCA-Based Mixed Design
+
+QCA, in a nutshell, is a family of conﬁgurational set-theoretic methods for the
+systematic analysis of causal complexity in terms of necessity and sufﬁciency
+(cf. Wagemann and Siewert in this volume). Although they are rarely acknowledged
+as such in mixed-method textbooks, they provide a distinctive contribution to mixed
+methodology.
+
+5.1
+
+QCA as Mixed Methodology
+
+QCA has been developed by Charles Ragin and, later, by other colleagues (Rihoux
+and Ragin 2008; Ragin 1987; Schneider and Wagemann 2012; Thiem and Dusa
+2013) with the explicit aim of transcending the quantitative–qualitative divide by
+bridging case orientation with the capacity of pinpointing cross-case patterns. In this
+sense, it can be considered as a mixed method per se. This is also the reason why it is
+discussed here as a separate approach to mixed methods. More speciﬁcally, QCA
+aims at combining the advantages of case-oriented qualitative studies in terms of
+in-depth knowledge of cases and attention to multiple, singular, or deviant patterns
+of causation, with the precision, transparency and systematic accuracy of a variableoriented quantitative approach (Rihoux 2006). QCA can be conceived as both a
+technique and an approach (Schneider and Wagemann 2010). The QCA technique
+relates to the analytical procedure based on the construction of truth tables and on
+logical minimization through dedicated algorithms, whereas QCA as an approach
+“refers to the processes before and after the analysis of the data, such as the (re-)
+collection of data, (re-)deﬁnition of the case selection criteria, or (re-)speciﬁcation of
+concepts” (Schneider and Wagemann 2012: 11). The mixed method orientation of
+QCA per se resides in QCA regarded as an approach, that is, in the inescapable
+“dialogue between ideas and evidence” that precedes and follows the “analytic
+moment” (Ragin 2008).
+
+5.2
+
+QCA and Case Studies
+
+In addition of being an approach that incorporates both qualitative and quantitative
+insights, a QCA study can be combined with case studies to be executed before, or,
+more frequently, after the analysis. The ﬁrst main variant of this mixed method
+strategy is a case study after a QCA analysis of necessity (Rohlﬁng and Schneider
+2013). In this context, typical cases to be selected are those that conform the most to
+the set-theoretic relation of in interest, that is, that have full membership both in the
+necessary condition and in the outcome. In an example reported by Schneider and
+Rohlﬁng (2013) focusing on the determinants of incremental trade policy change in
+Central and Latin American countries between 1970 and the early 2000s, the
+condition “positive growth” is close to the threshold for being considered necessary.
+In that regard, Peru (1985–1990) is a typical case, as it has a very high degree of
+
+12
+
+M. Maggetti
+
+membership both in the condition and in the outcome. The “most deviant” cases,
+instead, are those with full membership in the outcome but not in the necessary
+condition. This is indeed a peculiar situation, as necessary conditions are by deﬁnition those that need to be always present for an outcome to occur. The second main
+variant pertains to the analysis of sufﬁciency (Schneider and Rohlﬁng 2016). Similar
+to the previous one, typical cases are those that have full membership in the sufﬁcient
+term and in the outcome, representing the best possible empirical instance for
+explaining how the term leads to the outcome. Conversely, the ideal deviant case
+is one that has full membership in the sufﬁcient term, but no membership in the
+outcome. This is at odds with the deﬁnition of sufﬁciency, which implies that the
+outcome is always present when the sufﬁcient term is present. This research strategy
+is truly mixed as it combines in a uniﬁed analytical framework cross-case inferences
+– from QCA – with within-case inferences – from case studies.
+
+6
+
+Advantages and Limitations of Mixed Designs
+
+Some distinctive advantages of mixed method designs have been mentioned in the
+introduction, namely the possibility of combining the respective strength of qualitative and quantitative analytical procedures, that is, in-depth case knowledge with
+generalizable insights derived from cross-case evidence. In addition, mixed methods
+are supposed to provide (more) valid and reliable results as evidence originates from
+different sources and ﬁndings are based on separate analytical procedures (Creswell
+2013). However, they also come with a number of limitations (Teddlie and Tashakkori 2003; Malina et al. 2011), which can be subsumed under the following three
+broad categories: incompatible ontological and epistemological assumptions, conceptual heterogeneity, and practical and logistical concerns.
+First, some scholars have pointed to the fact that qualitative and quantitative
+methods are based on incompatible assumptions, and therefore cannot be meaningfully mixed in a single inferential framework. For instance, Beck (2006) argued
+that qualitative data cannot be properly “adjoined” to data set observations, that is,
+that the former do not provide additional leverage for improving inference derived
+from the analysis of the latter. This criticism has been successfully rebutted by
+observing that qualitative and quantitative methods are not used to answer to exactly
+the same question, and therefore should not be directly compared; instead, they
+should be combined by using their respective strengths in a complementary way
+(Seawright 2016, Collier et al. 2010). However, it is important to recognize that, in
+order to be able to reconcile different methods in a uniﬁed framework, researchers
+should be ready to relax some ontological and/or epistemological postulates underlying each research tradition, by adopting a certain degree of analytical eclecticism
+(Sil 2004). For instance, mixing methods may require accounting for both probabilistic and deterministic causal relations, albeit at different levels of analysis.
+Second, as a matter of fact, there is still little agreement about terminology and
+key concepts. Typologies of mixed-methods designs are indeed numerous, extensive, and very diverse (Johnson and Onwuegbuzie 2004; Tashakkori and Creswell
+
+Mixed-Methods Designs
+
+13
+
+2007; Leech and Onwuegbuzie 2009). The expression “mixed methods” itself is
+used to convey different meanings, such as: the use of two or more methods, no
+matter if qualitative or quantitative, in a single research study; the use of both
+qualitative and quantitative methods in a research project; the combination of
+qualitative and quantitative methods in a given study to produce a uniﬁed inference;
+and even the use of different methods in multiple studies within a common overarching framework. Variety is certainly fruitful to promote pluralism and innovation.
+However, an excessive heterogeneity may limit the potential for communication and
+coherent methodological development.
+Third, mixing methods implies practical and logistics concerns. These concerns
+include the time and effort required by learning, mastering and applying different
+methods, and the difﬁculty of condensing a composite research design within the
+word limits required by most journals. At the end of the day, designing research
+necessarily implies a number of trade-offs (Maggetti et al. 2013). These trade-offs
+correspond to choices between mixed and non-mixed designs, and between different
+types of mixed methods. The right balance cannot be decided ex-ante, but should be
+struck by each researcher making coherent, transparent choices in accordance with
+her research questions and research goals, as well as by considering practical
+concerns.
+
+7
+
+Conclusion
+
+Mixed methods are a powerful means to design research that combines the respective strengths of qualitative and quantitative analytical procedures, for which the
+whole is expected to be more than the sum of its parts. The advantages of qualitative
+research are in-depth case knowledge and a focus on complex causation, while
+quantitative research excels in identifying cross-case causal relations that can be
+generalized to some extent. A successful mixed design should enable researchers
+either to cross-validate their evidence and strengthen the validity of their ﬁndings
+(by triangulating different methods), or to produce richer causal inferences under a
+uniﬁed analytical framework (through the integration of methods).
+Different strategies are possible, depending on the research goal of a given study,
+but also following data availability and the researcher’s background in data analysis.
+Three variants of mixed method studies have been discussed: statistics-oriented,
+case-oriented, and QCA-based mixed-methods designs. The ﬁrst mainly aims at
+building, validating or reﬁning a statistical model through purposive or random case
+selection for in-depth case study. The goal of the second is to analyse special cases
+derived from previous large-N analysis to understand within-case dynamics and to
+uncover the causal mechanisms at work. Thirdly, while being considered a mixed
+methodology per se, QCA as an approach could also be combined with case studies
+to examine cases that display a typical or, respectively, a deviant pattern, and
+therefore make the most of the “dialogue between ideas and evidence” (Ragin
+2008), that lies at the heart of QCA.
+
+14
+
+M. Maggetti
+
+Mixing methods comes at a cost, as their application requires to relax a number of
+ontological and epistemological assumptions, as their conceptual foundations are
+consolidated only to a certain extent, and as they imply practical and logistics
+concerns. On the other hand, besides providing additional analytical leverage – a
+crucial beneﬁt that alone could justify the use of this type of design – mixed methods
+also have the merits of bringing paradigmatic wars to an end, or at least of giving
+peace a chance. Moreover, they are in line with current developments in the conduct
+of research in the social sciences, where projects are more and more accomplished in
+collaborative teams wherein methodological competencies can be pooled and exchanged in a virtuous way.
+
+8
+
+Selected Literature
+
+The following references provide general introductions to mixed-methods: The fourvolume set by Bryman (2006b) provides a wide coverage of the epistemological and
+ontological debates surrounding quantitative and qualitative research, the combination of different methods within quantitative research and within qualitative
+research, the main methodological issues involved in combining quantitative and
+qualitative research, and the different ways in which mixed-methods research is
+practically achieved, including several examples. A very good introductory handbook is Tashakkori and Teddlie (2010) who surveys different perspectives and
+approaches to mixed methods. It also discusses the strengths and weaknesses of
+mixed-methods designs, provides guidance for collaborative research, and offers
+many examples in a vast array of disciplines, e.g., health sciences, education, nursing
+and psychology. The book by Creswell (2013) presents and compares qualitative,
+quantitative, and mixed-methods research designs. It starts with their underlying
+philosophical assumptions and then it discusses the key elements of their respective
+research processes, including practical and ethical questions. A similarly volume is
+provided by Plano Clark and Ivankova (2015) which introduces an applied approach
+to mixed-methods research and elaborates on the different perspectives, deﬁnitions
+and variants of mixed-method designs.
+New mixed-methods introductions with a focus on political sciences are the
+volumes by Seawright and Goertz. The book by Seawright (2016) provides a
+systematic approach for the design of multi-method research. The main argument
+is that methods – including regression, matching, and natural experiments, and,
+respectively, process tracing, the use of causal process observations, and comparative case study research – can be fruitfully combined thorough an integrative
+framework in order to produce a uniﬁed causal inference. Goertz (2017) offers a
+comprehensive approach to multimethod and case-study research, with a special
+attention to qualitative methods. The author proposes a systematic, integrated
+approach based on the interplay between the study of causal mechanisms, crosscase causal inference, and within-case causal inference.
+
+Mixed-Methods Designs
+
+15
+
+References
+Allison, Graham Tillett. 1971. Essence of decision: Explaining the Cuban missile crisis. Boston:
+Little, Brown and Company.
+Ayoub, Phillip M, Sophia Wallace, and Chris Zepeda-Millán. 2014. Triangulation in social movement research. In Della Porta, D. (Ed.), Methodological practices in social movement research
+(pp. 67–96). Oxford, UK: Oxford University Press.
+Beck, Nathaniel. 2006. Is causal-process observation an oxymoron? Political Analysis 14(3):
+347–352.
+Bennett, Andrew, and Jeffrey T Checkel. 2014. Process tracing: From metaphor to analytic tool.
+Cambridge: Cambridge University Press.
+Brady, Henry. E., David Collier, and Jason Seawright. 2006. Toward a pluralistic vision of
+methodology. Political Analysis 14(3): 353–368.
+Bryman, Alan. 2006a. Integrating quantitative and qualitative research: How is it done? Qualitative
+Research 6(1): 97–113.
+Bryman, Alan. 2006b. Mixed methods. Thousand Oaks: Sage.
+Bryman, Alan. 2008. The end of the paradigm wars?, In Alasuutari P, Bickman L and Brannen J
+eds. The SAGE Handbook of Social Research Methods, Sage, London, pp. 13–25.
+Clark, Terry Nichols, and Seymour Martin Lipset, eds. 2001. The breakdown of class politics. A
+debate on post-industrial stratiﬁcation. Baltimore: Johns Hopkins Press.
+Coleman, James S. 1990. Foundations of social theory. Cambridge, MA/London: Harvard University Press.
+Collier, David, Henry E Brady, and Jason Seawright. 2010. Outdated views of qualitative methods:
+time to move on. Political Analysis 18(4): 506–513.
+Coppedge, Michael. 2005. Explaining democratic deterioration in Venezuela through nested inference. In The third wave of democratization in Latin America, eds. Frances Hagopian and Scott
+Mainwaring, 289–316. Cambridge: Cambridge University Press.
+Creswell, John W. 2013. Research design: Qualitative, quantitative, and mixed methods approaches. Thousand Oaks: Sage.
+Creswell, John W. 2014. A concise introduction to mixed methods research. Thousand Oaks: Sage.
+Creswell, John W, and Vicki L Plano Clark. 2011. Designing and conducting mixed methods
+research. Thousand Oaks: Sage.
+Denzin, Norman K. 1973. The research act: A theoretical introduction to sociological methods.
+Piscataway: Transaction publishers.
+Denzin, Norman K, and Yvonna S Lincoln. 2011. The Sage handbook of qualitative research.
+Thousand Oaks: Sage.
+Dunning, Thad, and Lauren Harrison. 2010. Cross-cutting cleavages and ethnic voting: An experimental study of cousinage in Mali. American Political Science Review 104(1): 21–39.
+Fearon, James D, and David D Laitin. 2008. Integrating Qualitative and Quantitative Methods. In
+Janet Box-Steffensmeier, Henry Brady, and David Collier, eds. Oxford Handbook of Political
+Methodology. New York: Oxford University Press, pp. 756–76.
+Feilzer, Martina Yvonne. 2010. Doing mixed methods research pragmatically: Implications for the
+rediscovery of pragmatism as a research paradigm. Journal of Mixed Methods Research 4(1):
+6–16.
+George, Alexander L., and Andrew Bennett. 2005. Case studies and theory development in the
+social sciences. Cambridge, MA: MIT Press.
+Gerring, John. 2004. What is a case study and what is it good for? American Political Science
+Review 98(02): 341–354.
+Gerring, John. 2017a. Case study research: Principles and practices, 2nd ed. Cambridge: Cambridge University Press.
+Gerring, John. 2017b. Qualitative methods. Annual Review of Political Science 20: 15–36.
+
+16
+
+M. Maggetti
+
+Giraud, Olivier, and Martino Maggetti. 2015. Methodological pluralism. In Braun, Dietmar and
+Martino Maggetti (Ed.) Comparative Politics: Theoretical and Methodological Challenges, eds.
+Cheltenham, UK: Edward Elgar Publishing, pp. 125–153.
+Given, Lisa M. 2008. The Sage encyclopedia of qualitative research methods. Thousand Oaks:
+Sage.
+Glaser, Barney G. 1998. Doing grounded theory: Issues and discussions. Mill Valley: Sociology
+Press.
+Goertz, Gary. 2017. Multimethod research, causal mechanisms, and case studies: An integrated
+approach. Princeton: Princeton University Press.
+Greene, Jennifer C, Valerie J Caracelli, and Wendy F Graham. 1989. Toward a conceptual
+framework for mixed-method evaluation designs. Educational Evaluation and Policy Analysis
+11(3): 255–274.
+Hedström, Peter, and Petri Ylikoski. 2010. Causal mechanisms in the social sciences. Annual
+Review of Sociology 36: 49–67.
+Hesse-Biber, Sharlene Nagy. 2010. Mixed methods research: Merging theory with practice.
+New York: The Guilford Press.
+Jick, Todd D. 1979. Mixing qualitative and quantitative methods: Triangulation in action. Administrative Science Quarterly 24(4): 602–611.
+Jick, Todd D. 2008. Triangulation as the ﬁrst mixed methods design. In The mixed methods reader,
+eds. Vicki L. Plano Clark and John W. Cresswell, 105–118. Thousand Oaks: Sage.
+Johnson, R. Burke, and Anthony J. Onwuegbuzie. 2004. Mixed methods research: A research
+paradigm whose time has come. Educational Researcher 33(7): 14–26.
+Johnson, R. Burke, Anthony J. Onwuegbuzie, and Lisa A. Turner. 2007. Toward a deﬁnition of
+mixed methods research. Journal of Mixed Methods Research 1(2): 112–133.
+Kitchenham, Andrew D. 2010. Mixed methods in case study research. In Encyclopedia of case
+study research, eds. AJ Mills, G Durepos, and E Wiebe, vol. 1, 561–563. Thousand Oaks: Sage.
+Lebow, Richard N. 2000. What’s so different about a counterfactual? World Politics 52(4):
+550–585.
+Leech, Nancy L, and Anthony J Onwuegbuzie. 2009. A typology of mixed methods research
+designs. Quality & Quantity 43(2): 265–275.
+Levy, Jack S. 2008a. Case studies: Types, designs, and logics of inference. Conﬂict Management
+and Peace Science 25(1): 1–18.
+Levy, Jack S. 2008b. Counterfactuals and Case Studies. In The Oxford Handbook of Political
+Methodology, ed. Box-Steffensmeier, Janet M, Brady, Henry E and Collier David, 627–44.
+New York: Oxford University Press.
+Levy, Jack S. 2015. Counterfactuals, causal inference, and historical analysis. Security Studies
+24(3): 378–402.
+Lieberman, Evan S. 2005. Nested analysis as a mixed-method strategy for comparative research.
+American Political Science Review 99(3): 435–451.
+Maggetti, Martino, Fabrizio Gilardi, and Claudio M. Radaelli. 2013. Designing research in the
+social sciences. London: Sage.
+Mahoney, James, and Rodrigo Barrenechea. 2016. The logic of counterfactual analysis in casestudy explanation. The British Journal of Sociology.
+Mahoney, James, and Gary Goertz. 2006. A tale of two cultures: Contrasting quantitative and
+qualitative research. Political Analysis 14(3): 227–249.
+Malina, Mary A, Hanne SO Nørreklit, and Frank H Selto. 2011. Lessons learned: Advantages and
+disadvantages of mixed method research. Qualitative Research in Accounting & Management
+8(1): 59–71.
+Moran-Ellis, Jo, Victoria D Alexander, Ann Cronin, Mary Dickinson, Jane Fielding, Judith Sleney,
+and Hilary Thomas. 2006. Triangulation and integration: Processes, claims and implications.
+Qualitative Research 6(1): 45–59.
+
+Mixed-Methods Designs
+
+17
+
+Morgan, David L. 2007. Paradigms lost and pragmatism regained: Methodological implications of
+combining qualitative and quantitative methods. Journal of Mixed Methods Research 1(1):
+48–76.
+Olsen, Wendy. 2004. Triangulation in social research: Qualitative and quantitative methods can
+really be mixed. Developments in sociology 20: 103–118.
+Plano Clark, Vicki L, and Nataliya V Ivankova. 2015. Mixed methods research: A guide to the ﬁeld.
+Thousand Oaks: Sage.
+Ragin, Charles C. 1987. The comparative method : Moving beyond qualitative and quantitative
+strategies. Berkeley: University of California Press.
+Ragin, Charles C. 2008. Redesigning social inquiry: Fuzzy sets and beyond. Chicago: University of
+Chicago Press.
+Rihoux, Benoit. 2006. Qualitative comparative analysis (QCA) and related systematic comparative
+methods: Recent advances and remaining challenges for social science research. International
+Sociology 21(5): 679–706.
+Rihoux, Benoit, and Charles C. Ragin. 2008. Conﬁgurational comparative methods. Qualitative
+comparative analysis (QCA) and related techniques. Thousand Oaks/London: Sage.
+Rohlﬁng, Ingo. 2008. What you see and what you get: Pitfalls and principles of nested analysis in
+comparative research. Comparative Political Studies 41(11): 1492–1514.
+Rohlﬁng, Ingo, and Carsten Q. Schneider. 2013. Improving research on necessary conditions:
+Formalized case selection for process tracing after QCA. Political Research Quarterly 66(1):
+220–235.
+Sartori, Giovanni. 1993. Totalitarianism, model mania and learning from error. Journal of Theoretical Politics 5(1): 5–22.
+Sawyer, R. Keith. 2003. Artiﬁcial societies: Multiagent systems and the micro-macro link in
+sociological theory. Sociological Methods & Research 31(3): 325–363.
+Schneider, Carsten Q., and Ingo Rohlﬁng. 2013. Combining QCA and process tracing in
+set-theoretic multi-method research. Sociological Methods & Research 42(4): 559–597.
+Schneider, Carsten Q., and Ingo Rohlﬁng. 2016. Case studies nested in fuzzy-set QCA on
+sufﬁciency: formalizing case selection and causal inference. Sociological Methods & Research
+45(3): 526–568.
+Schneider, Carsten Q., and C Wagemann. 2010. Standards of good practice in qualitative comparative analysis (QCA) and fuzzy-s. Comparative Sociology 9(3): 397–418.
+Schneider, Carsten Q., and Claudius Wagemann. 2012. Set-theoretic methods for the social
+sciences: A guide to qualitative comparative analysis. Cambridge: Cambridge University Press.
+Schram, Sanford F., Bent Flyvbjerg, and Todd Landman. 2013. Political political science:
+A phronetic approach. New Political Science 35(3): 359–372.
+Seawright, Jason. 2016. Multi-method social science: Combining qualitative and quantitative tools,
+Cambridge: Cambridge University Press.
+Seawright, Jason, and John Gerring. 2008. Case selection techniques in case study research:
+A menu of qualitative and quantitative options. Political Research Quarterly 61(2): 294–307.
+Sil, Rudra. 2004. Problems chasing methods or methods chasing problems? Research communities,
+constrained pluralism, and the role of eclecticism. In Problems and methods in the study of
+politics, eds. Ian Shapiro, Roger M. Smith and Tarek E. Masoud. Cambridge: Cambridge
+University Press.
+Strauss, Anselm, and Juliet M Corbin. 1997. Grounded theory in practice. Thousand Oaks: Sage.
+Tashakkori, Abbas, and John W Creswell. 2007. The new era of mixed methods. Thousand Oaks:
+Sage.
+Tashakkori, Abbas, and Charles Teddlie. 2010. Handbook of mixed method research in the social
+and behavioral sciences. Thousand Oaks: Sage.
+Teddlie, Charles, and Abbas Tashakkori. 2003. Major issues and controveries inthe use of mixed
+methods in the social and behvioral sciences. In Handbook of mixed methods in social &
+behavioral research, eds. Abbas Tashakkori and Charles Teddlie, 3–50. Thousand Oaks: Sage.
+
+18
+
+M. Maggetti
+
+Teddlie, Charles, and Abbas Tashakkori. 2006. A general typology of research designs featuring
+mixed methods. Research in the Schools 13(1): 12–28.
+Teddlie, Charles, and Fen Yu. 2007. Mixed methods sampling: A typology with examples. Journal
+of Mixed Methods Research 1(1): 77–100.
+Tetlock, Philip E., and Aaron Belkin. 1996. Counterfactual thought experiments in world politics:
+Logical, methodological, and psychological perspectives. Princeton: Princeton University
+Press.
+Thiem, Alrik, and Adrian Dusa. 2013. Qualitative comparative analysis with R: A user’s guide, Vol. 5.
+New York: Springer Science & Business Media.
+Webb, Eugene J., Donald Thomas Campbell, Richard D. Schwartz, and Lee Sechrest. 1966.
+Unobtrusive measures: Nonreactive research in the social sciences, Vol. 111. Chicago: Rand
+McNally.
+Woodward, James, and Christopher Hitchcock. 2003. Explanatory generalizations, part I:
+A counterfactual account. Noûs 37(1): 1–24.
+
+
